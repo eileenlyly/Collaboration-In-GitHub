@@ -1,0 +1,532 @@
+PQID,CMT,UNM,CAT,Year,Month,Day
+90857,3,Christopher Slowe,M,2008,6,18
+90889,3,spez,M,2008,6,20
+90605,9,David King,M,2008,6,30
+90606,4,David King,M,2008,7,3
+90771,4,Jeremy Edberg,M,2008,7,24
+90890,3,spez,M,2008,7,24
+90858,16,Christopher Slowe,M,2008,7,30
+90607,7,David King,M,2008,8,27
+90859,4,Christopher Slowe,M,2008,8,28
+90772,8,Jeremy Edberg,M,2008,9,24
+90860,9,Christopher Slowe,M,2008,9,26
+90891,14,spez,M,2008,9,30
+90608,15,David King,M,2008,9,30
+90609,3,David King,M,2008,10,6
+90773,3,Jeremy Edberg,M,2008,10,15
+90861,11,Christopher Slowe,M,2008,10,24
+90892,14,spez,M,2008,10,29
+90893,12,spez,M,2008,11,19
+90610,6,David King,M,2008,11,20
+90894,4,spez,M,2008,12,16
+90611,9,David King,M,2008,12,17
+90895,5,spez,M,2009,1,28
+90862,10,Christopher Slowe,M,2009,1,29
+90774,1,Jeremy Edberg,M,2009,2,6
+90863,10,Christopher Slowe,M,2009,2,19
+90877,1,Mike,M,2009,2,24
+90896,13,spez,M,2009,2,24
+90612,7,David King,M,2009,2,27
+90613,3,David King,M,2009,3,11
+90864,11,Christopher Slowe,M,2009,3,19
+90897,8,spez,M,2009,3,25
+90775,3,Jeremy Edberg,M,2009,3,25
+90878,3,Mike,M,2009,4,10
+90898,2,spez,M,2009,4,17
+90614,1,David King,M,2009,4,25
+90865,3,Christopher Slowe,M,2009,4,27
+90776,3,Jeremy Edberg,M,2009,4,29
+90879,5,Mike,M,2009,5,15
+90866,12,Christopher Slowe,M,2009,5,26
+90615,6,David King,M,2009,5,29
+90899,7,spez,M,2009,5,30
+90900,13,spez,M,2009,6,22
+90616,3,David King,M,2009,6,24
+90880,9,Mike,M,2009,6,26
+90867,7,Christopher Slowe,M,2009,6,29
+90881,7,Mike,M,2009,7,16
+90868,18,Christopher Slowe,M,2009,7,22
+90617,15,David King,M,2009,7,31
+90901,6,spez,M,2009,7,31
+90777,1,Jeremy Edberg,M,2009,8,6
+90618,3,David King,M,2009,8,11
+90869,2,Christopher Slowe,M,2009,8,12
+90870,1,Christopher Slowe,M,2009,12,1
+90619,2,David King,M,2010,5,3
+90882,1,Mike,M,2010,5,3
+90778,2,Jeremy Edberg,M,2010,5,17
+90871,5,Christopher Slowe,M,2010,5,28
+90872,2,Christopher Slowe,M,2010,6,25
+90620,1,David King,M,2010,7,21
+42146,5,David King,O,2010,10,18
+42147,7,David King,O,2010,10,18
+42148,5,David King,O,2010,10,18
+42125,19,Robert Tyler Nielson,O,2010,10,20
+42129,5,Robert Tyler Nielson,O,2010,10,20
+90681,1,Max Goodman,M,2010,10,20
+42072,20,Robert Tyler Nielson,O,2010,10,20
+90625,1,Robert Tyler Nielson,M,2010,10,27
+90621,1,David King,M,2011,2,23
+90555,3,Neil Williams,M,2011,4,27
+90682,26,Max Goodman,M,2011,5,18
+90515,2,Andre d,M,2011,5,19
+42086,1,Andre d,O,2011,5,19
+42085,1,Andre d,O,2011,5,20
+42084,1,Andre d,O,2011,5,20
+90556,7,Neil Williams,M,2011,5,25
+90622,1,David King,M,2011,5,26
+90557,15,Neil Williams,M,2011,6,9
+90626,1,Robert Tyler Nielson,M,2011,6,14
+42079,7,Brian Simpson,O,2011,6,14
+42075,2,Logan Hanks,O,2011,6,14
+42077,3,Logan Hanks,O,2011,6,14
+42074,1,Logan Hanks,O,2011,6,16
+90629,2,Brian Simpson,M,2011,6,16
+90803,4,Keith Mitchell,M,2011,6,17
+90656,7,Logan Hanks,M,2011,6,21
+90824,1,Jason Harvey,M,2011,6,28
+90842,2,Jeff Sandberg,M,2011,6,28
+42070,4,aperson,O,2011,6,29
+41944,8,aperson,O,2011,6,29
+90683,32,Max Goodman,M,2011,6,29
+90759,1,aperson,M,2011,6,29
+90804,9,Keith Mitchell,M,2011,7,7
+90627,1,Robert Tyler Nielson,M,2011,7,11
+44130,3,Robert Tyler Nielson,O,2011,7,11
+42071,1,Brian Simpson,O,2011,7,16
+42064,1,Andre d,O,2011,7,18
+90760,1,aperson,M,2011,7,18
+90516,3,Andre d,M,2011,7,18
+44068,9,Andre d,O,2011,7,19
+90825,1,Jason Harvey,M,2011,7,21
+90558,9,Neil Williams,M,2011,7,21
+42065,5,Andre d,O,2011,7,25
+90843,24,Jeff Sandberg,M,2011,7,25
+44027,6,Andre d,O,2011,7,25
+90684,9,Max Goodman,M,2011,7,26
+90657,11,Logan Hanks,M,2011,7,27
+42062,7,Andre d,O,2011,7,28
+90630,4,Brian Simpson,M,2011,7,29
+42060,1,Andre d,O,2011,7,30
+90658,14,Logan Hanks,M,2011,8,5
+90517,7,Andre d,M,2011,8,8
+42055,2,Andre d,O,2011,8,10
+42056,4,Andre d,O,2011,8,10
+90685,16,Max Goodman,M,2011,8,13
+90805,4,Keith Mitchell,M,2011,8,15
+90631,5,Brian Simpson,M,2011,8,18
+90826,1,Jason Harvey,M,2011,8,18
+42042,4,Andre d,O,2011,8,22
+90559,19,Neil Williams,M,2011,8,24
+43913,1,Jonas Häggqvist,O,2011,8,27
+42034,5,Jonas Häggqvist,O,2011,8,27
+90747,6,Jonas Häggqvist,M,2011,8,29
+90844,9,Jeff Sandberg,M,2011,8,31
+90560,11,Neil Williams,M,2011,9,3
+90632,2,Brian Simpson,M,2011,9,7
+90659,14,Logan Hanks,M,2011,9,23
+90686,28,Max Goodman,M,2011,9,23
+42018,1,Andre d,O,2011,9,29
+90518,2,Andre d,M,2011,9,29
+90687,37,Max Goodman,M,2011,10,7
+90806,2,Keith Mitchell,M,2011,10,13
+42007,27,Josh Muhlfelder,O,2011,10,18
+42006,32,Josh Muhlfelder,O,2011,10,18
+42003,35,Josh Muhlfelder,O,2011,10,18
+90561,21,Neil Williams,M,2011,10,21
+90633,2,Brian Simpson,M,2011,10,21
+90519,3,Andre d,M,2011,10,26
+90660,16,Logan Hanks,M,2011,10,28
+42013,1,Andre d,O,2011,11,1
+90661,17,Logan Hanks,M,2011,11,7
+90634,5,Brian Simpson,M,2011,11,7
+90520,2,Andre d,M,2011,11,11
+42012,1,Andre d,O,2011,11,11
+42011,1,Bryce Boe,O,2011,11,13
+41982,1,Bryce Boe,O,2011,11,13
+90807,3,Keith Mitchell,M,2011,11,15
+90595,1,Bryce Boe,M,2011,11,15
+42010,1,Bryce Boe,O,2011,11,15
+90562,31,Neil Williams,M,2011,11,17
+90688,28,Max Goodman,M,2011,11,27
+90596,3,Bryce Boe,M,2011,12,5
+41999,1,Bryce Boe,O,2011,12,5
+41998,1,Bryce Boe,O,2011,12,6
+41994,1,Bryce Boe,O,2011,12,9
+90662,6,Logan Hanks,M,2011,12,14
+90623,1,David King,M,2011,12,14
+41990,1,David H.,O,2011,12,15
+90808,12,Keith Mitchell,M,2011,12,15
+41989,1,David H.,O,2011,12,17
+90689,20,Max Goodman,M,2011,12,22
+41985,1,David H.,O,2011,12,23
+41984,1,Bryce Boe,O,2011,12,23
+90546,4,David H.,M,2011,12,23
+41971,5,David H.,O,2011,12,23
+41959,1,David H.,O,2011,12,23
+90635,10,Brian Simpson,M,2011,12,27
+90563,18,Neil Williams,M,2011,12,28
+90690,9,Max Goodman,M,2012,1,2
+41977,1,Bryce Boe,O,2012,1,3
+41961,1,David H.,O,2012,1,4
+41957,1,David H.,O,2012,1,4
+90521,1,Andre d,M,2012,1,4
+90547,4,David H.,M,2012,1,4
+41963,1,David H.,O,2012,1,4
+41976,1,Andre d,O,2012,1,4
+41965,1,David H.,O,2012,1,4
+90827,1,Jason Harvey,M,2012,1,5
+90809,9,Keith Mitchell,M,2012,1,5
+41970,1,Bryce Boe,O,2012,1,6
+43383,1,Bryce Boe,O,2012,1,7
+90597,6,Bryce Boe,M,2012,1,7
+43399,1,Bryce Boe,O,2012,1,7
+41955,1,David H.,O,2012,1,13
+90636,4,Brian Simpson,M,2012,1,13
+90663,4,Logan Hanks,M,2012,1,17
+41863,8,Andre d,O,2012,1,19
+43532,4,Bryce Boe,O,2012,1,24
+43255,1,Andrew Smith,O,2012,1,26
+90564,17,Neil Williams,M,2012,1,30
+41950,1,Andre d,O,2012,2,3
+90522,3,Andre d,M,2012,2,3
+41943,1,Andre d,O,2012,2,7
+90691,14,Max Goodman,M,2012,2,7
+90664,3,Logan Hanks,M,2012,2,8
+90565,11,Neil Williams,M,2012,2,9
+90598,1,Bryce Boe,M,2012,2,13
+90637,4,Brian Simpson,M,2012,2,13
+41936,1,Bryce Boe,O,2012,2,13
+90810,14,Keith Mitchell,M,2012,2,14
+41933,1,Andre d,O,2012,2,20
+41932,1,Andre d,O,2012,2,21
+41938,20,Andrew Smith,O,2012,2,23
+41925,1,aperson,O,2012,2,24
+90761,1,aperson,M,2012,2,24
+41921,1,Bryce Boe,O,2012,3,2
+41918,1,Bryce Boe,O,2012,3,2
+90692,35,Max Goodman,M,2012,3,13
+90811,11,Keith Mitchell,M,2012,3,13
+90720,15,Dave Pifke,M,2012,3,14
+90599,3,Bryce Boe,M,2012,3,15
+42913,1,Bryce Boe,O,2012,3,15
+90665,6,Logan Hanks,M,2012,3,23
+90721,1,DEADB33F,M,2012,3,27
+41881,2,DEADB33F,O,2012,3,27
+90566,28,Neil Williams,M,2012,3,28
+41879,2,Chad Birch,O,2012,3,28
+90725,1,Ricky Ramirez,M,2012,3,29
+41877,1,Chad Birch,O,2012,3,30
+41876,1,DEADB33F,O,2012,3,30
+90784,1,Chad Birch,M,2012,3,30
+90638,10,Brian Simpson,M,2012,3,30
+41875,1,Chad Birch,O,2012,3,31
+90639,11,Brian Simpson,M,2012,4,2
+41874,1,Bryce Boe,O,2012,4,2
+90812,15,Keith Mitchell,M,2012,4,3
+41873,1,Bryce Boe,O,2012,4,3
+41872,1,Bryce Boe,O,2012,4,4
+41871,2,DEADB33F,O,2012,4,10
+41870,1,DEADB33F,O,2012,4,10
+41867,1,DEADB33F,O,2012,4,12
+41865,1,Bryce Boe,O,2012,4,16
+41862,1,Bryce Boe,O,2012,4,19
+90600,7,Bryce Boe,M,2012,4,19
+41861,1,Bryce Boe,O,2012,4,20
+90693,9,Max Goodman,M,2012,4,24
+41860,1,DEADB33F,O,2012,4,24
+90666,22,Logan Hanks,M,2012,4,25
+90722,7,DEADB33F,M,2012,4,25
+41855,1,Bryce Boe,O,2012,4,26
+90567,29,Neil Williams,M,2012,4,27
+41857,2,DEADB33F,O,2012,4,28
+41851,1,Andre d,O,2012,4,30
+90723,1,DEADB33F,M,2012,5,9
+41849,1,DEADB33F,O,2012,5,9
+90752,5,shlurbee,M,2012,5,10
+41844,1,Joe Alcorn,O,2012,5,13
+90813,6,Keith Mitchell,M,2012,5,16
+90568,36,Neil Williams,M,2012,5,21
+90601,1,Bryce Boe,M,2012,5,22
+41839,1,Bryce Boe,O,2012,5,22
+41836,1,Andre d,O,2012,5,23
+90523,1,Andre d,M,2012,5,23
+90640,4,Brian Simpson,M,2012,5,30
+90694,17,Max Goodman,M,2012,5,31
+90641,13,Brian Simpson,M,2012,6,6
+90814,14,Keith Mitchell,M,2012,6,12
+90695,16,Max Goodman,M,2012,6,19
+90667,1,Logan Hanks,M,2012,6,20
+90524,1,Andre d,M,2012,6,27
+41826,1,Andre d,O,2012,6,27
+90753,9,shlurbee,M,2012,6,27
+90569,42,Neil Williams,M,2012,6,28
+90696,20,Max Goodman,M,2012,7,7
+90642,21,Brian Simpson,M,2012,7,18
+90754,19,shlurbee,M,2012,7,26
+90815,13,Keith Mitchell,M,2012,7,30
+90570,36,Neil Williams,M,2012,7,30
+90668,21,Logan Hanks,M,2012,7,31
+41813,1,Chad Birch,O,2012,8,8
+42709,4,maxwellhansen,O,2012,8,10
+41811,3,maxwellhansen,O,2012,8,10
+41806,1,maxwellhansen,O,2012,8,13
+90643,10,Brian Simpson,M,2012,8,13
+41804,1,maxwellhansen,O,2012,8,14
+90553,3,maxwellhansen,M,2012,8,15
+41802,1,maxwellhansen,O,2012,8,15
+90828,13,Jason Harvey,M,2012,8,16
+90816,20,Keith Mitchell,M,2012,8,22
+90697,46,Max Goodman,M,2012,8,23
+41795,1,maxwellhansen,O,2012,8,23
+42703,37,Andre d,O,2012,8,24
+90525,14,Andre d,M,2012,8,24
+41788,1,maxwellhansen,O,2012,8,24
+42707,64,Andre d,O,2012,8,24
+90669,14,Logan Hanks,M,2012,8,27
+90755,6,shlurbee,M,2012,8,28
+90571,46,Neil Williams,M,2012,8,30
+41770,2,Jonas Häggqvist,O,2012,8,31
+41763,6,Kevin Kress,O,2012,9,5
+41749,1,Kevin Kress,O,2012,9,8
+90745,1,Kevin Kress,M,2012,9,8
+41734,3,Chad Birch,O,2012,9,12
+41675,82,Andre d,O,2012,9,12
+90756,5,shlurbee,M,2012,9,12
+41695,43,Andre d,O,2012,9,12
+41729,2,Andre d,O,2012,9,12
+90698,35,Max Goodman,M,2012,9,14
+90829,3,Jason Harvey,M,2012,9,17
+41752,9,Kevin Kress,O,2012,9,17
+90793,1,Roger Ostrander,M,2012,9,18
+41679,68,Andre d,O,2012,9,18
+41676,81,Andre d,O,2012,9,18
+41727,1,Andre d,O,2012,9,19
+41725,3,Andre d,O,2012,9,20
+90670,19,Logan Hanks,M,2012,9,21
+41719,1,Andre d,O,2012,9,22
+41717,1,Andre d,O,2012,9,22
+41714,1,Andre d,O,2012,9,25
+90817,10,Keith Mitchell,M,2012,9,26
+90726,1,Ricky Ramirez,M,2012,9,27
+90602,1,Bryce Boe,M,2012,9,28
+42702,9,Andre d,O,2012,9,28
+41705,1,Bryce Boe,O,2012,9,28
+90526,44,Andre d,M,2012,9,28
+90572,30,Neil Williams,M,2012,9,29
+41704,1,Andre d,O,2012,10,1
+90699,27,Max Goodman,M,2012,10,9
+90818,24,Keith Mitchell,M,2012,10,9
+41690,1,Andre d,O,2012,10,10
+90671,21,Logan Hanks,M,2012,10,18
+90644,32,Brian Simpson,M,2012,10,21
+90573,28,Neil Williams,M,2012,10,26
+90757,16,shlurbee,M,2012,10,29
+90727,2,Ricky Ramirez,M,2012,10,30
+90527,47,Andre d,M,2012,10,30
+90794,2,Roger Ostrander,M,2012,10,31
+90645,23,Brian Simpson,M,2012,11,3
+90700,30,Max Goodman,M,2012,11,8
+90819,13,Keith Mitchell,M,2012,11,12
+90830,3,Jason Harvey,M,2012,11,16
+90758,6,shlurbee,M,2012,11,16
+90724,1,DEADB33F,M,2012,11,19
+90574,31,Neil Williams,M,2012,11,20
+90672,2,Logan Hanks,M,2012,11,20
+90795,2,Roger Ostrander,M,2012,11,20
+90728,1,Ricky Ramirez,M,2012,11,21
+90528,19,Andre d,M,2012,11,30
+90646,5,Brian Simpson,M,2012,12,6
+41674,1,Andre d,O,2012,12,11
+41673,7,Andre d,O,2012,12,12
+90673,7,Logan Hanks,M,2012,12,12
+90701,18,Max Goodman,M,2012,12,12
+90529,12,Andre d,M,2012,12,13
+41668,5,Andre d,O,2012,12,13
+42696,4,Andre d,O,2012,12,13
+90575,40,Neil Williams,M,2012,12,14
+90729,4,Ricky Ramirez,M,2012,12,19
+90746,3,Kevin Kress,M,2012,12,23
+42656,3,Kevin Kress,O,2012,12,23
+90603,1,Bryce Boe,M,2012,12,26
+41669,1,Bryce Boe,O,2012,12,26
+90831,2,Jason Harvey,M,2012,12,27
+90796,2,Roger Ostrander,M,2012,12,30
+90820,11,Keith Mitchell,M,2012,12,31
+42597,1,Bryce Boe,O,2013,1,7
+41667,1,Andre d,O,2013,1,7
+90604,2,Bryce Boe,M,2013,1,7
+90530,13,Andre d,M,2013,1,13
+41664,1,Bryce Boe,O,2013,1,15
+41663,1,Bryce Boe,O,2013,1,16
+90730,6,Ricky Ramirez,M,2013,1,17
+90821,18,Keith Mitchell,M,2013,1,17
+90832,2,Jason Harvey,M,2013,1,19
+41662,1,Andre d,O,2013,1,21
+41661,2,Andre d,O,2013,1,22
+90702,19,Max Goodman,M,2013,1,22
+42577,5,Andre d,O,2013,1,25
+90797,2,Roger Ostrander,M,2013,1,27
+41660,1,Joe Alcorn,O,2013,1,27
+90576,53,Neil Williams,M,2013,1,28
+90785,6,Chad Birch,M,2013,1,28
+42556,2,Andre d,O,2013,1,28
+42547,1,Andre d,O,2013,1,29
+41657,1,Joe Alcorn,O,2013,1,30
+90593,2,Joe Alcorn,M,2013,1,30
+90647,22,Brian Simpson,M,2013,1,30
+90674,5,Logan Hanks,M,2013,1,30
+90577,16,Neil Williams,M,2013,2,4
+41655,1,Bryce Boe,O,2013,2,4
+41654,1,Joe Alcorn,O,2013,2,4
+41652,1,Andre d,O,2013,2,4
+90594,5,Joe Alcorn,M,2013,2,6
+41650,1,Joe Alcorn,O,2013,2,6
+41648,1,Joe Alcorn,O,2013,2,7
+90731,11,Ricky Ramirez,M,2013,2,10
+90624,3,David King,M,2013,2,11
+41645,1,Andre d,O,2013,2,13
+90762,1,aperson,M,2013,2,19
+41638,3,aperson,O,2013,2,19
+90648,21,Brian Simpson,M,2013,2,19
+41641,1,aperson,O,2013,2,19
+41633,2,Andre d,O,2013,2,22
+41631,2,Andre d,O,2013,2,22
+90675,14,Logan Hanks,M,2013,2,22
+41630,2,Andre d,O,2013,2,22
+90531,6,Andre d,M,2013,2,22
+42544,1,Joe Alcorn,O,2013,2,24
+90798,1,Roger Ostrander,M,2013,2,26
+90786,17,Chad Birch,M,2013,2,26
+41628,1,Joe Alcorn,O,2013,2,27
+90703,29,Max Goodman,M,2013,2,27
+90833,9,Jason Harvey,M,2013,2,28
+41639,1,Andre d,O,2013,3,7
+90649,20,Brian Simpson,M,2013,3,11
+90834,2,Jason Harvey,M,2013,3,11
+90532,5,Andre d,M,2013,3,11
+41625,2,Andre d,O,2013,3,11
+41449,5,Andre d,O,2013,3,12
+90787,21,Chad Birch,M,2013,3,12
+90578,20,Neil Williams,M,2013,3,13
+90676,2,Logan Hanks,M,2013,3,15
+90822,7,Keith Mitchell,M,2013,3,22
+90548,1,David H.,M,2013,3,27
+41620,1,David H.,O,2013,3,27
+90732,2,Ricky Ramirez,M,2013,3,28
+90704,66,Max Goodman,M,2013,3,31
+90823,3,Keith Mitchell,M,2013,4,1
+41611,1,David H.,O,2013,4,4
+42543,1,David H.,O,2013,4,5
+90835,1,Jason Harvey,M,2013,4,8
+41606,1,David H.,O,2013,4,9
+41612,3,David H.,O,2013,4,10
+41607,2,David H.,O,2013,4,10
+90733,1,Ricky Ramirez,M,2013,4,11
+90677,1,Logan Hanks,M,2013,4,12
+90650,34,Brian Simpson,M,2013,4,15
+41597,1,David H.,O,2013,4,16
+90549,9,David H.,M,2013,4,16
+90705,46,Max Goodman,M,2013,4,23
+41594,2,David H.,O,2013,4,24
+90799,1,Roger Ostrander,M,2013,4,26
+90788,13,Chad Birch,M,2013,4,30
+90579,1,Neil Williams,M,2013,4,30
+41586,1,David H.,O,2013,5,6
+41584,1,David H.,O,2013,5,6
+90550,1,David H.,M,2013,5,6
+90580,25,Neil Williams,M,2013,5,7
+41582,2,Andre d,O,2013,5,8
+41642,2,Andre d,O,2013,5,8
+41578,2,Andre d,O,2013,5,8
+41580,1,Andre d,O,2013,5,8
+41572,1,Andre d,O,2013,5,9
+41568,4,Andre d,O,2013,5,10
+90734,7,Ricky Ramirez,M,2013,5,10
+90651,16,Brian Simpson,M,2013,5,13
+41564,3,Andre d,O,2013,5,13
+41561,2,Andre d,O,2013,5,14
+41563,2,Andre d,O,2013,5,14
+41556,33,Andre d,O,2013,5,14
+41550,1,Andre d,O,2013,5,15
+90706,83,Max Goodman,M,2013,5,19
+41545,3,Andre d,O,2013,5,20
+90836,3,Jason Harvey,M,2013,5,20
+41548,4,Andre d,O,2013,5,20
+41542,9,Andre d,O,2013,5,20
+41547,1,Andre d,O,2013,5,20
+41565,3,Andre d,O,2013,5,20
+41546,2,Andre d,O,2013,5,21
+41530,1,Andre d,O,2013,5,21
+90789,7,Chad Birch,M,2013,5,23
+41536,2,Andre d,O,2013,5,28
+41438,1,Andre d,O,2013,5,28
+41534,1,Andre d,O,2013,5,28
+41538,1,Andre d,O,2013,5,29
+90533,35,Andre d,M,2013,5,29
+41528,1,Andre d,O,2013,6,3
+90534,15,Andre d,M,2013,6,6
+41525,3,Andre d,O,2013,6,6
+41524,1,Andre d,O,2013,6,6
+41434,2,Andre d,O,2013,6,7
+41522,2,Andre d,O,2013,6,10
+41521,1,Andre d,O,2013,6,10
+90652,13,Brian Simpson,M,2013,6,11
+90790,16,Chad Birch,M,2013,6,12
+41512,1,Andre d,O,2013,6,17
+41515,1,Andre d,O,2013,6,17
+90735,10,Ricky Ramirez,M,2013,6,19
+90707,19,Max Goodman,M,2013,6,20
+41508,1,Andre d,O,2013,6,24
+41517,4,Andre d,O,2013,6,24
+90800,2,Roger Ostrander,M,2013,6,25
+90581,10,Neil Williams,M,2013,6,26
+41505,2,Andre d,O,2013,6,28
+41432,2,Andre d,O,2013,7,1
+41498,1,Andre d,O,2013,7,5
+41500,1,Andre d,O,2013,7,5
+41497,1,Andre d,O,2013,7,8
+41496,1,Andre d,O,2013,7,9
+41494,1,Andre d,O,2013,7,9
+41492,6,Andre d,O,2013,7,11
+90736,9,Ricky Ramirez,M,2013,7,12
+90653,15,Brian Simpson,M,2013,7,12
+41428,2,Andre d,O,2013,7,16
+90582,10,Neil Williams,M,2013,7,16
+41485,1,Andre d,O,2013,7,16
+41483,1,Andre d,O,2013,7,17
+90837,1,Jason Harvey,M,2013,7,18
+90678,1,Logan Hanks,M,2013,7,23
+41502,7,Andre d,O,2013,7,23
+41479,1,Andre d,O,2013,7,24
+41476,7,Andre d,O,2013,7,24
+90791,19,Chad Birch,M,2013,7,24
+90708,43,Max Goodman,M,2013,7,26
+41470,1,Jeremy Edberg,O,2013,7,28
+41418,41,Andre d,O,2013,7,29
+41416,4,Jonas Häggqvist,O,2013,7,29
+90801,3,Roger Ostrander,M,2013,7,30
+41468,1,Andre d,O,2013,7,30
+41413,2,Andre d,O,2013,7,31
+41406,15,Andre d,O,2013,7,31
+90535,18,Andre d,M,2013,7,31
+41411,3,Andre d,O,2013,8,4
+41467,2,Andre d,O,2013,8,5
+41465,1,Andre d,O,2013,8,7
+90737,9,Ricky Ramirez,M,2013,8,9
+41400,1,Andre d,O,2013,8,11
+41398,1,Andre d,O,2013,8,12
+41463,3,Andre d,O,2013,8,12
+90536,5,Andre d,M,2013,8,12
+90654,1,Brian Simpson,M,2013,8,20
+90792,16,Chad Birch,M,2013,8,21
+90709,11,Max Goodman,M,2013,8,21
+90583,8,Neil Williams,M,2013,8,21
+90802,1,Roger Ostrander,M,2013,8,28
+90710,5,Max Goodman,M,2013,9,3
+90584,4,Neil Williams,M,2013,9,9
+41455,1,David H.,O,2013,9,9
+90655,1,Brian Simpson,M,2013,9,24
+90537,2,Andre d,M,2013,9,24
+81068,1,Andre d,O,2013,9,24
+90585,1,Neil Williams,M,2013,10,1

@@ -1,0 +1,4626 @@
+id,count,type,name
+0,0,M ,xx 
+1,7,O,Geoffrey Huntley
+2,1,O,John McDonnell
+3,3,O,Stephan Hügel
+4,1,O,Timothy Klim
+5,2,O,James Chen
+6,1,O,Christopher Brown
+7,2,O,David Rupp
+8,1,O,Daniel Velkov
+9,1,O,Ilya Dyachenko
+10,8,O,Guillermo Garza
+11,4,O,John Paul Ashenfelter
+12,9,O,Dan Knoepfle
+13,2,O,Ludovic Claude
+14,6,O,Daniel Sloof
+15,12,O,Denis
+16,23,O,Osman Üngür
+17,2,O,Pieter Noordhuis
+18,10,O,Rogério Brito
+19,2,O,Sean Lee
+20,2,O,Michael Selik
+21,4,O,Sid Upadhyay
+22,75,O,Tianyi Cui
+23,3,O,Chip Turner
+24,2,O,Ben Poweski
+25,2,O,Janne Peltola
+26,1,O,Steve Streeting
+27,13,O,Michael Ford
+28,1,O,Berkus Deckus
+29,8,O,Jean-Olivier Irisson
+30,2,O,Duke Leto
+31,3,O,Peter Meilstrup
+32,1,O,Thomas Smith
+33,4,O,Miëtek Bak
+34,1,O,Fred Concklin
+35,2,O,Lars Rasmusson
+36,3,O,Chun-wei Kuo
+37,4,O,Alexander Artemenko
+38,10,O,Sergey Lukjanov
+39,5,O,Colin Dean
+40,1,O,Bryan Walters
+41,1,O,Jay Yu
+42,7,O,Morgan Roderick
+43,20,O,Jonathan Wilkins
+44,1,O,Dody Suria Wijaya
+45,2,O,Capi Etheriel
+46,1,O,Ken Collins
+47,2,O,Ryan Cumming
+48,8,O,Nicolas Perriault
+49,8,O,Leo Franchi
+50,7,O,Larry Gilbert
+51,3,O,Joe Gornick
+52,1,O,Song Peng
+53,39,O,Myles Borins
+54,2,O,Julien Ammous
+55,28,O,Alexey Palazhchenko
+56,2,O,M. Scott Ford
+57,3,O,Robert Gieseke
+58,7,O,Adam Coffman
+59,107,O,Francisco Souza
+60,12,O,Ville Lautanala
+61,207,O,Alexis Hildebrandt
+62,8,O,Ashley Towns
+63,2,O,Alexandre Laborie
+64,16,O,Albert Zeyer
+65,3,O,Alexei Sholik
+66,3,O,Alexey Filippov
+67,1,O,Oriol Ferrer Mesià
+68,8,O,Troels Thomsen
+69,4,O,Alex Van Damme
+70,4,O,Ari
+71,2,O,Chris Conley
+72,3,O,Leo Lou
+73,3,O,Bret Comnes
+74,2,O,Dan Fabulich
+75,3,O,Benjamin Fleischer
+76,12,O,Brian Gyss
+77,10,O,Robin
+78,12,O,Julien Ammous
+79,1,O,Karl Böhlmark
+80,1,O,Solomon White
+81,10,O,Stephen Bannasch
+82,1,O,Cody Krieger
+83,1,O,Eric Gallager
+84,4,O,Nehemiah I. Dacres
+85,3,O,KOBAYASHI Daisuke
+86,2,O,Tom Stuart
+87,13,O,Chris Allen
+88,2,O,Jens Bissinger
+89,1,O,Endel Dreyer
+90,3,O,engeld
+91,5,O,Paul Chechetin
+92,4,O,Farooq Mela
+93,1,O,Darell Tan
+94,1,O,G_will
+95,1,O,Ben Lowery
+96,1,O,Kyle Drake
+97,10,O,Gray Manley
+98,11,O,Gregory Pakosz
+99,1,O,Arthur Chafonov
+100,15,O,MySchizoBuddy
+101,4,O,He11bunny
+102,8,O,Pasquale Boemio
+103,7,O,Nat Welch
+104,4,O,Igmar Palsenberg
+105,20,O,Bo XIAO
+106,3,O,Andy Georges
+107,7,O,Adam Szkoda
+108,2,O,Jeremias Nunez
+109,2,O,Alex Radeski
+110,2,O,Andrea Bedini
+111,3,O,Jason Kim
+112,3,O,Joel Moss
+113,1,O,Jason Stelzer
+114,1,O,Justin Edwards
+115,3,O,Sebastian Hillig
+116,12,O,Kenneth Reitz
+117,3,O,xiaobo
+118,2,O,Jason Webb
+119,3,O,Kane Dou
+120,2,O,Liang Qi
+121,2,O,Martin Linkhorst
+122,19,O,
+123,2,O,Li-Wen Hsu
+124,2,O,Thong Kuah
+125,1,O,Christian Stigen Larsen
+126,13,O,Mathias Bynens
+127,1,O,freestyler
+128,2,O,Derek Myers
+129,10,O,Daniel Trebbien
+130,4,O,Martin Szarski
+131,1,O,Vincent Lee
+132,2,O,Noel Cower
+133,4,O,Jonathan Gillett
+134,10,O,Peter Vasil
+135,2,O,Joseph Pintozzi
+136,1,O,Matt Colyer
+137,1,O,Ryan Dlugosz
+138,4,O,Alexander Saltanov
+139,2,O,Minyoung Jeong
+140,21,O,Lee Packham
+141,58,O,Chongyu Zhu
+142,3,O,Shota Fukumori
+143,6,O,Alastair
+144,1,O,Alex Brem
+145,6,O,Matthew Caruana Galizia
+146,61,O,Austin Seipp
+147,4,O,Seyi Ogunyemi
+148,6,O,travis jeffery
+149,1,O,Tom von Schwerdtner
+150,32,O,Krzysztof Urbaniak
+151,1,O,Ben Burnett
+152,1,O,
+153,7,O,Nicholas Hutchinson
+154,2,O,Yoshimasa Niwa
+155,4,O,Seiya Konno
+156,1,O,Nicolas Haunold
+157,2,O,Pavel Repin
+158,1,O,Zach Latta
+159,9,O,Ryunosuke SATO
+160,41,O,Peter Kristensen
+161,3,O,Zou Guangxian
+162,17,O,Hongli Lai
+163,17,O,Linda_pp
+164,6,O,Matt McClure
+165,2,O,Sergio Rubio
+166,3,O,Tjerk Santegoeds
+167,2,O,Sepher
+168,28,O,Dane Springmeyer
+169,1436,M,Mike McQuaid
+170,2,O,Don Onwunumah
+171,1,O,Takeshi Ohishi
+172,3,O,Tiago Quintino
+173,4,O,Fabio Utzig
+174,1,O,Johan Lundström
+175,15,O,William Ting
+176,10,O,Max Cantor
+177,13,O,Kevin Ballard
+178,1,O,Keegan McAllister
+179,4,O,Rupert Bedford
+180,8,O,seph
+181,80,O,Geoff Reedy
+182,5,O,Dominic White
+183,3,O,ichizok
+184,20,O,Benoit Daloze
+185,1,O,Akinori MUSHA
+186,2,O,Joonas Kuorilehto
+187,2,O,Hans Duedal
+188,20,O,Ryan Schlesinger
+189,15,O,skim
+190,2,O,Markus Doits
+191,38,O,Corey Quinn
+192,23,O,Denis Denisov
+193,879,M,Misty De Meo
+194,13,O,Christian Rishøj
+195,5,O,Rommel G Custodio
+196,54,O,Elliot Saba
+197,1,O,Marcus Bointon
+198,1,O,Julian Pawlowski
+199,7,O,Duncan Mak
+200,21,O,Lance Parsons
+201,4,O,Jack Chen
+202,12,O,Adam Stankiewicz
+203,10,O,Daniel Luz
+204,1,O,Alexander Berezovsky
+205,12,O,Aaron Lake
+206,6,O,dan mackinlay
+207,5,O,James Snyder
+208,5,O,Daniel Serodio
+209,25,O,Nick Stenning
+210,4,O,Azer Koçulu
+211,8,O,David Taylor
+212,45,O,Stian Eikeland
+213,7,O,Andrey Popp
+214,40,O,Felix Bünemann
+215,4,O,Mikael Henriksson
+216,2,O,Daniel Bretoi
+217,3,O,Jason Weathered
+218,2,O,Alexey Vasiliev
+219,11,O,Job Snijders
+220,15,O,Marshall
+221,27,O,Tokuhiro Matsuno
+222,6,O,Peter Robinett
+223,1,O,Brandon R. Stoner
+224,2,O,Uwe Dauernheim
+225,2,O,Artur Adib
+226,2,O,Stephen Celis
+227,2,O,Aaron Quinlan
+228,18,O,Austin Richardson
+229,18,O,Ches Martin
+230,1,O,Connor McCoy
+231,1,O,Gareth
+232,2,O,François Cocquemas
+233,1,O,@fyears
+234,6,O,Pete Gadomski
+235,3,O,Yaniv Aknin
+236,9,O,Brian Gilbert
+237,6,O,James Campos
+238,8,O,Jeremy W. Sherman
+239,3,O,John Claus
+240,2,O,Josh Moore
+241,52,O,Juan Sebastian Casallas
+242,2,O,Alexander Færøy
+243,10,O,Ryan Pavlik
+244,3,O,soh335
+245,7,O,Elliot Murphy
+246,9,O,Kyungdahm Yun
+247,1,O,Christoffer Buchholz
+248,8,O,Gregg Lind
+249,4,O,Jerry Cheung
+250,46,O,Sigurd Høgsbro
+251,2,O,Fouad Mardini
+252,2,O,Matthew Rathbone
+253,1,O,Aman Gupta
+254,1,O,Paul Sadauskas
+255,1,O,Paul J. Davis
+256,5,O,Mark Nottingham
+257,12,O,Edward George
+258,20,O,Frank Denis
+259,2,O,DrDrizzles
+260,6,O,Silas Baronda
+261,50,O,Sergey Avseyev
+262,1,O,ZHANG Cheng
+263,2,O,Sam Chou
+264,10,O,Mike Fiedler
+265,1,O,Dan Crosta
+266,64,O,Tyler Brock
+267,5,O,Vincent Bernat
+268,2,O,Matt Dannenberg
+269,1,O,Sam Kleinman
+270,7,O,Isaac Z. Schlueter
+271,14,O,Jan Lehnardt
+272,1,O,Sven-Hendrik Haase
+273,2,O,Andrea Lattuada
+274,2,O,Pascal Borreli
+275,1,O,David Glasser
+276,2,O,Miquella
+277,2,O,Ernie Hershey
+278,2,O,Park Hyunwoo
+279,4,O,Gianfranco Palumbo
+280,4,O,Devyn Cairns
+281,2,O,Daniel Westheide
+282,1,O,Olli Helenius
+283,17,O,manboubird
+284,2,O,DataSurfer
+285,3,O,Reid Morrison
+286,2,O,Adriaan Peeters
+287,4,O,Johan Bergström
+288,5,O,Jon Cooper
+289,3,O,Dustin Sallings
+290,5,O,Paul Annesley
+291,4,O,Carl Hörberg
+292,7,O,Julio Viera
+293,3,O,Kaspar Schiess
+294,5,O,Andrew Bennett
+295,152,O,Trevor Wennblom
+296,11,O,Dan Sully
+297,4,O,Jeremy Gailor
+298,3,O,James Herdman
+299,9,O,Dan Loewenherz
+300,3,O,Seth LaForge
+301,5,O,Bryce
+302,2,O,Philipe Fatio
+303,2,O,Nathan Lilienthal
+304,2,O,Clemens Müller
+305,6,O,Jamie Macey
+306,7,O,José Santos Martins Pereira
+307,20,O,lite
+308,4,O,Mike Boers
+309,2,O,Nick Quaranto
+310,9,O,tizoc
+311,4,O,Jan Stępień
+312,3,O,Ron Huang
+313,14,O,George Bashi
+314,3,O,Jeremy Johnstone
+315,4,O,Conrad Irwin
+316,2,O,Geoff Garside
+317,5,O,Charlie Somerville
+318,4,O,Peter Teichman
+319,1,O,Isaac Sanders
+320,4,O,Michael Shapiro
+321,3,O,Joe Shaw
+322,1,O,Kohei Ozaki
+323,4,O,bcsmith
+324,3,O,Sam Pullara
+325,1,O,Jérémy Bethmont
+326,117,O,Kashif Rasul
+327,1,O,Kenny Hoxworth
+328,4,O,Nik Cubrilovic
+329,8,O,Alexey Ivanov
+330,10,O,Guido Serra
+331,26,O,Abhi Yerra
+332,2,O,Andrew Heuermann
+333,5,O,Anton P. Linevich
+334,22,O,Andrew Nesbitt
+335,1,O,Anthony Wu
+336,1,O,Saj Goonatilleke
+337,4,O,Stephen Tu
+338,5,O,Baris Balic
+339,12,O,Tobias Schwab
+340,10,O,James Miller
+341,10,O,Bo Jeanes
+342,7,O,Oscar Del Ben
+343,4,O,Brendan W. McAdams
+344,2,O,Bartosz Burclaf
+345,1,O,
+346,1,O,Zifei Tong
+347,2,O,Chris Knadler
+348,3,O,Carter McKendry
+349,13,O,Daniele Torelli
+350,2,O,Stuart Knightley
+351,14,O,David Aguilar
+352,1,O,Antoine Musso
+353,36,O,Douglas Creager
+354,2,O,Eric Naeseth
+355,1,O,Elias Ponvert
+356,12,O,Simon Menke
+357,4631,M,Adam Vandenberg
+358,2,O,Brandon Harvey
+359,7,O,Zhitong He
+360,3,O,SHIBATA Hiroshi
+361,4,O,Prajwal Tuladhar
+362,6,O,Jacob Jewell
+363,1,O,Janne Hietamäki
+364,5,O,Jim Myhrberg
+365,4,O,Nathan Redding
+366,8,O,Roberto Nibali
+367,3,O,Justin Campbell
+368,4,O,Pedro Melo
+369,3,O,Kakutani Shintaro
+370,39,O,Keisuke TAKAHASHI
+371,1,O,kevin birch
+372,6,O,Laurent Gaches
+373,1,O,Lloyd Hilaiel
+374,79,O,Yoji Shidara
+375,8,O,Michael Mior
+376,3,O,Marica Odagaki
+377,13,O,
+378,6,O,Michael Hood
+379,3,O,Seth Milliken
+380,41,O,Turadg Aleahmad
+381,1,O,Carlos
+382,1,O,Asaka
+383,15,O,Arnaud Lafon
+384,55,O,Marc Abramowitz
+385,1,O,Andrey Petrov
+386,3,O,
+387,4,O,Leroy Campbell
+388,9,O,Arun Agrawal
+389,2,O,Brad Folkens
+390,7,O,Roland Moriz
+391,2,O,Chris Hoffman
+392,4,O,Ryuichi Okumura
+393,13,O,Patrik Ragnarsson
+394,1,O,Alan Shreve
+395,3,O,David Olinsky
+396,3,O,Aleksandar Simic
+397,5,O,Rob Gilson
+398,4,O,Peter Gebhard
+399,2,O,Phil Harvey
+400,10,O,Stefan Huber
+401,6,O,Piti Ongmongkolkul
+402,3,O,Pius Uzamere
+403,6,O,Adrià Planas
+404,9,O,Dmitry Plashchynski
+405,7,O,Fredrik Forsmo
+406,6,O,Elpizo Choi
+407,2,O,glaszig
+408,1,O,Ryan Amos
+409,1,O,Justin Camerer
+410,2,O,Aaron Snoswell
+411,13,O,Isao Yagi
+412,4,O,Randy Secrist
+413,1,O,Arthur Chiu
+414,2,O,Jason Madigan
+415,12,O,Alexandre Gramfort
+416,6,O,Jeff Clites
+417,2,O,Kyle Bolton
+418,2,O,Michel Martens
+419,4,O,Kevin Faustino
+420,1,O,Vick Khera
+421,59,O,Ryan Senkbeil
+422,4,O,Allen Bargi
+423,6,O,Ben LeMasurier
+424,2,O,Eric Lo
+425,3,O,J. Brandt Buckley
+426,1,O,matt knox
+427,2,O,Stephane Bellity
+428,16,O,Joey Geiger
+429,2,O,Mithun Ayachit
+430,3,O,Jack Wang
+431,11,O,Chad Remesch
+432,1,O,Francois-Guillaume Ribreau
+433,1,O,Chris Kau
+434,3,O,Chris Lowder
+435,1,O,Philipp Fehre
+436,7,O,Andreas Behr
+437,70,O,Shawn Jonnet
+438,57,O,Paul Ingles
+439,2,O,Peter Morelli
+440,25,O,Timothée Peignier
+441,1,O,Piotr Usewicz
+442,7,O,Leonardo YongUk Kim
+443,3,O,Dan Sosedoff
+444,3,O,Darragh Curran
+445,1,O,Santiago Pastorino
+446,20,O,Dipen Lad
+447,1,O,Sergey Karayev
+448,6,O,Jon Ege Ronnenberg
+449,2,O,Daniel Schuler
+450,9,O,Andrey Smirnov
+451,1,O,David Butler
+452,5,O,Tim Dysinger
+453,1,O,Wijnand Modderman-Lenstra
+454,11,O,Arlo Breault
+455,1,O,Vincent Landgraf
+456,2,O,Bohdan Turkynewych
+457,4,O,Torsten Curdt
+458,2,O,Tushar Ranka
+459,1,O,Mark Rada
+460,20,O,Alexander Bohn / FI$H2k
+461,3,O,Wil Tan
+462,4,O,Keiji Matsuzaki
+463,2,O,tschundeee
+464,3,O,unaib
+465,18,O,Danny Archer
+466,5,O,Ionuț G. Stan
+467,2,O,Ian White
+468,7,O,Francisco Cabrita
+469,3,O,Jay Taylor
+470,1,O,Leandro López
+471,4,O,Jez Ng
+472,1,O,Ian Daniher
+473,1,O,Ivo Anastácio
+474,1,O,Jens Hausherr
+475,2,O,Jakob Renpening
+476,4,O,Jacek Migdal
+477,3,O,Jamie Ly
+478,2,O,Will Farrington
+479,2,O,Jayme Deffenbaugh
+480,1,O,Luca Guidi
+481,2,O,Yuuki Tsubouchi
+482,3,O,Michael Ding
+483,3,O,Andy Freeland
+484,265,O,Birger J. Nordølum
+485,5,O,Kyle Fritz
+486,3,O,Tymon Tobolski
+487,4,O,Luis Abreu
+488,2,O,Masakazu Ohtsuka
+489,4,O,Matt Aimonetti
+490,3,O,Magnus Holm
+491,10,O,Martin Czygan
+492,2,O,Andrew Fecheyr
+493,3,O,Matt Stump
+494,1,O,Mark Wunsch
+495,3,O,Renaud Morvan
+496,5,O,Ian Hill
+497,1,O,Cyril Lashkevich
+498,4,O,Olaf Alders
+499,24,O,Oame
+500,1,O,Olle Jonsson
+501,5,O,Oliver Tonnhofer
+502,9,O,Justin Hart
+503,2,O,Owen Smith
+504,2,O,Steve Purcell
+505,6,O,Ryan Govostes
+506,7,O,Rob Cowie
+507,6,O,sakkaku
+508,2,O,Greg Heartsfield
+509,1,O,Simon Wells
+510,3,O,Jeff Fraser
+511,5,O,Tom de Grunt
+512,9,O,Tobi Lehman
+513,3,O,Tom Whipple
+514,4,O,David Björklund
+515,3,O,Chris Schuhmann
+516,2,O,Tomás Senart
+517,1,O,Umberto Raimondi
+518,2,O,Vladimir Grichina
+519,7,O,Peter Jaros
+520,1,O,Daniel Heath
+521,2,O,Brian Aker
+522,8,O,Vincent
+523,1,O,Monty Taylor
+524,14,O,Thomas Parisot
+525,3,O,Ghislain Seguin
+526,18,O,\\033]2;Jacob Appelbaum\\007
+527,1,O,Filipe Manana
+528,39,O,Gabriel Falcão
+529,3,O,Simon Walker
+530,1,O,Antonin Hildebrand
+531,6,O,Travis Johnson
+532,3,O,Jens Kohl
+533,1,O,Patrick Gibson
+534,2,O,fanweixiao
+535,6,O,Alex Reece
+536,8,O,Chris Metcalf
+537,17,O,Moritz Ulrich
+538,1,O,Marcus Barczak
+539,19,O,Aaron Jacobs
+540,2,O,Shawn M Moore
+541,2,O,Steven Penny
+542,6,O,Jose Diaz-Gonzalez
+543,2,O,Sam Baron
+544,3,O,Ben
+545,13,O,Bert JW Regeer
+546,1,O,Kenneth Ballenegger
+547,1,O,Carter Tazio Schonwald
+548,4,O,Chia-liang Kao
+549,1,O,Kacy Fortner
+550,3,O,Didip Kerabat
+551,10,O,Eric Davis
+552,1,O,Gary S. Weaver
+553,2,O,Fuji\, Goro
+554,2,O,James Abley
+555,8,O,Juan C. Müller
+556,5,O,rofl0r
+557,2,O,Tatsuhiko Miyagawa
+558,8,O,Michael LeBarron
+559,38,O,Naoya Nakazawa
+560,2,O,okonomi
+561,11,O,Yuen-Kuei Hsueh
+562,1,O,rdvn
+563,57,O,Richo Healey
+564,3,O,Shane O'Grady
+565,22,O,Mark Shropshire
+566,2,O,Alan Jeon
+567,2,O,Denis Cornehl
+568,3,O,Jeff Larson
+569,6,O,Daisuke Murase
+570,3,O,Ilmari Vacklin
+571,1,O,Cheng Huang
+572,10,O,Steven Harman
+573,17,O,David Höppner
+574,2,O,Balazs Nagy
+575,2,O,Mike Morearty
+576,2,O,Benjamin Quorning
+577,3,O,Steve Klabnik
+578,5,O,Ben Hoskings
+579,5,O,Ben Atkin (I accept patches by email.)
+580,3,O,Nicklas Ansman Giertz
+581,2,O,Greg Thornton
+582,2,O,Johanns Gregorian
+583,4,O,Bruce Mitchener
+584,13,O,David James
+585,2,O,Philipp Wollermann
+586,1,O,Artem Titoulenko
+587,3,O,Carwin Young
+588,7,O,Parker Moore
+589,4,O,Brecht Hoflack
+590,5,O,eli
+591,88,O,Clemens Gruber
+592,1,O,Corey Oliver
+593,1,O,Dan DeLeo
+594,1,O,Daniel De Aguiar
+595,4,O,Tomas Carnecky
+596,8,O,Alexandre Fiori
+597,272,O,Lin Jen-Shin (godfat)
+598,11,O,Guillermo Iguaran
+599,1,O,Hans-Martin Will
+600,8,O,Joshua Ballanco
+601,6,O,Stuart Carnie
+602,12,O,Nicolas Despres
+603,3,O,Petr Man
+604,19,O,Sean Richard Lynch
+605,2,O,Tom Brown
+606,4,O,Jason Foreman
+607,1,O,Tristan Sloughter
+608,1,O,Vinh Cuong
+609,1,O,Zach Kelling
+610,2,O,Carl Jackson
+611,4,O,Rajiv Aaron Manglani
+612,4,O,Charles Brossollet
+613,7,O,Dominik
+614,3,O,Filippo Valsorda
+615,9,O,Julian Berman
+616,1,O,Christophe Simonis
+617,64,O,Rui Pereira
+618,31,O,Tony
+619,4,O,Miranda
+620,1,O,Jack Lawson
+621,3,O,Ake Koomsin
+622,18,O,Alexander Barton
+623,2,O,Anders Bergh
+624,3,O,Corey Donohoe
+625,11,O,Baptiste Fontaine
+626,5,O,Brendan Loudermilk
+627,32,O,Justin Hileman
+628,2,O,Pierre Bertet
+629,2,O,Brian Smyth
+630,17,O,Chris Ballinger
+631,5,O,Mike Clarke
+632,18,O,Wei Dai
+633,15,O,Darin Morrison
+634,86,O,David Holm
+635,2,O,Richard Lee
+636,5,O,Douglas Soares de Andrade
+637,11,O,Dane Summers
+638,2,O,Mitchell Johnson
+639,17,O,John Wiegley
+640,2,O,Etienne Segonzac
+641,1,O,Frank Laub
+642,1,O,Gerad Suyderhoud
+643,1,O,Henri Watson
+644,1,O,Ian Winter
+645,3,O,Michael H. Oshita
+646,13,O,Jon Anhold
+647,2,O,Ben Beuchler
+648,2,O,Alejandro Giacometti
+649,9,O,Justin Grevich
+650,5,O,Justin Mazzi
+651,1,O,John Nagro
+652,4,O,Joshua Jabbour
+653,2,O,Jesse Storimer
+654,2,O,Walter Cacau
+655,3,O,Joey Korkames
+656,2,O,Zuyang Kou
+657,4,O,petec
+658,1,O,Lincoln Lee
+659,4,O,Bjarte Johansen
+660,1,O,John Crepezzi
+661,2,O,Ali Mashtizadeh
+662,9,O,Ryan McKern
+663,3,O,meehow
+664,28,O,Martin Kühl
+665,14,O,Michael Hanson
+666,3,O,Ngoc Pham
+667,1,O,Patrick O'Doherty
+668,5,O,Simon Hafner
+669,21,O,René Moser
+670,1,O,Robert Duncan
+671,5,O,Ryan Kee
+672,1,O,Stephen Aghaulor
+673,2,O,Stephen Thirlwall
+674,2,O,Seth
+675,3,O,Alexey Shamrin
+676,11,O,Robert Shedd
+677,18,O,Simon Olofsson
+678,4,O,Steve Losh
+679,2,O,Tunghsiao Liu
+680,3,O,Mike Steder
+681,2,O,Munechika Sumikawa
+682,5,O,Lukas
+683,3,O,Tristan Harward
+684,2,O,Alexander Wenzowski
+685,1,O,Yamen Sader
+686,3,O,Andrea Campolonghi
+687,6,O,Marc Schlaich
+688,27,O,Hiroaki Nakamura
+689,8,O,Xidorn Quan
+690,3,O,Maxwell Swadling
+691,1,O,damian
+692,4,O,Bulat Shakirzyanov
+693,7,O,okuoku
+694,2,O,Christopher Lord
+695,6,O,Tom Hughes
+696,6,O,Matt Stevens
+697,22,O,Joshua Peek
+698,49,O,Adam Malcontenti-Wilson
+699,2,O,Dylan Lukes
+700,1,O,Mikkel Krautz
+701,3,O,Christophe Robin
+702,1,O,Scott Blomquist
+703,2,O,Brian Schroeder
+704,3,O,Daniel Peebles
+705,1,O,Rob Walch
+706,5,O,Andy Li
+707,3,O,Aaron Patterson
+708,15,O,Hong Xu
+709,1,O,Joshua Clayton
+710,6,O,Amos Wenger
+711,5,O,Jannes Jeising
+712,6,O,Jason Gessner
+713,2,O,Sean M. Collins
+714,2,O,Nathaniel Bibler
+715,8,O,Kevin Smith
+716,4609,M,Jack Nagel
+717,836,M,Charlie Sharpsteen
+718,50,O,Shaun Jackman
+719,2,O,Derek Perez
+720,1,O,Kevin Suttle
+721,3,O,Romain Muller
+722,2,O,Seth Fitzsimmons
+723,1,O,
+724,93,O,Mislav Marohnić
+725,9,O,George Song
+726,174,O,Peter Aronoff
+727,4,O,David Kendal
+728,1,O,Ulrich Petri
+729,55,O,JuanPablo
+730,1,O,Hef
+731,6,O,Zach Holman
+732,4,O,Jordan
+733,1,O,Guten Ye
+734,2,O,Daiderd Jordan
+735,2,O,Maxim Kouprianov
+736,4,O,Alex Shkolnikov
+737,13,O,Eloy Durán
+738,2,O,Julius Francisco
+739,1,O,Justin Blake
+740,1,O,Katherine G. Pe
+741,2,O,Anton Ilin
+742,4,O,Bryan J Swift
+743,9,O,Caius Durling
+744,21,O,Clint
+745,3,O,Ching-Han Ho
+746,4,O,Chris Schneider
+747,1,O,Daniel Durante
+748,2,O,Fabio Napoleoni
+749,2,O,Nando Vieira
+750,7,O,Edward Muller
+751,1,O,Galeo Tian
+752,1,O,
+753,2,O,Russell Brooks
+754,5,O,Jose Angel Cortinas
+755,4,O,Jan Varwig
+756,1,O,Jérémy Lecour
+757,8,O,Jason P. Scharf
+758,56,O,Sebastian Staudt
+759,3,O,Joel Niedfeldt
+760,1,O,Johannes Plunien
+761,2,O,Prashant Nadarajan
+762,29,O,
+763,1,O,Ramiro Jr. Franco
+764,7,O,Josh Toft
+765,2,O,Shigeya Suzuki
+766,4,O,Smiledawgg
+767,6,O,Stephen H. Gerstacker
+768,2,O,Tamir Duberstein
+769,2,O,Tatsuro Baba
+770,3,O,Thierry Henrio
+771,1,O,Tim Sell
+772,2,O,Trae Robrock
+773,4,O,Will Cosgrove
+774,2,O,Yury Korolev
+775,3,O,Noah Watkins
+776,4,O,Shota Aratono
+777,5,O,Michael Curtis
+778,1,O,Tim Tregubov
+779,2,O,Alan Jenkins
+780,1,O,Artur Rodrigues
+781,3,O,Dimitre
+782,5,O,Tobias Birmili
+783,2,O,Szymon Nowak
+784,39,O,Stein Magnus Jodal
+785,1,O,Manolis Stamatogiannakis
+786,5,O,Drarok Ithaqua
+787,15,O,Gasol Wu
+788,2,O,Matthias Schmidt
+789,6,O,Dominik Gruber
+790,5,O,Adrian
+791,2,O,Fabian Zeindl
+792,1,O,Bill Moritz
+793,1,O,Pedro
+794,3,O,Tim Carey-Smith
+795,15,O,Fabián Arias
+796,12,O,Dossy Shiobara
+797,5,O,Fabio M. Costa
+798,3,O,Chris Faulkner
+799,14,O,Chen\, Xiaoqiang
+800,3,O,Gints Murāns
+801,14,O,Ian Van Ness
+802,1,O,Jason Carr
+803,2,O,Jérémy Romey
+804,2,O,James Laver
+805,1,O,Lupo Montero
+806,13,O,Marc Qualie
+807,12,O,Max Horvath
+808,4,O,Andreas Hindborg
+809,4,O,Sven Ambros
+810,2,O,Sean Russell
+811,4,O,Oliver Beattie
+812,3,O,MATSUI Shinsuke (poppen)
+813,30,O,Ray Slakinski
+814,21,O,Matthew Daniel
+815,2,O,shelling
+816,22,O,Max Riveiro
+817,8,O,sliver
+818,4,O,lestrrat
+819,63,O,Sven Axelsson
+820,1,O,Ian Wolfcat Atha
+821,3,O,Trey Hyde
+822,2,O,wizsilex
+823,3,O,Alexandre Girard
+824,2,O,Jacob Bandes-Storch
+825,2,O,Sean Edwards
+826,2,O,Ryan Erwin
+827,2,O,Rick Harris
+828,1,O,Marcel Jackwerth
+829,1,O,Dave Dribin
+830,1,O,Adam
+831,6,O,Alex Gaynor
+832,1,O,Travis Vachon
+833,1,O,gjb83
+834,4,O,Alex Rønne Petersen
+835,2,O,Marcin Kulik
+836,1,O,Mike Nolta
+837,2,O,Doug Mayer
+838,836,M,Max Howell
+839,3,O,Mark Wolfe
+840,2,O,Chris Streeter
+841,9,O,Evan Oxfeld
+842,2,O,Chris Burke
+843,30,O,Marv Cool
+844,3,O,Anvar Karimson
+845,1,O,Gerhard Lazu
+846,2,O,Jesse B. Hannah
+847,6,O,Vincent Driessen
+848,2,O,David Stone
+849,4,O,Matias Korhonen
+850,1,O,Andreas Fredriksson
+851,4,O,Sergey Klimov
+852,3,O,Travis Tilley
+853,2,O,wmertens
+854,2,O,Simon Heimlicher
+855,2,O,Jeffrey Stedfast
+856,25,O,Jonas Pfenniger
+857,100,O,Sean Wilkinson
+858,3,O,Jari Bakken
+859,17,O,Konstantin Käfer
+860,4,O,Harrison Reiser
+861,31,O,José Valim
+862,2,O,Richard Hartmann
+863,1,O,David Huie
+864,3,O,Jason Barry
+865,2,O,Juanito Fatas
+866,3,O,Kushal Pisavadia
+867,10,O,Pranas Kiziela
+868,19,O,Sijawusz Pur Rahnama
+869,4,O,Takatoshi Matsumoto
+870,5,O,zenoamaro
+871,1,O,Allisson Azevedo
+872,41,O,Anatol
+873,2,O,Yuri Artemev
+874,1,O,Milovan Zogovic
+875,2,O,Rene Hopf
+876,5,O,Misha Bashkirov
+877,2,O,Benjamin Fritsch
+878,1,O,Alexey
+879,17,O,Alex Morega
+880,1,O,Blake Matheny
+881,18,O,Brett Hoerner
+882,6,O,Cameron Walters (cee-dub)
+883,2,O,Cheah Chu Yeow
+884,6,O,Chandler Latour
+885,2,O,Alexey Morozov
+886,1,O,
+887,4,O,Paul Bergeron
+888,8,O,Daniel Rech
+889,4,O,John Hsing
+890,4,O,Federico Bond
+891,1,O,Ferdinand Svehla
+892,4,O,Georg Kreimer
+893,3,O,Nihad Abbasov
+894,2,O,Bernardo Heynemann
+895,4,O,Philippe Mongeau
+896,3,O,ijohn
+897,10,O,Gvozden Neskovic
+898,7,O,Teddy Brown
+899,1,O,John Goodall
+900,1,O,Joseph Hsu
+901,3,O,Jeremy Cantrell
+902,2,O,Joel Limberg
+903,18,O,Jonathan Abourbih
+904,6,O,Jon Buffington
+905,2,O,Jon Parise
+906,2,O,jpld
+907,17,O,Jonathan Ragan-Kelley
+908,12,O,Kevin Williams
+909,3,O,Nikola Knežević
+910,22,O,Yehor Lvivski
+911,2,O,Tommaso Passi
+912,3,O,Mike Krieger
+913,3,O,Jason Berry
+914,2,O,Micah Koga
+915,11,O,Mateusz Lenik
+916,3,O,Michael Nygard
+917,3,O,mumhero
+918,2,O,Nick Saika
+919,1,O,Niko Felger
+920,2,O,Alex Corrado
+921,5,O,Stephen Belanger
+922,37,O,Damien Pollet
+923,2,O,Nicolas Brousse
+924,11,O,Chris Adams
+925,1,O,JD Harrington
+926,6,O,Hao Hong
+927,2,O,Dmitri Akatov
+928,3,O,Ralph von der Heyden
+929,1,O,Marc Seeger
+930,1,O,Alex Chee
+931,1,O,Amio Jin
+932,3,O,Sam Granieri
+933,3,O,Seth Baxter
+934,8,O,Sebastian Wyder
+935,2,O,Bas Kok
+936,2,O,Kalashnikov Igor
+937,2,O,Jan-Henrik
+938,1,O,Blake Taylor
+939,4,O,Stéphan Kochen
+940,6,O,Brandon Black
+941,2,O,Konstantin Tennhard
+942,4,O,Travis D. Warlick\, Jr.
+943,5,O,Tom Saeger
+944,2,O,依葫画瓢\,现学现卖
+945,1,O,Aaron Tian
+946,3,O,Coby Chapple
+947,3,O,Toby DiPasquale
+948,2,O,Alan Johnson
+949,18,O,Vasyl' Vavrychuk
+950,2,O,Stanislaw Pusep
+951,1,O,Christophe Spada
+952,4,O,Jake Good
+953,4,O,Daniel Demmel
+954,1,O,William P. Riley-Land
+955,4,O,Daniele Sluijters
+956,16,O,David M. Carr
+957,2,O,David Pärsson
+958,1,O,yarko
+959,4,O,Simon Ye
+960,3,O,Max Edmands
+961,2,O,Blake Gentry
+962,1,O,Ben Tucker
+963,3,O,Mikael Zayenz Lagerkvist
+964,1,O,Zachary Becker
+965,3,O,Daniel Stockhammer
+966,1,O,Eric DeLabar
+967,4,O,Joseph Liu
+968,1,O,Gaute Magnussen
+969,1,O,Hsiaoming Yang
+970,3,O,Kang-min Liu
+971,25,O,Marc
+972,2,O,herrernst
+973,2,O,Alexander Greim
+974,14,O,Ilya Sterin
+975,1,O,Simon Leblanc
+976,4,O,Rifat Nabi
+977,1,O,Marco Verdecchia
+978,7,O,Josh Delsman
+979,1,O,David Wolever
+980,4,O,Jiawei Li
+981,11,O,Jason Sallis
+982,7,O,lacre
+983,3,O,LI Daobing
+984,9,O,Lars Tackmann
+985,2,O,Matt Farina
+986,3,O,Mike Glazer
+987,3,O,Michael Hale
+988,2,O,Colin Kennedy
+989,2,O,Michal Svab
+990,40,O,Alex Regueiro
+991,2,O,Richard Wu
+992,33,O,Fernando Ortiz
+993,13,O,Jaeho Shin
+994,3,O,
+995,5,O,Bryan J. Ross
+996,2,O,Daniel M. Drucker
+997,2,O,Edgardo Rossetto
+998,2,O,Olivier Refalo
+999,1,O,Daniel Lin
+1000,2,O,John Downey
+1001,2,O,J. Patrick Sunday
+1002,1,O,Fabio Pisaruk
+1003,10,O,HAYASHI Kentaro
+1004,1,O,Luke van der Hoeven
+1005,13,O,Liam Staskawicz
+1006,2,O,Pieter van de Bruggen
+1007,1,O,Rafi Dudekula
+1008,3,O,Jacques Crocker
+1009,112,O,David Coeurjolly
+1010,1,O,Romain Lespinasse
+1011,43,O,Rich Manalang
+1012,1,O,Robin Wenglewski
+1013,2,O,William
+1014,2,O,Saulius Grigaliunas
+1015,2,O,Sandeep Ghael
+1016,25,O,Samuel Cochran
+1017,1,O,Sven Schober
+1018,6,O,ssp
+1019,2,O,Stan
+1020,2,O,Steve Hoeksema
+1021,1,O,Oleksandr Skrypnyk
+1022,1,O,Ivan Torres
+1023,19,O,Tobias Lidskog
+1024,4,O,Joe Block
+1025,3,O,Wannes Meert
+1026,2,O,Simon Jefford
+1027,2,O,Joseph Grace
+1028,2,O,Yuri Khrustalev
+1029,16,O,Yurii Rashkovskii
+1030,7,O,Alex Zinchenko
+1031,1,O,David Sawyer
+1032,4,O,Carlos Cardenas
+1033,13,O,Stefan
+1034,2,O,Eric Drechsel
+1035,2,O,handlename
+1036,2,O,Iyed
+1037,3,O,Jarrett Cruger
+1038,9,O,João
+1039,5,O,Sean McCleary
+1040,4,O,Chris Molozian
+1041,3,O,Eric Zhang
+1042,3,O,Christian Savard
+1043,2,O,Ian Langworth ☠
+1044,4,O,Stepan Koltsov
+1045,8,O,Brandon Siegel
+1046,6,O,Travis Cline
+1047,4,O,Andreas Neuhaus
+1048,2,O,Greg Leppert
+1049,7,O,Michael Pearson
+1050,1,O,Jacqui Maher
+1051,1,O,Michael Koziarski
+1052,14,O,Ori Livneh
+1053,1,O,Pradeep Gowda
+1054,8,O,Lucas Clemente
+1055,4,O,Václav Slavík
+1056,4,O,Nate Woolls
+1057,12,O,Semyon Perepelitsa
+1058,13,O,Adrian Petrescu
+1059,5,O,Brian Martin
+1060,41,O,Adrian Cole
+1061,2,O,Jozef Izso
+1062,1,O,Ben Chatelain
+1063,5,O,Nicolas Cavigneaux
+1064,2,O,Brandon Carl
+1065,2,O,Tim Moore
+1066,1,O,Travis Dempsey
+1067,2,O,Tobias Tangemann
+1068,2,O,Gareth Rees
+1069,7,O,Greg Osuri
+1070,4,O,Víctor Martínez
+1071,2,O,Julien Feltesse
+1072,4,O,Mitsutaka Mimura
+1073,1,O,David Dahl
+1074,2,O,Robert Newson
+1075,45,O,Karel Minarik
+1076,2,O,
+1077,10,O,Lucas Torri
+1078,5,O,Njal Karevoll
+1079,10,O,googolmo
+1080,6,O,Karsten Sperling
+1081,2,O,Jacob
+1082,11,O,Luke Campbell
+1083,2,O,Kenn Knowles
+1084,2,O,Jon Shea
+1085,2,O,Alexander Kahn
+1086,8,O,Ian Plosker
+1087,67,O,Ealden Escañan
+1088,10,O,Jay R. Wren
+1089,3,O,Alex Pretzlav
+1090,1,O,Andy Palmer
+1091,5,O,William Orr
+1092,9,O,Anton Rieder
+1093,7,O,Jesus Lopez
+1094,2,O,Kay Roepke
+1095,2,O,Eric Butler
+1096,6,O,Brandon Bloom
+1097,4,O,Alan Dipert
+1098,18,O,Justin Balthrop
+1099,6,O,Jarkko Oranen
+1100,1,O,Dmitry Chirkin
+1101,7,O,Nik Reiman
+1102,8,O,Ben Bleything
+1103,37,O,Jan Berkel
+1104,4,O,Naitik Shah
+1105,3,O,Peter Schröder
+1106,2,O,
+1107,33,O,Aria Stewart
+1108,2,O,Shawn Morel
+1109,1,O,Jamison Greeley
+1110,2,O,Jeff Palmucci
+1111,9,O,Pepijn de Vos
+1112,1,O,Felipe Bueno
+1113,15,O,Sung Pae
+1114,25,O,MerelyAPseudonym
+1115,1,O,rod
+1116,4,O,Dick Davies
+1117,2,O,Dan Burkert
+1118,1,O,Paul Nicholson
+1119,5,O,Eddie Ringle
+1120,10,O,Marc Simpson
+1121,2,O,Samy Dindane
+1122,6,O,Anthony Grimes
+1123,8,O,Marc Watts
+1124,6,O,Cory Burgett
+1125,28,O,Bryan Ivory
+1126,2,O,Bradley Wright
+1127,1,O,Christopher Coco
+1128,8,O,Christopher Roach
+1129,2,O,Dan Croak
+1130,1,O,Daniel Martins
+1131,2,O,dhilipsiva
+1132,37,O,Shannon Skipper
+1133,1,O,Issac Trotts
+1134,2,O,Jon Thacker
+1135,12,O,Jonathon Klobucar
+1136,13,O,Leon Zhang
+1137,1,O,Matthew Leonberger
+1138,3,O,Lyle Johnson
+1139,35,O,Michael Klishin
+1140,1,O,Trent Ogren
+1141,2,O,Mojo Talantikite
+1142,8,O,Mike Prentice
+1143,1,O,Michael Ossareh
+1144,2,O,Pop Qvarnström
+1145,68,O,Humza
+1146,343,O,David Li
+1147,5,O,wrb
+1148,2,O,Schnittchen
+1149,3,O,Paul Miller
+1150,7,O,K Henriksson
+1151,6,O,Marek Sebera
+1152,8,O,Dylan Thacker-Smith
+1153,2,O,Jan Gorman
+1154,2,O,Paul Lam
+1155,3,O,Andrew Crump
+1156,4,O,Alli
+1157,1,O,Artem Kramarenko
+1158,1,O,Edward Carrel
+1159,2,O,Andrew Pendleton
+1160,7,O,Brice Dutheil
+1161,1,O,Sergey Kuznetsov
+1162,4,O,Chris Wilkes
+1163,1,O,Doug Daniels
+1164,2,O,fawce
+1165,1,O,Ian Chesal
+1166,124,O,Ian Lancaster
+1167,6,O,Jay Levitt
+1168,16,O,Justin Donaldson
+1169,15,O,Jeff Kolesky
+1170,2,O,James Harris
+1171,19,O,Susan Potter
+1172,4,O,Jon Pierce
+1173,1,O,Joe Tanner
+1174,11,O,Manpreet Singh
+1175,14,O,Kaiwen Xu (Kevin)
+1176,12,O,Kyle Isom
+1177,10,O,John Knight
+1178,3,O,Luiz Irber
+1179,21,O,Kevin Lyda
+1180,23,O,Michael Johann
+1181,6,O,Mehdi Lahmam B.
+1182,1,O,Matt Follett
+1183,3,O,Matt Sanford
+1184,3,O,Ognen Ivanovski
+1185,6,O,Olivier Lauzon
+1186,3,O,Orr Sella
+1187,3,O,Patrick Lucas
+1188,1,O,Dave Peterson
+1189,2,O,Pier-Hugues Pellerin
+1190,25,O,Stefano Pigozzi
+1191,2,O,Simon Pantzare
+1192,1,O,Rach Belaid
+1193,5,O,Matt Dennewitz
+1194,3,O,Steve Agalloco
+1195,1,O,James Roper
+1196,5,O,risk danger olson
+1197,2,O,Trevor Bedford
+1198,1,O,Ugo Matrangolo
+1199,2,O,vv
+1200,1,O,Wei Jianwen
+1201,8,O,Jason Whittle
+1202,12,O,Christian Romney
+1203,1,O,yayj
+1204,14,O,James William Dumay
+1205,4,O,Clayton Wheeler
+1206,5,O,Douglas Campos
+1207,1,O,Stefan Saasen
+1208,7,O,Franz Bettag
+1209,1,O,Ben Jansen
+1210,2,O,Jerome Bernard
+1211,1,O,Mirko Caserta
+1212,5,O,Jeff Hodges
+1213,5,O,Jack Ivy
+1214,1,O,Greg Roodt
+1215,3,O,Reto Kaiser
+1216,3,O,Sebastian Roth
+1217,4,O,Kenji Rikitake
+1218,3,O,Ben Burkert
+1219,8,O,Gerd Behrmann
+1220,2,O,Steven Verbeek
+1221,1,O,Tim Oxley
+1222,14,O,Reid Burke
+1223,1,O,Sadique Ali
+1224,3,O,Matt Robenolt
+1225,1,O,Matt Burke
+1226,1,O,Wade Simmons
+1227,3,O,Jonathan Dahan
+1228,2,O,Laszlo (@laczoka on Twitter)
+1229,2,O,Alex Malinovich
+1230,11,O,Jonathan 'Wolf' Rentzsch
+1231,3,O,Tom Fuertes
+1232,1,O,Jean Boussier
+1233,3,O,Charles Lehner
+1234,2,O,Xavier Shay
+1235,2,O,David Bonner
+1236,2,O,Sindre Sorhus
+1237,1,O,Tim Sharpe
+1238,7,O,Linus Heckemann
+1239,2,O,Matthieu Moquet
+1240,7,O,Ryan Wang
+1241,2,O,Daniel Passos
+1242,1,O,Jason Stillwell
+1243,2,O,Sylvester Keil
+1244,1,O,Nathan L Smith
+1245,1,O,Gildas Cuisinier
+1246,13,O,Jess Thrysoee
+1247,2,O,Jason Ryan Womack
+1248,6,O,Bart Vandendriessche
+1249,2,O,Kensuke Nagae
+1250,3,O,Brian Kidney
+1251,3,O,Iain Beeston
+1252,8,O,Mirek Rusin
+1253,3,O,Jon Seymour
+1254,14,O,Andrew Griffiths
+1255,1,O,Will Newby
+1256,1,O,Jeff Tratner
+1257,1,O,Chris Jones
+1258,37,O,Penn Su
+1259,3,O,Scott Walker
+1260,3,O,Gabe Berke-Williams
+1261,1,O,Matt Lins
+1262,1,O,Sam Nguyen
+1263,2,O,Han
+1264,3,O,Frederic Hemberger
+1265,10,O,Geoff Greer
+1266,44,O,Devin Weaver
+1267,1,O,Damon Davison
+1268,2,O,Daniel Garcia
+1269,7,O,Martin Balfanz
+1270,1,O,Benson Kalahar
+1271,1,O,Ryan Smith-Roberts
+1272,2,O,Noah M. Jorgenson
+1273,1,O,Yann Mainier
+1274,4,O,Bruno Aguirre
+1275,4,O,Cedric Gatay
+1276,42,O,Marcus Vinicius Ferreira
+1277,6,O,Greggory Rothmeier
+1278,2,O,Bruno Miranda
+1279,9,O,Eric J. Duran
+1280,4,O,Don Spaulding
+1281,2,O,@RandyMcMillan
+1282,10,O,Brian Celenza
+1283,6,O,Aristides Lourenco
+1284,5,O,Lorin Rivers
+1285,2,O,Andrew F
+1286,6,O,Matt Butcher
+1287,10,O,Deniss Afonin
+1288,26,O,Wayne Graham
+1289,1,O,Franklin Chen
+1290,1,O,Girish Ramakrishnan
+1291,2,O, Boris Feld
+1292,1,O,Trevor Menagh
+1293,8,O,Jayson Reis
+1294,1,O,Andrew Ash
+1295,3,O,Sebastian Kusnier
+1296,1,O,hatone
+1297,10,O,Bryan Forbes
+1298,5,O,Daniel Schmidt
+1299,18,O,Yousef Ourabi
+1300,3,O,Frankie Hayward
+1301,3,O,Tom Scott
+1302,6,O,John Hewson
+1303,9,O,Trung Lê
+1304,12,O,Paul Horn
+1305,23,O,Huahang Liu
+1306,2,O,Ville Korhonen
+1307,2,O,fake-or-dead
+1308,54,O,Frank Celler
+1309,9,O,dejay
+1310,1,O,Henrik Hodne
+1311,11,O,Andrey Chizh
+1312,2,O,Sean McCullough
+1313,2,O,Diógenes Augusto Fernandes Herminio
+1314,7,O,Alessio Caiazza
+1315,2,O,Pierre ⨵⫝⨴ Carrier
+1316,1,O,Václav Novotný
+1317,2,O,Leon Radley
+1318,4,O,Joseph Bryan
+1319,3,O,Mirko Grönroos
+1320,2,O,Jonathan Doklovic
+1321,4,O,Beau Gunderson
+1322,6,O,Martin Jagusch
+1323,6,O,Keith Shaw
+1324,3,O,John Whitley
+1325,4,O,Joe Fiorini
+1326,3,O,Damien Klinnert
+1327,19,O,Keenan Brock
+1328,2,O,Ed
+1329,1,O,Robin Houston
+1330,2,O,Kir Belevich
+1331,1,O,Grigory V.
+1332,5,O,Zac Stewart
+1333,1,O,Mitch Johnson
+1334,3,O,Zhuang Ya
+1335,18,O,Leonhardt Wille
+1336,2,O,Ed Hutchins
+1337,2,O,Morgan Estes
+1338,2,O,Ramiro Rikkert
+1339,1,O,Myles Byrne
+1340,1,O,Peter Baumgartner
+1341,1,O,Ash Berlin
+1342,2,O,Kiyoshi Murata
+1343,1,O,Jean-Michel Garnier
+1344,2,O,AstonJ
+1345,1,O,Digeon Benjamin
+1346,2574,O,Brett Koonce
+1347,10,O,Mario Uher
+1348,2,O,ajk
+1349,1,O,Akash Manohar
+1350,1,O,Jared Sartin
+1351,3,O,Johan
+1352,3,O,LeFnord
+1353,3,O,Lukas Wegmann
+1354,9,O,Matti Schneider
+1355,1,O,Grant Heffernan
+1356,2,O,Mika Eloranta
+1357,3,O,Martin Schürrer
+1358,4,O,Ian MacLeod
+1359,4,O,Romain Beauxis
+1360,4,O,Andy Blyler
+1361,2,O,Adam McElwee
+1362,2,O,Adam Duke
+1363,24,O,Shazron Abdullah
+1364,2,O,Alan Oliver
+1365,1,O,Calle Wolff
+1366,4,O,Moritz Angermann
+1367,1,O,Yuri Feldman
+1368,5,O,Arnaud RENARD
+1369,3,O,Rehan Iftikhar
+1370,1,O,Rob Griffiths
+1371,9,O,Bart Leusink
+1372,1,O,Igor Alexandrov
+1373,2,O,Lee Trout
+1374,2,O,Jim Radford
+1375,2,O,Brad Parbs
+1376,3,O,Philippe Bricout
+1377,1,O,Peter Hollows
+1378,5,O,Samuli Kaipiainen
+1379,6,O,Andrés Catalán
+1380,22,O,Can Berk Güder
+1381,1,O,Chase Southard
+1382,2,O,Stefan Glase
+1383,10,O,lucha
+1384,3,O,Antoine BERNIER
+1385,2,O,Daniel Baldwin
+1386,6,O,darron froese
+1387,1,O,Dan Manges
+1388,3,O,Kostiantyn Kahanskyi
+1389,37,O,Shuen Huei Guan
+1390,3,O,elm
+1391,1,O,Andrew Ferguson
+1392,2,O,Franck Cuny
+1393,1,O,Square
+1394,2,O,Nelson Minar
+1395,5,O,Guillaume Plessis
+1396,7,O,Guan Yang
+1397,2,O,haron
+1398,2,O,Andrew Kraut
+1399,2,O,Jeff Avallone
+1400,3,O,Jacob Elder
+1401,13,O,Mark Sonnabaum
+1402,3,O,Jose Miguel
+1403,2,O,Johan Hammar
+1404,2,O,David Stuebe
+1405,2,O,Leonard Ehrenfried
+1406,1,O,Nikolay Shebanov  
+1407,2,O,Kyle
+1408,3,O,Gonzalo Rodríguez-Baltanás Díaz
+1409,2,O,Lester Cheung
+1410,3,O,Jeremy Whitlock
+1411,1,O,Chris Christensen
+1412,1,O,Johan Oskarsson
+1413,2,O,Matt Di Pasquale
+1414,5,O,Lucas Florio
+1415,1,O,Maxime Hadjinlian
+1416,1,O,Matt Swain
+1417,7,O,Michael
+1418,25,O,Tryn Mirell
+1419,23,O,John Benediktsson
+1420,9,O,Juan Felipe Alvarez Saldarriaga
+1421,1,O,David Rose
+1422,7,O,Jeroen
+1423,6,O,Petr Hošek
+1424,3,O,Tom Vincent
+1425,4,O,Daniel Kertesz
+1426,1,O,Philipp Klaus
+1427,3,O,Diego Plentz
+1428,5,O,Chris Rebert
+1429,3,O,Aaron Bell
+1430,1,O,rafaeldx7
+1431,4,O,Josh Channings
+1432,2,O,Ranmocy
+1433,4,O,Rui Carmo
+1434,4,O,Robert Jackson
+1435,7,O,Juntai Park
+1436,11,O,Rodrigo Chacon
+1437,6,O,Rodrigo Oliveira
+1438,7,O,px
+1439,3,O,Nicola Tuveri
+1440,467,O,Samuel John
+1441,4,O,Zach Moazeni
+1442,6,O,Derek Ashley Thomas
+1443,2,O,Tai-An\, Su
+1444,1,O,Tiago Brito
+1445,2,O,KAWACHI Takashi
+1446,7,O,Trevor Muñoz
+1447,4,O,Torkild U. Resheim
+1448,7,O,Tarcísio Gruppi
+1449,4,O,Vikhyat Korrapati
+1450,5,O,Marcos Ojeda
+1451,2,O,Will Leinweber
+1452,2,O,William Roe
+1453,3,O,Alin Popa
+1454,2,O,Matt Furden
+1455,1,O,Alex Brausewetter
+1456,1,O,Wil Moore III
+1457,4,O,Peter
+1458,15,O,Amir Chaudhry
+1459,2,O,Toon Claes
+1460,3,O,Nils Caspar
+1461,1,O,Albert Sun
+1462,2,O,Arturo J. Pérez
+1463,6,O,Jon Roberts
+1464,1,O,Hector Parra
+1465,4,O,Il-Young Son
+1466,4,O,Jeremy Voorhis
+1467,4,O,Tanner Lovelace
+1468,3,O,Matt Scilipoti
+1469,3,O,Matt Keeter
+1470,10,O,Nick
+1471,3,O,Ramsay Stirling II
+1472,2,O,Ole Kristensen
+1473,9,O,Rory O’Kane
+1474,1,O,Paul Vinieratos
+1475,2,O,Chris Meller
+1476,3,O,shaharz
+1477,2,O,Rostislav
+1478,4,O,Greg Guthe
+1479,4,O,Woody Gilk
+1480,2,O,Chris Berkhout
+1481,2,O,Chris Castle
+1482,56,O,Christian Moritz
+1483,2,O,Christoph Heer
+1484,3,O,Henrik Nyh
+1485,3,O,Daniel Beauchamp
+1486,2,O,aaronchi
+1487,3,O,Ruud Kamphuis
+1488,17,O,Donald Ephraim Curtis
+1489,4,O,David Stoline
+1490,4,O,Andrew Berry
+1491,1,O,Marc Leglise
+1492,1,O,Doug
+1493,8,O,Benjamin Cremer
+1494,3,O,Florian Weber
+1495,1,O,Mihai Târnovan
+1496,2,O,andrew morton
+1497,1,O,Alexey Shockov
+1498,7,O,Romain Neutron
+1499,8,O,Yuval Adam
+1500,2,O,Kris Wallsmith
+1501,3,O,Sébastien Lavoie
+1502,2,O,Jeanmonod David
+1503,2,O,olovsundstrom
+1504,7,O,Francisco Facioni
+1505,3,O,Ilya Katz
+1506,1,O,Konstantin
+1507,3,O,Henrik Bjørnskov
+1508,4,O,Philipp Wahala
+1509,1,O,Chris Sedlmayr
+1510,6,O,George Montana Harkin
+1511,2,O,Radosław Benkel
+1512,4,O,Jaik Dean
+1513,24,O,Min RK
+1514,6,O,Adam Gibbins
+1515,10,O,Dominik Moritz
+1516,20,O,Alexey Zakhlestin
+1517,2,O,Amedeo Paglione
+1518,3,O,Idris Mokhtarzada
+1519,12,O,Rico Sta. Cruz
+1520,3,O,Hannu Hartikainen
+1521,19,O,Ed
+1522,5,O,Sander Bouwhuis
+1523,8,O,Christopher Kolstad
+1524,1,O,Dan Noble
+1525,2,O,Humberto Morales
+1526,9,O,Jasper van Wanrooy
+1527,1,O,Marc Schwering
+1528,8,O,mschueler
+1529,5,O,Nick Dimiduk
+1530,5,O,Julien Duponchelle
+1531,6,O,Jeffrey Hardy
+1532,42,O,Sebastian Sdorra
+1533,3,O,Alexander Simonov
+1534,1,O,Tyler Smalley
+1535,2,O,David Reese
+1536,145,O,Wes Baker
+1537,2,O,Rogerio Prado de Jesus
+1538,5,O,Alexander Pirsig
+1539,52,O,Andy Piper
+1540,6,O,Zack Kitzmiller
+1541,10,O,Eric Schrijver
+1542,2,O,Guillaume Massé
+1543,2,O,Sema
+1544,11,O,burningTyger
+1545,2,O,Tomas Lin
+1546,3,O,Yannick Schutz
+1547,2,O,Rob Gabaree
+1548,4,O,Jakob Rath
+1549,2,O,Jon Rowe
+1550,93,O,James Aitken
+1551,3,O,YaGeek
+1552,4,O,Adhip Gupta
+1553,3,O,Adrian Rego
+1554,7,O,Arthur Maltson
+1555,52,O,Lifepillar
+1556,8,O,Bradley Wagner
+1557,2,O,Aleksey Lashin
+1558,3,O,Ivan Porto Carrero
+1559,2,O,John Griffin
+1560,16,O,Cliff Rowley
+1561,2,O,Christoph Schiessl
+1562,1,O,Darren Jeacocke
+1563,1,O,Drew Butler
+1564,2,O,Thomas Dippel
+1565,12,O,Douglas F Shearer
+1566,8,O,David Larson
+1567,1,O,Stephen Haynes
+1568,1,O,Pierre
+1569,2,O,Filipe Moreira
+1570,91,O,Joshua Griffith
+1571,2,O,Pascal Immerzeel
+1572,3,O,Joshua Priddle
+1573,8,O,jsa :~
+1574,4,O,Joachim Beckers
+1575,3,O,James Conroy-Finn
+1576,4,O,Javier Goizueta
+1577,1,O,Joe Maller
+1578,2,O,Josep Jaume Rey
+1579,4,O,Michiel Missotten
+1580,2,O,Julian Bonilla
+1581,1,O,Karan Lyons
+1582,2,O,Kei Shiratsuchi
+1583,2,O,Bilal Syed Hussain
+1584,2,O,Jim Dabell
+1585,1,O,Adomas
+1586,2,O,Byron
+1587,5,O,Brian Buchanan
+1588,2,O,Carlos Yakimov
+1589,7,O,dongweiming
+1590,1,O,Tim Kersey
+1591,1,O,James Sadler
+1592,3,O,Josh Lee
+1593,3,O,Jacob Kjeldahl
+1594,19,O,Paul Fitzpatrick
+1595,10,O,José Otávio Rizzatti
+1596,4,O,Hayaki Saito
+1597,5,O,Daniel Tang
+1598,3,O,
+1599,3,O,Mark Quezada
+1600,7,O,Matt Passell
+1601,5,O,Martin Fitzpatrick
+1602,17,O,Michael G. Ströck
+1603,1,O,Matthias Müller
+1604,2,O,Jason Ormand
+1605,45,O,Harry Gabriel
+1606,5,O,Patrick Stadler
+1607,1,O,Eric Hayes
+1608,2,O,Roderik van der Veer
+1609,3,O,Seth Vargo
+1610,1,O,Shilo Ayalon
+1611,1,O,Shahbaz Javeed
+1612,7,O,Steven Luu
+1613,3,O,SHIMADA Koji
+1614,27,O,Sorin Ionescu
+1615,2,O,Bob Aman
+1616,2,O,Sridhar Ratnakumar
+1617,3,O,Manuel Alabor
+1618,2,O,Thomas Bartelmess
+1619,19,O,Katherine Whitlock
+1620,2,O,Ralph Schindler
+1621,66,O,Simon Sigurdhsson
+1622,3,O,Ben Lancaster
+1623,2,O,Ben Regenspan
+1624,1,O,Dirk Kirsten
+1625,5,O,Eungju PARK
+1626,1,O,Tux Yik
+1627,2,O,Steve Krall
+1628,4,O,Thomas Kim Pham
+1629,1,O,Ilias Van Peer
+1630,7,O,Nick Zaccardi
+1631,2,O,Patrick Berry
+1632,2,O,Dominick Ng
+1633,4,O,Tyler Davis
+1634,24,O,Matthew Callis
+1635,46,O,Nicholas Humfrey
+1636,18,O,Ryan Johnston
+1637,5,O,Matthew Rothenberg
+1638,1,O,Abraham Estrada
+1639,4,O,Ivan Krechetov
+1640,2,O,Mark Hughes
+1641,3,O,Sebastian de Castelberg
+1642,2,O,Kent
+1643,2,O,Junya Hayashi
+1644,4,O,Andriy Tyurnikov
+1645,9,O,Rémi Prévost
+1646,29,O,Kyle Fuller
+1647,2,O,Mikołaj Siedlarek
+1648,1,O,Jason Allum
+1649,10,O,Mike Tigas
+1650,7,O,Jason Thaxter
+1651,4,O,Germán M. Bravo
+1652,3,O,Taylor Mitchell
+1653,5,O,Horst Gutmann
+1654,3,O,Alex Cabrera
+1655,1,O,mark hellewell
+1656,56,O,Jannis Leidel
+1657,7,O,Bob Fanger
+1658,3,O,David Reynolds
+1659,19,O,Robson Roberto Souza Peixoto
+1660,2,O,Daniel D. Beck
+1661,4,O,Nicholas Young
+1662,2,O,Rafik Draoui
+1663,3,O,
+1664,3,O,Johannes Schönberger
+1665,4,O,Brandon Konkle
+1666,1,O,Brent Fitzgerald
+1667,1,O,Sebastian Galonska
+1668,2,O,Daniil
+1669,2,O,Devin Sevilla
+1670,4,O,Ramanan Sivaranjan
+1671,15,O,Keith Fitzgerald
+1672,2,O,Gert Van Gool
+1673,6,O,HOSONO Hidetomo
+1674,2,O,Henrik Almér
+1675,6,O,Igor Guerrero
+1676,16,O,Jiahao Chen
+1677,2,O,Jacob Magnusson
+1678,2,O,Jakub Stasiak
+1679,2,O,Florian Le Goff
+1680,1,O,Marcelo Ramos
+1681,2,O,Maciej Konieczny
+1682,85,O,Brandon Bennett
+1683,2,O,Ernesto Rico-Schmidt
+1684,5,O,Tzu-ping Chung
+1685,1,O,Davide Setti
+1686,8,O,Victor Castell
+1687,6,O,SKAhack
+1688,2,O,Geoff Petrie
+1689,21,O,Attila Györffy
+1690,2,O,Christian Barcenas
+1691,2,O,Naja v. Schmude
+1692,1,O,Pierre Paridans
+1693,14,O,Matthew Lewinski
+1694,7,O,Matthew Lewinski
+1695,10,O,Victor Trac
+1696,4,O,KJ
+1697,9,O,Yamashita\, Yuu
+1698,4,O,James Brown
+1699,19,O,Jason A. Donenfeld
+1700,3,O,Wes Mason
+1701,2,O,Bill Mill
+1702,1,O,Richard Schneeman
+1703,2,O,Luca Spiller
+1704,38,O,Sundar Raman
+1705,30,O,Dave Cottlehuber
+1706,2,O,Christopher Currie
+1707,2,O,Dan Callahan
+1708,89,O,Aku Kotkavuo
+1709,3,O,André Wobst
+1710,17,O,Lance Hepler
+1711,2,O,Eden Li
+1712,8,O,Charles-Axel Dein
+1713,4,O,sib
+1714,3,O,Alejandro Machado
+1715,3,O,Anthony Dahanne
+1716,8,O,Lorenzo Manacorda
+1717,2,O,Ed Hickey
+1718,1,O,Bill Agee
+1719,4,O,Cameron Tod
+1720,5,O,Michael Kohl
+1721,1,O,Carlo Cabanilla
+1722,5,O,Ben Bass
+1723,4,O,Daemian Mack
+1724,4,O,Gavin M. Roy
+1725,9,O,Denis Barushev
+1726,2,O,Dean Holdren
+1727,43,O,Dmitriy Kopylenko
+1728,2,O,Dylan Vassallo
+1729,6,O,David Baumgold
+1730,5,O,Adam Lindberg
+1731,3,O,Feng Zhou
+1732,3,O,Munkhbaatar
+1733,2,O,Goran Stefkovski
+1734,2,O,Hector Castro
+1735,4,O,Jarrett Meyer
+1736,1,O,Josh Kaplan
+1737,2,O,John Kurkowski
+1738,1,O,John Liu
+1739,2,O,Jared McGuire
+1740,2,O,Justin Mayer
+1741,1,O,Nikolay Bachiyski
+1742,2,O,Markus Herb
+1743,5,O,Pierre Riteau
+1744,2,O,Raphael Speyer
+1745,2,O,Romain Ruetschi
+1746,4,O,Jared Miller
+1747,2,O,Matthew Montgomery
+1748,1,O,Sylvain Soliman
+1749,1,O,Théophile Studer
+1750,6,O,Suvash Thapaliya
+1751,2,O,Seve Salazar
+1752,5,O,Ildar Karimov
+1753,17,O,Matt Whiteley
+1754,1,O,Mitchell Hashimoto
+1755,13,O,David Wooldridge
+1756,6,O,Zak Johnson
+1757,14,O,Kyle Marek-Spartz
+1758,24,O,Justin de Vesine
+1759,1,O,Arturo Filastò
+1760,18,O,Ilya Kulakov
+1761,5,O,Morton Jonuschat
+1762,1,O,Stefane Fermigier
+1763,2,O,Terrell Russell
+1764,5,O,Kyle Conroy
+1765,6,O,papaeye
+1766,8,O,Jonathan Halcrow
+1767,1,O,Jonty Wareing
+1768,4,O,Kenneth Reitz
+1769,1,O,Sophie Dawson
+1770,1,O,Mat Schaffer
+1771,22,O,Drew Stephens
+1772,3,O,Guy Rozendorn
+1773,2,O,Roch Delsalle
+1774,5,O,Chris Rose
+1775,1,O,Gael Pasgrimaud
+1776,1,O,Lincoln Stoll
+1777,10,O,Michael J. Schultz
+1778,1,O,Lincoln Mullen
+1779,2,O,Christian Hudon
+1780,9,O,Alessandro Tagliapietra
+1781,4,O,Sina Siadat
+1782,3,O,Mike Ryan
+1783,1,O,Ronildo Costa
+1784,4,O,Augie Fackler
+1785,5,O,
+1786,1,O,Roman Kuzmin
+1787,5,O,Pete Baker
+1788,7,O,Carbo Kuo
+1789,13,O,Steffen Matthischke
+1790,2,O,Thibault NORMAND
+1791,2,O,Dan Boykis
+1792,1,O,hemlockII
+1793,2,O,Nikolay Morev
+1794,21,O,Laurent Raufaste
+1795,1,O,Jake McGinty
+1796,2,O,Adam Anderson
+1797,4,O,Andrew Tian
+1798,1,O,Hauke Stange
+1799,1,O,hyqhyq_3
+1800,1,O,Josh Butts
+1801,1,O,Masahiro Nakagawa
+1802,2,O,Øyvind Ingebrigtsen Øvergaard
+1803,1,O,Mario Mueller
+1804,1,O,Faraz Yashar
+1805,2,O,Joe
+1806,3,O,Jonathan Zempel
+1807,2,O,Brandon Konkle
+1808,2,O,Tom Hoover
+1809,3,O,Ben Cohen
+1810,4,O,Jamie Kirkpatrick
+1811,5,O,Riobard
+1812,9,O,Doug Johnston
+1813,3,O,John Speno
+1814,3,O,Dennis
+1815,2,O,Gleicon Moraes
+1816,2,O,Geries Handal
+1817,2,O,ioxenus
+1818,1,O,Richard Bronosky
+1819,2,O,Richard Mortier
+1820,1,O,Jeff Tang
+1821,3,O,JK Laiho
+1822,5,O,Shayne Sweeney
+1823,5,O,Swaroop C H
+1824,3,O,zachheine
+1825,3,O,Mike TUMS
+1826,1,O,Pedro Ferreira
+1827,2,O,Martijn Storck
+1828,3,O,Tim Keating
+1829,2,O,Andrey Deryabin
+1830,12,O,Benjamin Weber
+1831,2,O,Rod Knowlton
+1832,12,O,Dale Ackerman
+1833,1,O,Dan Palmer
+1834,4,O,Joachim Brandon LeBlanc
+1835,2,O,eduardgrebe
+1836,3,O,Felipe Navarro V.
+1837,18,O,Jørgen P. Tjernø
+1838,1,O,Greg Heo
+1839,3,O,Philip Harrison
+1840,2,O,Jeremy Ehrhardt
+1841,1,O,
+1842,3,O,Andrew Erickson
+1843,1,O,Ben Cochran
+1844,6,O,Markus Cisler
+1845,4,O,Bartosz Telenczuk
+1846,2,O,Joni Kanerva
+1847,2,O,cocoatomo
+1848,1,O,Chris Schepman
+1849,2,O,David Caplan
+1850,16,O,Sean
+1851,42,O,dinkypumpkin
+1852,2,O,André Arko
+1853,11,O,James Pearson
+1854,2,O,
+1855,3,O,Patrick Armstrong
+1856,1,O,Gleb
+1857,2,O,Ivan Koshkin
+1858,1,O,Jason Horman
+1859,2,O,Mark Devlin
+1860,1,O,Will Boyce
+1861,6,O,NANKI Haruo
+1862,3,O,Murphy Randle
+1863,1,O,Jaturawit Duangmanee
+1864,2,O,Liu Bin
+1865,9,O,Pedro Vanzella
+1866,2,O,Chris P. Jobling
+1867,12,O,Peter van der Does
+1868,4,O,Andreas Tiefenthaler
+1869,3,O,Henry Mercer
+1870,1,O,Mikael Quist
+1871,4,O,Paul Welch
+1872,1,O,Rafał Sobota
+1873,5,O,Hugo Ferreira
+1874,1,O,James Stout
+1875,1,O,James Tatum
+1876,1,O,Anh Quang Do
+1877,2,O,Travis La Marr
+1878,4,O,Fred Calsen
+1879,10,O,Greg Sieranski
+1880,1,O,Yannick Jost
+1881,4,O,Christian Hofstaedtler
+1882,1,O,dbr/Ben
+1883,1,O,Arnoud Vermeer
+1884,3,O,George Whewell
+1885,4,O,Michael Weibel
+1886,20,O,AAS
+1887,3,O,Alex Ehlke
+1888,4,O,Johann Heller
+1889,1,O,Nate Jones
+1890,1,O,Jay Graves
+1891,2,O,Enrico
+1892,3,O,Peter Baker
+1893,1,O,Wes Oldenbeuving
+1894,1,O,André Wendt
+1895,9,O,Matthew Rudy Jacobs
+1896,3,O,John Reilly
+1897,4,O,Robert Bousquet
+1898,4,O,Michail Pishchagin
+1899,2,O,Piotr Sarnacki
+1900,1,O,Michael D. Ivey
+1901,1,O,Maxim Chernyak aka hakunin
+1902,1,O,Caio Chassot
+1903,30,O,Pete Deffendol
+1904,2,O,Elijah Miller
+1905,2,O,Franck Verrot
+1906,2,O,Jun Harada
+1907,2,O,Bryan Liles
+1908,1,O,Steve Abatangle
+1909,95,O,Martin Plöger
+1910,2,O,Rafael Mendonça França
+1911,8,O,Sebastian Cohnen
+1912,1,O,
+1913,2,O,David Calavera
+1914,1,O,Matti Paksula
+1915,2,O,Pavel Gorbokon
+1916,1,O,Samuel Kadolph
+1917,4,O,Josh Goebel
+1918,3,O,Preston Marshall
+1919,1,O,Gavin Brock
+1920,6,O,Marshall Yount
+1921,3,O,Kyle Machulis
+1922,7,O,Paul Kmiec
+1923,10,O,Chris Griego
+1924,8,O,Paul Hinze
+1925,10,O,Adam Durity
+1926,6,O,Ryan Davis
+1927,2,O,Li Xiao
+1928,1,O,Rolf Timmermans
+1929,3,O,Nathaniel Talbott
+1930,1,O,Scott Kyle
+1931,1,O,Mike Gehard
+1932,1,O,clay richardson
+1933,12,O,ben lovett
+1934,3,O,Matthew R. Scott
+1935,1,O,Pivotal Casebook
+1936,2,O,Jan Krutisch
+1937,56,O,Andrew Marshall
+1938,1,O,Daniel Cadenas
+1939,3,O,Gustavo Delfino
+1940,1,O,Simon Chiang
+1941,1,O,Greg Sterndale
+1942,1,O,Phillip Calvin
+1943,2,O,Bradley Grzesiak
+1944,1,O,Ben Ubois
+1945,4,O,Derek Prior
+1946,2,O,John Wood
+1947,42,O,Christian Höltje
+1948,2,O,Robert Glaser
+1949,1,O,George Ogata
+1950,3,O,Adam Palmblad
+1951,3,O,Aviv Ben-Yosef
+1952,1,O,Amir Manji
+1953,1,O,Colin MacKenzie IV
+1954,2,O,christopher flöß
+1955,2,O,Fabrizio Regini
+1956,1,O,Oleg Dashevskii
+1957,2,O,Brett Porter
+1958,2,O,Michael Galero
+1959,1,O,JJ Buckley
+1960,3,O,Jeremy Walker
+1961,2,O,Rick Harris
+1962,31,O,Ruben Fonseca
+1963,4,O,Celestino Gomes
+1964,8,O,Wes Morgan
+1965,3,O,Boris Gordon
+1966,4,O,Fotos Georgiadis
+1967,2,O,Mario Visic
+1968,3,O,Grant Hutchins
+1969,47,O,Aleksander Modzelewski
+1970,7,O,Julien BLANCHARD
+1971,7,O,David Rice
+1972,11,O,Aaron Suggs
+1973,3,O,Roman V. Babenko
+1974,15,O,Jiayong Ou
+1975,1,O,James Sanders
+1976,2,O,Simeon Willbanks
+1977,1,O,Enrico Carlesso
+1978,18,O,Joshua Timberman
+1979,9,O,Stefan Schüßler
+1980,6,O,Kyle VanderBeek
+1981,15,O,Markus Prinz
+1982,1,O,Keaton Mowery
+1983,1,O,Tony Arcieri
+1984,3,O,Fred Oliveira
+1985,2,O,Riley Lynch
+1986,2,O,Dan Larkin
+1987,6,O,Markus Heberling
+1988,8,O,Alex Payne
+1989,7,O,Robby Grossman
+1990,1,O,Ahmed Al Hafoudh
+1991,2,O,Teng Siong Ong
+1992,2,O,Thiago Pradi
+1993,2,O,Leo Cassarani
+1994,4,O,Johnneylee Jack Rollins
+1995,2,O,Emmanuel Blot
+1996,1,O,Omer Jakobinsky
+1997,67,O,Erik Michaels-Ober
+1998,2,O,Dan Arnfield
+1999,1,O,Rufo Sanchez
+2000,11,O,Sixten Otto
+2001,5,O,Dave Lee
+2002,2,O,Hannes Tydén
+2003,2,O,Tony Garnock-Jones
+2004,42,O,David Gageot
+2005,7,O,Andreas Fuchs
+2006,1,O,Bart ten Brinke
+2007,25,O,Ali Asad Lotia
+2008,21,O,Sudish Joseph
+2009,1,O,Michael Kedzierski
+2010,3,O,Berry Phillips
+2011,2,O,Adam Mckaig
+2012,4,O,Chris Wanstrath
+2013,3,O,Miha Filej
+2014,2,O,Tim McGilchrist
+2015,1,O,Piet Jaspers
+2016,3,O,Koen Van der Auwera
+2017,2,O,Trevor Turk
+2018,2,O,Frankie Dintino
+2019,3,O,Gregoire Lejeune
+2020,1,O,Leo Correa
+2021,46,O,Pieter Nicolai
+2022,4,O,Stephen Touset
+2023,1,O,Russell Harmon
+2024,4,O,Carmine Paolino
+2025,2,O,Steven G. Harms
+2026,3,O,Simon Whitaker
+2027,2,O,Michael Wild
+2028,10,O,George Macon
+2029,5,O,Alan Harper
+2030,3,O,Rodrigo Kochenburger
+2031,1,O,Chris Read
+2032,2,O,IWATSUKI Hiroyuki
+2033,1,O,Brett Goulder
+2034,2,O,Joel Cogen
+2035,10,O,Tony Sokhon
+2036,2,O,Marcus Derencius
+2037,6,O,Chris Mar
+2038,2,O,Carlos Rodriguez
+2039,1,O,Michi Huber
+2040,2,O,Kevin Sjöberg
+2041,13,O,Christian Köstlin
+2042,17,O,David Albert
+2043,9,O,Justin Ridgewell
+2044,3,O,Ian Gallagher
+2045,38,O,Adriano Bonat
+2046,7,O,Erich Kist
+2047,2,O,Jon Kessler
+2048,1,O,Norbert Wójtowicz
+2049,6,O,Yuumi Yoshida
+2050,3,O,Thomas Jachmann
+2051,7,O,Sean Griffin
+2052,2,O,Pavel Penkov
+2053,1,O,Julien Biezemans
+2054,17,O,Tomoki Aonuma
+2055,1,O,Steven Lumos
+2056,5,O,James Wheare
+2057,1,O,Ted Wright
+2058,43,O,Ivan Storck
+2059,41,O,Berk D. Demir
+2060,20,O,Sean Cribbs
+2061,514,O,Mx A. Matienzo
+2062,7,O,Lukas Westermann
+2063,8,O,Giulio Eulisse
+2064,11,O,Patrick Otto
+2065,18,O,Mike Lapinsky
+2066,1,O,Christopher Villalobos
+2067,1,O,Brian Wigginton
+2068,2,O,Ruben Laguna
+2069,3,O,Eugene Ray
+2070,10,O,Richard West
+2071,8,O,Dmitry Shaposhnik
+2072,8,O,Will Robertson
+2073,6,O,Tim Douglas
+2074,5,O,David Nadlinger
+2075,2,O,Benjamin Maus
+2076,4,O,William Ono
+2077,1,O,Dennis
+2078,1,O,Bo Borgerson
+2079,3,O,Jon Duell
+2080,4,O,Jason L. Shiffer
+2081,162,O,Camillo Lugaresi
+2082,10,O,Leandro Silva
+2083,1,O,Steven Sartorius
+2084,30,O,Jonathan Palardy
+2085,6,O,Sascha Kratky
+2086,1,O,Andrea C. Granata
+2087,8,O,Rob Rix
+2088,1,O,HH Veldstra
+2089,31,O,Drew Hess
+2090,5,O,Stephen Allred
+2091,2,O,Jonathan
+2092,4,O,Dirk Hörner
+2093,2,O,Rike-Benjamin Schuppner
+2094,15,O,Dougal Sutherland
+2095,2,O,Leonid Ponomarev
+2096,2,O,Zachary Waldowski
+2097,12,O,Don Brown
+2098,18,O,Pavel Zavyalov
+2099,5,O,Christopher Kenna
+2100,3,O,Viktor Baluch
+2101,6,O,Sietse de Kaper
+2102,12,O,Eric Kow
+2103,1,O,Henning Perl
+2104,8,O,Lukas Toth
+2105,18,O,Marnen Laibow-Koser
+2106,5,O,Carl Leiby
+2107,20,O,Rob Hoelz
+2108,1,O,Javi Fontan
+2109,7,O,Lee Capps
+2110,3,O,David Backeus
+2111,1,O,neo-krish
+2112,4,O,Billy Joe
+2113,3,O,Michal Olah
+2114,2,O,Matt Gadda
+2115,5,O,Christian Eager
+2116,1,O,Antti Rasinen
+2117,1,O,Craig
+2118,4,O,Tino Wagner
+2119,1,O,Mathias Andersson
+2120,4,O,Emmanuel Bernard
+2121,8,O,David Goodlad
+2122,143,O,Justin Clift
+2123,2,O,Jon Wilkes
+2124,5,O,Uri Laserson
+2125,2,O,Maurice Kelly
+2126,37,O,Jin Yi
+2127,1,O,Jeremy Prior
+2128,4,O,Dominik Westner
+2129,5,O,Olle Lundberg
+2130,41,O,Michael Dippery
+2131,1,O,cho45
+2132,3,O,Greg Neill
+2133,3,O,Stafford Brunk
+2134,8,O,Indrajit Raychaudhuri
+2135,7,O,Markus Näsman
+2136,43,O,Oleg Oshmyan
+2137,3,O,Hideo Kimura
+2138,2,O,Nicholas Kostelnik
+2139,7,O,Tim Shadel
+2140,5,O,Mathew Oakes
+2141,25,O,Anthony Ramine
+2142,3,O,David Schlosnagle
+2143,4,O,David Koppstein
+2144,11,O,Tony Sloane
+2145,2,O,Nick Barkas
+2146,9,O,Harald Fernengel
+2147,2,O,Elliott Hird
+2148,47,O,Robin Ramael
+2149,18,O,Dmitry Nedospasov
+2150,2,O,Fredrik Appelberg
+2151,2,O,Ryan Barnard
+2152,2,O,Markus Strauss
+2153,4,O,Francisco J.
+2154,2,O,Guillaume-Jean Herbiet
+2155,1,O,Brian Palmer
+2156,13,O,David Turnbull
+2157,49,O,Anders F Björklund
+2158,4,O,Franco Lazzarino
+2159,9,O,Jason Felice
+2160,1,O,Weston
+2161,45,O,Archimedes Trajano
+2162,1,O,Will Froning
+2163,1,O,Jonathon Williams
+2164,2,O,Igor Serko
+2165,15,O,youpy
+2166,1,O,yachris
+2167,2,O,Kiran Jonnalagadda
+2168,2,O,Michael Bravo
+2169,1,O,Yuuna Kurita
+2170,1,O,Vladislav Bortnikov
+2171,4,O,Chris Kampmeier
+2172,2,O,Justin Wunderle
+2173,1,O,tfeith
+2174,3,O,Márton Szász
+2175,2,O,Andreas Otto
+2176,2,O,Matt Wildig
+2177,3,O,Arbo von Monkiewitsch
+2178,2,O,Robert S Ciaccio
+2179,3,O,Munen Alain M. Lafon
+2180,1266,O,Lars Eggert
+2181,4,O,Bram Duvigneau
+2182,4,O,Andreas Krennmair
+2183,1,O,Ben Hughes
+2184,3,O,Gareth Redman
+2185,3,O,Michael Wall
+2186,4,O,Luc Heinrich
+2187,6,O,Loren Sands-Ramshaw
+2188,2,O,Martin Brunthaler
+2189,10,O,Andy Fowler
+2190,7,O,Steven Merrill
+2191,1,O,Laradji Nacer
+2192,2,O,Rob Hunter
+2193,56,O,Scott Beamer
+2194,1,O,fkrtzr
+2195,2,O,Eoin Coffey
+2196,1,O,Mayeu
+2197,3,O,Lee Jensen
+2198,3,O,Josh
+2199,1,O,Simone Carletti
+2200,2,O,Eugene Oden
+2201,4,O,Paul D. Ouderkirk
+2202,12,O,Emiliano Vavassori
+2203,2,O,Simon Frost
+2204,2,O,Matt Boehlig
+2205,2,O,Chris Altman
+2206,10,O,Marcel Köppen
+2207,1,O,
+2208,1,O,Patric Mueller
+2209,2,O,Christopher Cotton
+2210,2,O,Michael Friedlander
+2211,115,O,Carlos Borroto
+2212,24,O,Juxi
+2213,2,O,Kerry Wright
+2214,36,O,Tim Gray
+2215,2,O,Romuald Brunet
+2216,3,O,Manfred Kröhnert
+2217,42,O,Gary V. Vaughan
+2218,6,O,Patrick Debois
+2219,27,O,Julien Ponge
+2220,9,O,
+2221,14,O,Terin Stock
+2222,3,O,Reed Riley
+2223,2,O,Ryan Fowler
+2224,1,O,Claus-Peter Froehlich
+2225,1,O,J. B. Rainsberger
+2226,2,O,Matt Stanton
+2227,3,O,Jesse Newland
+2228,3,O,Lars Tobias Skjong-Børsting
+2229,1,O,crx091081gb
+2230,2,O,André Rigollet
+2231,11,O,Courtney Faulkner
+2232,5,O,Daniel Salber
+2233,4,O,Pierre-Antoine Grégoire
+2234,2,O,Oliver Galloway-Lunn
+2235,2,O,Gabe Anzelini
+2236,1,O,Tresi Arvizo
+2237,1,O,Richard Clark
+2238,2,O,Dustin Chilson
+2239,11,O,Mathieu Rhéaume
+2240,2,O,Shufti
+2241,34,O,Bradley M. Froehle
+2242,26,O,Cody Boisclair
+2243,1,O,Thomas Schilling
+2244,2,O,Ngo Ky Lam
+2245,19,O,Jonathan Beezley
+2246,6,O,Aurélien Thieriot
+2247,1,O,Simon Free
+2248,1,O,Will Harris
+2249,5,O,Maxime Nowak
+2250,6,O,James Wilding
+2251,1,O,Asterios Katsifodimos
+2252,15,O,Daniel Berjón
+2253,2,O,Ajay Gopinathan
+2254,3,O,Pavan Gunupudi
+2255,1,O,Clemens Adolphs
+2256,4,O,Bas Vodde
+2257,41,O,Will Ross
+2258,1,O,Mário Freitas
+2259,17,O,Daniel Holtmann-Rice
+2260,8,O,Meng Zhang
+2261,4,O,Johannes Weißl
+2262,4,O,Sean Graham
+2263,1,O,Sathya Sekaran
+2264,1,O,Nicolas Pinto
+2265,2,O,Philip Peterson
+2266,2,O,Scott Christopher
+2267,3,O,James Blanding
+2268,2,O,Simon Mullis
+2269,2,O,Brian M. Clapper
+2270,3,O,Juho Juopperi
+2271,2,O,Gordon Diggs
+2272,2,O,Vincent Guerci
+2273,1,O,Matthew King
+2274,4,O,Scott Dunlop
+2275,12,O,John Cupitt
+2276,2,O,Walter Smith
+2277,44,O,Josa Gesell
+2278,2,O,Gilbert Wilson
+2279,9,O,Greisberger Christophe
+2280,33,O,José Martínez
+2281,2,O,Matt Sicker
+2282,10,O,Hiram Chirino
+2283,9,O,Mark Cowley
+2284,1,O,Lukasz Lazewski
+2285,6,O,Arthur
+2286,4,O,sowawa
+2287,40,O,Yasuharu NAKANO
+2288,3,O,Fernando Mut
+2289,4,O,Les Hill
+2290,1,O,
+2291,4,O,Simon Gate
+2292,3,O,Montgomery Kosma
+2293,1,O,tedmjohnson
+2294,36,O,Felix Schulze
+2295,2,O,klobs
+2296,1,O,John Christopher Jones
+2297,1,O,Cynddl
+2298,1,O,cylonbrain
+2299,9,O,Jason Kohles
+2300,3,O,Dmitry Sklyut
+2301,4,O,Zac Clark
+2302,5,O,Nigel Metheringham
+2303,3,O,Mark Derricutt
+2304,6,O,Ronny Haryanto
+2305,2,O,ujihisa
+2306,2,O,NAGAYA Shinichiro
+2307,1,O,aimee rivers
+2308,1,O,Andrew Glover
+2309,15,O,Dmitry Remesov
+2310,4,O,Rob Olson
+2311,2,O,Benjamin Stiglitz
+2312,43,O,Chad Catlett
+2313,3,O,thewoz
+2314,2,O,Luke Ledet
+2315,1,O,James Reeves
+2316,3,O,Teesid Gaw
+2317,1,O,Philippe Strauss
+2318,1,O,Maurizio Tomasi
+2319,1,O,Claudio Ortolina
+2320,2,O,Gabriele Carrettoni
+2321,15,O,Evan Shelhamer
+2322,55,O,Colin Hebert
+2323,16,O,Richard Osborn
+2324,2,O,Martin Schmitt
+2325,7,O,softboysxp
+2326,2,O,Jake Goulding
+2327,3,O,Faisal N. Jawdat
+2328,1,O,Andrew Hao
+2329,38,O,Keisuke Kawahara
+2330,3,O,Manuel Odendahl
+2331,14,O,Bruno Santos
+2332,15,O,Jin Choi
+2333,18,O,Jens Erat
+2334,2,O,Pat Downey
+2335,1,O,Gábor Vészi
+2336,2,O,Guillaume Pierronnet
+2337,2,O,fawlty
+2338,1,O,Bernat Ràfales
+2339,1,O,André Villar
+2340,1,O,Jan Dlabal
+2341,1,O,Michael Berkowitz
+2342,1,O,Javier Frias
+2343,1,O,James Rubingh
+2344,10,O,Ben Willmore
+2345,1,O,Bart Schuller
+2346,2,O,maqr
+2347,3,O,Michael Granger
+2348,2,O,Justin Bradford
+2349,1,O,Alexander Kirk
+2350,1,O,Finn Wilke
+2351,2,O,Marcelo Moraes
+2352,2,O,Peter Marreck
+2353,37,O,François Lamboley
+2354,4,O,steve
+2355,1,O,Jeff Amaral
+2356,2,O,Cory Rockliff
+2357,15,O,Dave Bayer
+2358,6,O,Jean-Michel Lacroix
+2359,1,O,Eike Bernhardt
+2360,2,O,Dennis Griffith
+2361,2,O,Thomas Wiebe
+2362,26,O,Lars Bilke
+2363,5,O,Justin Sunsri
+2364,4,O,Félix-Antoine Fortin
+2365,1,O,Beck Linden
+2366,6,O,David Cox
+2367,11,O,clubphily
+2368,4,O,Chris Lowis
+2369,69,O,John Harrison
+2370,4,O,Wayne Hendricks
+2371,2,O,Kjell Olsen
+2372,2,O,Shlomo Priymak
+2373,9,O,Chris Deigan
+2374,2,O,Benjamin Esham
+2375,16,O,Diwaker Gupta
+2376,18,O,Kim Burgestrand
+2377,2,O,Bernhard Essl
+2378,3,O,Nate Murray
+2379,6,O,
+2380,3,O,Seth Chisamore
+2381,2,O,Trevor Fancher
+2382,4,O,Zsolt Tripolszky
+2383,5,O,Brian Gernhardt
+2384,1,O,Tom Eklöf
+2385,14,O,Gordon Tillman
+2386,2,O,Ryan D Johnson
+2387,11,O,Lucas Johnson
+2388,2,O,Trym Skaar
+2389,3,O,Neil
+2390,1117,O,nibbles 2bits
+2391,15,O,Willem Deconinck
+2392,18,O,Johan Liesén
+2393,4,O,Matt Cegielka
+2394,1,O,Kenneth Gunn
+2395,1,O,Christopher Krailo
+2396,2,O,Emil Tin
+2397,8,O,Andreas 
+2398,16,O,Luís Felipe Strano Moraes
+2399,2,O,Matt Fichman
+2400,4,O,Alan Schmitt
+2401,1,O,Eric Krause
+2402,6,O,Gerald Kaszuba
+2403,8,O,Phil Smith
+2404,1,O,Jonathan Jacobs
+2405,16,O,Andreas Creten
+2406,2,O,Viper Bailey
+2407,14,O,Adam Lickel
+2408,5,O,Steffen Hausmann
+2409,4,O,Marcel Beltz
+2410,5,O,Luke Pullella
+2411,1,O,Christopher Maier
+2412,5,O,Dustin Koupal
+2413,8,O,Fletcher T. Penney
+2414,38,O,Libor Wagner
+2415,1,O,eliseo papa
+2416,3,O,MIYOKAWA\, Nobuyoshi
+2417,2,O,Tristan Seligmann
+2418,1,O,Matthias Zirnstein
+2419,7,O,Samuel Maftoul
+2420,5,O,David Hall
+2421,8,O,Lukas Sabota
+2422,5,O,Victor Bilyk
+2423,19,O,BEN ENGLISCH
+2424,3,O,Derrick Jones
+2425,4,O,Ismael Vilas Boas
+2426,3,O,Peter Schuller
+2427,4,O,Ben Hu
+2428,1,O,Chris Moos
+2429,1,O,Antonio Carpentieri
+2430,1,O,Kim Ku
+2431,2,O,Vykook
+2432,6,O,Matias Bjarland
+2433,24,O,Jonathan Boyett
+2434,6,O,
+2435,3,O,Akos Gyimesi
+2436,3,O,Clayton O'Neill
+2437,1,O,Nicolas Burrus
+2438,3,O,afiser
+2439,4,O,Carsten Dreesbach
+2440,6,O,Erik Swanson
+2441,15,O,muddletoes
+2442,10,O,Ulrik Landberg Stephansen
+2443,4,O,Peter Hassall
+2444,4,O,Brian Candler
+2445,4,O,ryo katsuma
+2446,13,O,IvoNet
+2447,8,O,Tomáš Linhart
+2448,3,O,David Watson
+2449,4,O,Jochen Munz
+2450,5,O,Henry Poydar
+2451,5,O,Kazunori Jo
+2452,29,O,Michael Weisman
+2453,44,O,Steve Marshall
+2454,5,O,Sean Escriva
+2455,5,O,Ivan Siu
+2456,10,O,Paul Mucur
+2457,1,O,Alessandro Vermeulen
+2458,5,O,Peter Berck
+2459,5,O,Jonathan Grochowski
+2460,12,O,Adrien Cahen
+2461,1,O,Jean-Francois Roy
+2462,9,O,Christopher Bowns
+2463,2,O,Bas
+2464,1,O,Trever Miller
+2465,2,O,Christian Anton
+2466,4,O,Sam Gibson
+2467,25,O,John Earles
+2468,1,O,Takashi Masuda
+2469,18,O,Tareq A Khandaker
+2470,3,O,jjwmui
+2471,6,O,Decklin Foster
+2472,7,O,Jupp Müller
+2473,2,O,Florian Kistner
+2474,1,O,Maxime Curioni
+2475,7,O,Adam Guthrie
+2476,2,O,Keith Marcum
+2477,3,O,Nino Uzelac
+2478,1,O,Jonas Bengtsson
+2479,8,O,Matt Campbell
+2480,3,O,waltari
+2481,1,O,Robert Crim
+2482,4,O,Matthew Manning
+2483,2,O,Ronnie Dilli
+2484,2,O,Pedro Alcocer
+2485,12,O,Martial
+2486,9,O,Lars-Olof Moilanen
+2487,8,O,Diogo Franco
+2488,8,O,Andreas Steinel
+2489,2,O,
+2490,1,O,Graham Knop
+2491,3,O,Risto Yrjänä
+2492,1,O,Hendrik Mans
+2493,3,O,Dominik Schmid
+2494,1,O,adambot
+2495,4,O,Chris Poole
+2496,8,O,Albert Volkman
+2497,4,O,Jason Dusek
+2498,3,O,Michael Koval
+2499,7,O,Konstantin Shabanov
+2500,3,O,Andrew Ng
+2501,3,O,Scott J. Roberts
+2502,1,O,Heiko Witte
+2503,10,O,Stefan Pfenninger
+2504,2,O,Alex Pardoe
+2505,1,O,Derick Lung'aho
+2506,1,O,Cecil Woebker
+2507,4,O,Daniel Brotsky
+2508,5,O,Sérgio Lopes
+2509,3,O,tokumine
+2510,2,O,Antoine Delvaux
+2511,34,O,Mathieu Jobin
+2512,3,O,joaohenriques
+2513,6,O,Andrew de Andrade
+2514,199,O,Vlad Lazar
+2515,10,O,Benedikt Arnold
+2516,1,O,desiderius
+2517,1,O,Sergej Tatarincev
+2518,1,O,Ra'Shaun Stovall
+2519,13,O,Sid Karunaratne
+2520,1,O,Marcos Toledo
+2521,2,O,Fayland Lam
+2522,1,O,Jiening Wen
+2523,2,O,Philip Paeps
+2524,1,O,Kirk Klobe
+2525,11,O,Tim Mecking
+2526,12,O,Mark Janssen
+2527,3,O,Josh Rosen
+2528,1,O,cola-zero
+2529,1,O,Alex Crown
+2530,4,O,Jason Voegele
+2531,3,O,Yung-Luen Lan
+2532,1,O,Selva
+2533,3,O,Cameron Barrie
+2534,45,O,Robert Rouse
+2535,4,O,William R. Otte
+2536,1,O,hackeron
+2537,3,O,Marian Theisen
+2538,3,O,Cody Cutrer
+2539,5,O,Nils Homer
+2540,25,O,Ingo Richter
+2541,16,O,brada
+2542,3,O,Jelmer
+2543,11,O,Chris Koenig
+2544,2,O,Jon Hermansen
+2545,5,O,Filip Krikava
+2546,1,O,Jason Huebsch
+2547,2,O,John Manoogian III
+2548,3,O,Ryan Baumann
+2549,11,O,
+2550,1,O,Michael Maclean
+2551,9,O,Shansen
+2552,2,O,Lee Mallabone
+2553,1,O,Nikolay Vyahhi
+2554,30,O,Jason Wells
+2555,10,O,Tripp Lilley
+2556,1,O,Jason Cooper
+2557,2,O,Berik Visschens
+2558,1,O,Jan Anlauff
+2559,38,O,Dave Rice
+2560,4,O,Michael Vigor
+2561,1,O,Cees de Groot
+2562,3,O,Doug Luce
+2563,6,O,Rodd Zurcher
+2564,6,O,François-Xavier Thomas
+2565,1,O,Eric Rasmussen
+2566,5,O,Pete Boere
+2567,4,O,Dayne Broderson
+2568,3,O,James R.
+2569,8,O,Hunter Morris
+2570,2,O,Cameron Desautels
+2571,28,O,Jakob Schlyter
+2572,2,O,Perry Wagle
+2573,1,O,Suhail Patel
+2574,4,O,paul cannon
+2575,2,O,Jussi Hagman
+2576,1,O,Martijn The
+2577,2,O,toki
+2578,3,O,Brenton Partridge
+2579,33,O,royhodgman
+2580,6,O,Rogério Vicente
+2581,13,O,Jacob Howard
+2582,8,O,Eashwar Ranganathan
+2583,1,O,Mauricio Zaffari
+2584,3,O,Nick Tzaperas
+2585,52,O,Kevin Moore
+2586,1,O,Aaron Douglas
+2587,19,O,Toni Viemerö
+2588,1,O,Giovanni Bajo
+2589,1,O,Benjamin Piwowarski
+2590,1,O,Ryan Huffman
+2591,2,O,Slaven Bačelić
+2592,1,O,mundfrem
+2593,2,O,Tetsuya HAMAMOTO
+2594,4,O,Mark Simpson
+2595,2,O,Lars Holm Nielsen
+2596,36,O,Dave Goodell
+2597,4,O,Ingmar
+2598,4,O,Nicolas Mendoza
+2599,5,O,Jonathan Hitchcock
+2600,5,O,Theodore Robert Campbell Jr
+2601,4,O,Israel Rodrigo Faria
+2602,15,O,MHC12
+2603,13,O,Ross Singer
+2604,2,O,Ian Gable
+2605,4,O,Kevin
+2606,2,O,Ryan Shaw
+2607,4,O,Yann N. Dauphin
+2608,2,O,Mike Griepentrog
+2609,1,O,Charles Couillard
+2610,5,O,Randolph Voorhies
+2611,5,O,Daniel Nelson
+2612,2,O,Patrik Stenmark
+2613,3,O,Ricardo Oliveira
+2614,3,O,Daniel Dumke
+2615,1,O,Trevor Fountain
+2616,5,O,Doc Walker
+2617,37,O,Jonathan Schleifer
+2618,18,O,Doug Burke
+2619,1,O,Christian Prinoth
+2620,6,O,Tom Loredo
+2621,1,O,Jordan Schneider
+2622,5,O,Fredrik Ehnbom
+2623,4,O,Kyle Harrigan
+2624,8,O,Sébastien Gross
+2625,6,O,Kyle Kauffman
+2626,16,O,Bradley J Chambers
+2627,15,O,Andrea Francia
+2628,3,O,kuperman
+2629,8,O,Jeff Putsch
+2630,5,O,Oleksii Taran
+2631,6,O,Danilo Tuler
+2632,1,O,Karim DRIDI
+2633,2,O,Thilo Schmitt
+2634,2,O,Cyril Nikolaev
+2635,1,O,Laurence Rowe
+2636,4,O,Peter Hellberg
+2637,2,O,mazy learns
+2638,2,O,Peritor Consulting
+2639,6,O,Bernhard Miklautz
+2640,2,O,alesurli
+2641,3,O,Desert Crystal
+2642,13,O,Emanuel Evans
+2643,1,O,Thomas Bonfort
+2644,1,O,jesperrasmussen
+2645,2,O,Nathaniel Madura
+2646,2,O,statique
+2647,2,O,Dan Weeks
+2648,2,O,Patrick
+2649,2,O,Jiyoon Jang
+2650,6,O,Hao Song
+2651,2,O,Marcel Asio
+2652,4,O,jnothman
+2653,4,O,dsx
+2654,18,O,David M. Lee
+2655,355,O,Jocelyn
+2656,2,O,Miles Pomeroy
+2657,8,O,Rohan Singh
+2658,5,O,Greg Virgin
+2659,4,O,fhesse
+2660,2,O,billchurch
+2661,2,O,Balaji S. Srinivasan
+2662,2,O,Michael Prins
+2663,2,O,Marcos Acosta
+2664,3,O,Stuart Glenn
+2665,4,O,Josh Cheshire
+2666,2,O,Michael Hetrick
+2667,2,O,Akinori YOSHIDA
+2668,12,O,Christoph Bünte
+2669,18,O,Sean Reilly
+2670,2,O,Scott Bauer
+2671,2,O,Sean Billig
+2672,11,O,Joan
+2673,6,O,Ori Peleg
+2674,2,O,Shawn Parker
+2675,5,O,Arun Bhalla
+2676,1,O,scentoni
+2677,2,O,Ben Woskow
+2678,1,O,Loren Johnson
+2679,8,O,Robert Lenhardt
+2680,3,O,Tomas Frostensson
+2681,8,O,Andrew Lindesay
+2682,21,O,Erik
+2683,7,O,Loic Nageleisen
+2684,1,O,Robert Strobl
+2685,2,O,Pekka Nikander
+2686,13,O,guyzmo
+2687,4,O,Brian Bennett
+2688,3,O,Thomas Perl
+2689,4,O,Michael S. Fischer
+2690,2,O,Peter C Miller
+2691,4,O,Alec Thomas
+2692,25,O,Fabian Hassler
+2693,12,O,Nick Silkey
+2694,1,O,Vishnu Gopal
+2695,13,O,Dean Smith
+2696,1,O,Steve Houser
+2697,1,O,Mark Lynch
+2698,2,O,Lior Shiponi
+2699,5,O,Ryan McCuaig
+2700,2,O,Thomas Goyne
+2701,1,O,Tim Bateman
+2702,4,O,Juan Hoyos
+2703,5,O,Michael Ummels
+2704,18,O,Kazuki YAMAMOTO
+2705,5,O,Robert Baruch
+2706,24,O,Eli Bishop
+2707,4,O,Pascal Deschênes
+2708,2,O,Frank Febbraro
+2709,1,O,Paul Hobson
+2710,2,O,John Svazic
+2711,2,O,Ben Charrow
+2712,3,O,Tony McDaniel
+2713,2,O,Brian Tully
+2714,1,O,Sebastian Ernst
+2715,176,O,YoungTaek Oh
+2716,15,O,teenst
+2717,7,O,Matthias Granberry
+2718,90,O,Alberto Simões
+2719,2,O,fpartridge
+2720,8,O,Victor Baca
+2721,3,O,Saku Rantamäki
+2722,2,O,Morten Wilken
+2723,10,O,
+2724,2,O,Weston Jossey
+2725,2,O,Tyler L
+2726,1,O,jonleung
+2727,1,O,Will Roberts
+2728,2,O,B. Howell
+2729,2,O,Tim Oram
+2730,1,O,Martin Wilhelmi
+2731,2,O,Neal Clark
+2732,2,O,Laurent Drouet
+2733,2,O,Aaron Simmons
+2734,1,O,Nathaniel
+2735,2,O,Demiko
+2736,1,O,Robin Monks
+2737,2,O,Raymond Edwards
+2738,1,O,Bhavin Javia
+2739,2,O,Bill Atkins
+2740,17,O,Enderson Tadeu S. Maia
+2741,2,O,Sébastien Besson
+2742,3,O,Fred Ngo
+2743,5,O,Ben Lavender
+2744,1,O,Nicolas Wu
+2745,5,O,Stephan
+2746,4,O,Ben Couldrey
+2747,29,O,mbcoguno
+2748,1,O,gabeiscoding
+2749,1,O,onewheelskyward
+2750,2,O,Christian Dedie
+2751,10,O,Stéphane Épardaud
+2752,5,O,Matthew Vincent
+2753,4,O,Alan Boudreault
+2754,2,O,James Fargher
+2755,66,O,Guilherme Brondani Torri
+2756,3,O,Limbo Peng
+2757,10,O,Arne Jørgensen
+2758,5,O,Felix C. Stegerman
+2759,1,O,Werner Thie
+2760,3,O,sunteya
+2761,8,O,Teo Ljungberg
+2762,1,O,Matthew Szatmary
+2763,5,O,Matt Torok
+2764,3,O,Greg Karékinian
+2765,11,O,Tamás Nepusz
+2766,2,O,Minhao Dong
+2767,10,O,Jon Buckley
+2768,8,O,Laurent Perrinet
+2769,2,O,Hasse R. Hansen
+2770,1,O,Arana Fireheart
+2771,2,O,Martial Lienert
+2772,2,O,Anthony Somerset
+2773,3,O,Alex Suraci
+2774,2,O,matt robinson
+2775,21,O,J C
+2776,1,O,Florent Bruneau
+2777,3,O,ogoid
+2778,35,O,Frederic Briol
+2779,2,O,Mark Bidewell
+2780,2,O,Alex Varju
+2781,3,O,Steven Schlansker
+2782,2,O,Tony Richards
+2783,7,O,Jonas Zimmermann
+2784,2,O,James Willcox
+2785,1,O,Tiago Boldt Sousa
+2786,3,O,Richard Clamp
+2787,1,O,Diogo Gomes
+2788,4,O,Bill Welliver
+2789,1,O,Markus Hutzler
+2790,4,O,humm
+2791,1,O,
+2792,3,O,Mihail-samoylov
+2793,5,O,Halvard Skogsrud
+2794,2,O,Rastislav Kassak
+2795,30,O,Houtan Bastani
+2796,9,O,theirix
+2797,16,O,bellbind
+2798,4,O,Mattias Arrelid
+2799,2,O,kaicurry
+2800,2,O,Michael Maltese
+2801,4,O,Axel Steiner
+2802,3,O,Chris Beer
+2803,22,O,Ben Swift
+2804,7,O,Bradley Bell
+2805,2,O,Michael B. Klein
+2806,4,O,Mark Harrison
+2807,2,O,imccoy
+2808,7,O,Nicolas Crowell
+2809,2,O,Iuri Diniz
+2810,2,O,Michael
+2811,50,O,Domingo Suarez Torres
+2812,3,O,Zhao Cai
+2813,1,O,Stanislaw Pankevich
+2814,2,O,David Rekowski
+2815,2,O,jbastos
+2816,5,O,Daniel Russel
+2817,2,O,Ian Rahimi
+2818,1,O,Dominik Niehus
+2819,1,O,Josh M Dye
+2820,1,O,Heikki Hokkanen
+2821,1,O,dei79
+2822,1,O,Dave Spurr
+2823,1,O,Till Schneidereit
+2824,2,O,Ingmar Steen
+2825,1,O,Michael Bianco
+2826,3,O,Sean Copenhaver
+2827,1,O,Roman Greshny
+2828,5,O,Philippe Latulippe
+2829,3,O,Knute G. Axelson
+2830,3,O,Chris Cannon
+2831,6,O,Steve Gury
+2832,1,O,Hayoung Jeong
+2833,2,O,Daniel Bauke
+2834,1,O,Michael MacDonald
+2835,12,O,Ankit
+2836,12,O,Leif Middelschulte
+2837,41,O,Yannis Rammos
+2838,1,O,Jason McLeod
+2839,5,O,Caio Henrique de Queiroz Katayama
+2840,3,O,Kouhei Sutou
+2841,4,O,Rogelio Castillo A.
+2842,4,O,Anatoly Fayngelerin
+2843,1,O,marvinone
+2844,2,O,Nikita Kakuev
+2845,10,O,Ming-Hsien Tsai
+2846,4,O,Volker Fritzsch
+2847,17,O,Lasse Bang Mikkelsen
+2848,3,O,Odd Christer Brovig
+2849,26,O,Andrew Childs
+2850,4,O,restorer
+2851,4,O,Tai Chi Minh Ralph Eastwood
+2852,5,O,Bernhard Valenti
+2853,9,O,Thomas Dunton
+2854,4,O,methadonna
+2855,2,O,halloleo
+2856,18,O,Sean Goller
+2857,2,O,Qian He
+2858,3,O,Fjölnir Ásgeirsson
+2859,1,O,Georg Rudoy
+2860,2,O,Jeremy Larkin
+2861,3,O,Brett Nakashima
+2862,2,O,Matsumoto Taichi
+2863,4,O,Shaun McDonald
+2864,3,O,Diego Pontoriero
+2865,2,O,Raymond Tau
+2866,1,O,William Lynch
+2867,1,O,Loïc Faure-Lacroix
+2868,2,O,Adam Backstrom
+2869,4,O,Miroshnikov Vaycheslav
+2870,20,O,Dennis Luxen
+2871,1,O,David Hall
+2872,2,O,Scott Greenlay
+2873,2,O,Maurice Rickard
+2874,8,O,allen huang
+2875,1,O,Ingmar Vanhassel
+2876,3,O,Oliver Hookins
+2877,2,O,Kirk Strauser
+2878,3,O,Matt Bornski
+2879,5,O,Aaron Carroll
+2880,5,O,Moritz Wurth
+2881,4,O,Martijn Dashorst
+2882,2,O,Vincent Nonnenmacher
+2883,122,O,Jaime Marquínez Ferrándiz
+2884,2,O,Christian Schlensker
+2885,3,O,Sebastian Csar
+2886,2,O,Victor Jacobs
+2887,256,M,Xiyue Deng
+2888,2,O,Stu
+2889,13,O,Jan de Muijnck-Hughes
+2890,4,O,Stephen Nelson
+2891,16,O,Sam Gwydir
+2892,1,O,Alexey Shevchenko
+2893,1,O,Shinichiro Aska
+2894,8,O,Hans Hübner
+2895,7,O,Scott Albertine
+2896,1,O,Martijn Bakker
+2897,18,O,antbryan
+2898,3,O,Ben Navetta
+2899,6,O,Oscar Koeroo
+2900,2,O,Elliott
+2901,34,O,Peter Neubauer
+2902,16,O,Ralph Giles
+2903,6,O,Nikolaus Wittenstein
+2904,2,O,Remi Aran
+2905,5,O,Ed Barnard
+2906,32,O,Richard Hurt
+2907,2,O,Dario Duvnjak
+2908,5,O,Oliver Erxleben
+2909,22,O,Alex Burka
+2910,17,O,Jon Brisbin
+2911,5,O,Gregory Man
+2912,2,O,Derek Harting
+2913,6,O,Stephen Eglen
+2914,2,O,Tyler Pickett
+2915,5,O,Josip Bišćan
+2916,3,O,Julien Stechele
+2917,2,O,Nan Zhong
+2918,3,O,Christopher Winslett
+2919,24,O,Stefan
+2920,3,O,Oliver B.
+2921,33,O,Björn Albers
+2922,3,O,David Whitmarsh
+2923,2,O,Guillermo López Leal
+2924,2,O,Henrik Mühe
+2925,3,O,Eugene Vilensky
+2926,3,O,Jay Han
+2927,13,O,Ricardo Franco
+2928,10,O,Remko Tronçon
+2929,1,O,George Russell
+2930,62,O,Laurent Bartholdi
+2931,3,O,John
+2932,3,O,mo-fu
+2933,1,O,Gary Wolfman
+2934,3,O,Samuel Tonini
+2935,1,O,Guillaume Lazzara
+2936,6,O,Bernhard Wagner
+2937,2,O,Forrest Xu
+2938,2,O,Dongsheng Cai
+2939,15,O,Jeong Mok Cho
+2940,1,O,Martin Englund
+2941,3,O,Ps0ke
+2942,10,O,
+2943,1,O,Gerhard Lipp
+2944,2,O,Emile Cantin
+2945,2,O,Seth Fowler
+2946,1,O,futaya
+2947,6,O,Roy Shilkrot
+2948,2,O,Pierre-David Bélanger
+2949,2,O,Scott Kroll
+2950,5,O,Jonathan Chang
+2951,5,O,Daniel Bovensiepen
+2952,2,O,Robert Coleman
+2953,7,O,G Coco
+2954,2,O,Jonathan Gnagy
+2955,4,O,Brian Riddle
+2956,2,O,Nate Drake
+2957,6,O,Agilio Padua
+2958,4,O,
+2959,21,O,linuxgeek247
+2960,4,O,Aris Adamantiadis
+2961,1,O,
+2962,1,O,Ian Will
+2963,15,O,Thomas Gustafsson
+2964,5,O,flabbergast
+2965,8,O,Joan Valduvieco
+2966,7,O,Todor Genov
+2967,7,O,Yasuyuki Oka
+2968,5,O,HongBin
+2969,1,O,Jim
+2970,2,O,Aaron Peschel
+2971,5,O,Evgeny Mandrikov
+2972,2,O,Moshe Brevda
+2973,5,O,Pieter Agten
+2974,15,O,Matt Dickoff
+2975,5,O,Jacob Kaufman
+2976,8,O,Daniel Walmsley
+2977,33,O,William Woodall
+2978,9,O,Paul Mulders
+2979,3,O,Seungcheol Jung
+2980,1,O,brokenjacobs
+2981,1,O,Gerald Combs
+2982,5,O,Timothy Sutton
+2983,2,O,Nam Nguyen
+2984,9,O,Ed Marshall
+2985,5,O,Ankit Aggarwal
+2986,3,O,nilsonholger
+2987,5,O,Colin Rymer
+2988,6,O,marcindulak
+2989,5,O,Kerrigan29a
+2990,5,O,Leonard van Driel
+2991,2,O,Nick Parker
+2992,2,O,Luke Carrier
+2993,2,O,Kyle Sexton
+2994,2,O,Toby
+2995,9,O,Klaus Meyer
+2996,8,O,jvdp
+2997,3,O,Ferdinand Niedermann
+2998,1,O,Jurgen Schwietering
+2999,3,O,Austin Robertson
+3000,3,O,Manuel Reinhardt
+3001,9,O,Yusuke Kawasaki
+3002,3,O,saltspork
+3003,3,O,Linus Unnebäck
+3004,3,O,Daniel Molkentin
+3005,2,O,Daniel Widerin
+3006,1,O,Ludwig Weiss
+3007,2,O,Kim Hunter
+3008,8,O,Nikolay Kasyanov
+3009,6,O,simleo
+3010,3,O,Brice Jaglin
+3011,3,O,Danny Beard
+3012,5,O,Gerard Lledó
+3013,2,O,jathd
+3014,2,O,Jim A
+3015,3,O,Paul Kunysch
+3016,3,O,Beau Hartshorne
+3017,2,O,Bryan McLemore
+3018,1,O,Roberto Esposito
+3019,1,O,Will McKenzie
+3020,15,O,Ragi Yaser Burhum
+3021,9,O,Koenig
+3022,2,O,Dan Yang
+3023,5,O,Kyungmin Lee
+3024,1,O,James Cotton
+3025,8,O,YuK_Ota
+3026,14,O,Dominique
+3027,2,O,Felix Lange
+3028,8,O,Markus Felten
+3029,1,O,Sebastien Nicouleaud
+3030,43,O,Etienne Laurin
+3031,8,O,Keith Schulze
+3032,2,O,Martin Atukunda
+3033,1,O,Rein Henrichs
+3034,2,O,Barrett Cervenka
+3035,2,O,Andy Rudge
+3036,2,O,korthaerd
+3037,2,O,Jon Bernard
+3038,2,O,bathtub
+3039,2,O,Mike Bishop
+3040,1,O,Graeme Mathieson
+3041,3,O,DocumentRoot
+3042,2,O,wobytides
+3043,7,O,Braden Pellett
+3044,33,O,ttjsmits
+3045,1,O,Eric Connell
+3046,2,O,Chris James
+3047,3,O,Andre Skarzynski
+3048,3,O,Ben Pitzer
+3049,3,O,Dimitar Kostov
+3050,1,O,Nick Crawford
+3051,1,O,Richie Khoo
+3052,3,O,Daniel McDonald
+3053,1,O,David Givone
+3054,31,O,Peter Eisentraut
+3055,10,O,Elad Gariany
+3056,2,O,Eric Doughty-Papassideris
+3057,4,O,David Caldwell
+3058,3,O,Caleb Tennis
+3059,4,O,Ian Hough
+3060,11,O,Thierry Moisan
+3061,5,O,Jochen Schäfer
+3062,65,O,Thijs Vermeir
+3063,3,O,Jim Ancona
+3064,16,O,Nick Hawes
+3065,1,O,Alexander
+3066,8,O,ngouzy
+3067,4,O,Jiang Jiang
+3068,55,O,Anil Madhavapeddy
+3069,2,O,Ben Hagen
+3070,1,O,Antoine Madet
+3071,4,O,Sean Ogden
+3072,1,O,Roman Romanchuk
+3073,2,O,Jon Suphammer
+3074,6,O,Timo Sand
+3075,2,O,tditlu
+3076,2,O,Dom Morgan
+3077,4,O,kadrach
+3078,2,O,Evan
+3079,9,O,Patrick Li
+3080,9,O,Christopher Thielen
+3081,24,O,Brad Ackerman
+3082,2,O,Yann Hodique
+3083,1,O,Nick
+3084,40,O,Romain Bossart
+3085,1,O,Simon Schoeters
+3086,4,O,Martin
+3087,7,O,Robert Quattlebaum
+3088,2,O,Brendan Erwin
+3089,7,O,Nathan Fain
+3090,1,O,Alex Notwell
+3091,2,O,Tinu Cleatus
+3092,2,O,Vagmi
+3093,4,O,Erik Kallen
+3094,5,O,Eduard Baun
+3095,7,O,Adam Trilling
+3096,47,O,Matt Blair
+3097,2,O,Tom Burns
+3098,2,O,Conor McDermottroe
+3099,2,O,Frédéric Morin
+3100,2,O,Brendan Kemp
+3101,7,O,Reuben Morais
+3102,2,O,Chris de Sousa
+3103,2,O,Joshua Foster
+3104,9,O,Tobias Stehle
+3105,16,O,wkruse
+3106,4,O,Aaron Huslage
+3107,4,O,Andrey Antipov
+3108,2,O,Hugo Vincent
+3109,2,O,Damon Morgan
+3110,6,O,Christian Rigdon
+3111,2,O,Petter Remen
+3112,2,O,Isaac Datlof
+3113,5,O,Simon Head
+3114,4,O,Fengyuan Chen
+3115,8,O,Tom Vercauteren
+3116,1,O,Jon Pither
+3117,5,O,Benjamin Dobell
+3118,4,O,Nick Vandal
+3119,2,O,D J Capelis
+3120,2,O,Stuart Roebuck
+3121,6,O,Shawn Anderson
+3122,2,O,Jeff Whiting
+3123,2,O,Karl
+3124,1,O,seppiz
+3125,2,O,adinapoli
+3126,1,O,Thomas Uhde
+3127,3,O,Eirik Wulff
+3128,2,O,Andrew Smith
+3129,3,O,Werner
+3130,1,O,Ryan Twomey
+3131,7,O,Daniel James McMahon
+3132,1,O,Godzil
+3133,5,O,Don Morrison
+3134,2,O,Mattias Wadman
+3135,5,O,c0der78
+3136,3,O,Russell Teabeault
+3137,14,O,
+3138,1,O,Philippe Durix
+3139,3,O,Louis-Michel Couture
+3140,6,O,Martin Zimmermann
+3141,8,O,Jon Sailor
+3142,2,O,Mark Luffel
+3143,16,O,teriiehina
+3144,4,O,Akshay
+3145,12,O,Steven Peters
+3146,2,O,Matthias Bauer
+3147,1,O,Joe Scott
+3148,12,O,Andrew Janke
+3149,2,O,David Jennes
+3150,2,O,Vladimir Chernyshev
+3151,8,O,Chris Lucas
+3152,3,O,Paul Hammond
+3153,2,O,Kaelin Colclasure
+3154,1,O,Alexander Schneider
+3155,6,O,sillage
+3156,2,O,Matteo Ipri
+3157,7,O,Sebastian Tramp
+3158,4,O,Roger Leigh
+3159,2,O,Tristan Naumann
+3160,4,O,Adam Radabaugh
+3161,16,O,Mike Goodspeed
+3162,2,O,Luis Rei
+3163,3,O,David Griffiths
+3164,4,O,Duckki Oe
+3165,2,O,René Hansen
+3166,4,O,taskwarrior
+3167,6,O,Xin Sun
+3168,5,O,Deniz Türkoglu
+3169,6,O,Jiang Xin
+3170,6,O,Todd Wright
+3171,3,O,Reddy
+3172,1,O,Christopher Dolan
+3173,4,O,tlk
+3174,2,O,Florian Over
+3175,2,O,Yida Zhang
+3176,3,O,yvan vander sanden
+3177,1,O,Hans Stimer
+3178,2,O,Will Langstroth
+3179,3,O,Nat Ritmeyer
+3180,8,O,Kendall Park
+3181,3,O,Osman Surkatty
+3182,4,O,Doğan Çeçen
+3183,2,O,Erik Karulf
+3184,7,O,Tobias Link
+3185,2,O,Christian Urich
+3186,5,O,Anthony DeStefano
+3187,1,O,Yamil Asusta
+3188,2,O,John C Bledsoe
+3189,41,O,Anthony Scotti
+3190,4,O,Will Glynn
+3191,1,O,Oleg Butovich
+3192,14,O,Rajeev Jain
+3193,2,O,Thomas König
+3194,11,O,Ed Porras
+3195,1,O,Peter Leonov
+3196,5,O,Anatoly Mikhailov
+3197,2,O,Nolic
+3198,3,O,Aleix Conchillo Flaqué
+3199,2,O,Moonsik Kang
+3200,2,O,Marcelo Emanoel Bezerra Diniz
+3201,2,O,Kurt Thams
+3202,2,O,Ivar Vasara
+3203,4,O,Cameron Lopez
+3204,3,O,Chris
+3205,2,O,Christian Oberschulte
+3206,1,O,Tiago Bugarin
+3207,1,O,Sean Hodges
+3208,2,O,Carsten Bormann
+3209,3,O,Kenneth Powers
+3210,3,O,Chen Wen
+3211,3,O,Roger Seagle
+3212,2,O,Desmond Brand
+3213,2,O,Ed Velez
+3214,2,O,Adam Foltzer
+3215,7,O,Pavel Borzenkov
+3216,1,O,Jonathan Gross
+3217,2,O,John Safranek
+3218,152,O,Fedor Bezrukov
+3219,4,O,Alexander Gräfe
+3220,2,O,stevenppp
+3221,1,O,唐鳳
+3222,4,O,Ullrich Schäfer
+3223,1,O,sherwandito
+3224,2,O,Chang Lan
+3225,14,O,Andre Sencioles Vitorio Oliveira
+3226,2,O,Matt Clements
+3227,2,O,J.Paul Rinehimer
+3228,2,O,Gareth Adams
+3229,1,O,Joshua Harley
+3230,1,O,Thomas Feron
+3231,1,O,Eugene
+3232,7,O,Patrick Baumgartner
+3233,7,O,Dustin Kirkland
+3234,2,O,Jeff Field
+3235,2,O,Ricky Morse
+3236,2,O,Brad Murray
+3237,18,O,Steven Yi
+3238,2,O,Ed
+3239,4,O,Takayuki Yuasa
+3240,2,O,GeeF
+3241,10,O,Kosuke Asami
+3242,3,O,Douglas Camata
+3243,5,O,Brad Beyenhof
+3244,15,O,Rob Warner
+3245,1,O,Jim Shank
+3246,2,O,Winston Koh
+3247,2,O,Linas Valiukas
+3248,1,O,Osama
+3249,33,O,Dean Hallman
+3250,4,O,ridiculousfish
+3251,4,O,Jair Henrique
+3252,1,O,Christopher Kluwe
+3253,3,O,Nicolas Wojcik
+3254,1,O,Hans Engel
+3255,1,O,Felix Morgner
+3256,1,O,Jan-Gerd Tenberge
+3257,7,O,Alexander Pakulov
+3258,1,O,Alex Hewson
+3259,4,O,Cory Bennett
+3260,1,O,Craig Tataryn
+3261,3,O,Rob Aldred
+3262,2,O,Daniel King
+3263,12,O,Valerii Hiora
+3264,2,O,xaizek
+3265,1,O,Vat
+3266,4,O,Anderson Vaz
+3267,2,O,Mariusz Pietrzyk
+3268,1,O,Anten Skrabec
+3269,5,O,Sebastian Wiesner
+3270,2,O,Stephen Lottermoser
+3271,9,O,Jérôme Andrieux
+3272,15,O,David Chan
+3273,1,O,Nick Lindberg
+3274,2,O,mkassner
+3275,5,O,Zaheer Merali
+3276,13,O,Petr Šourek
+3277,3,O,Damien Flament
+3278,3,O,Tomy Hudson
+3279,1,O,adamar
+3280,2,O,Kanwei Li
+3281,3,O,Martin Elsman
+3282,3,O,Sascha Koch
+3283,1,O,Ahmed Badran
+3284,4,O,Matthew Price
+3285,6,O,Jakob van Santen
+3286,2,O,Iain D Broadfoot
+3287,2,O,Pete Johns
+3288,4,O,Gaëtan Lehmann
+3289,1,O,Gordon Child
+3290,2,O,glvnst
+3291,2,O,Andrew Saul
+3292,2,O,Jeff Leverenz
+3293,10,O,Jens Cornelis
+3294,2,O,Alexander Ljungberg
+3295,2,O,Christopher Rogers
+3296,1,O,Doug Goldstein
+3297,2,O,Hector Dearman
+3298,3,O,David Peek
+3299,1,O,David Wales
+3300,1,O,William Van Etten
+3301,1,O,Clement JACOB
+3302,2,O,Marc Ransome
+3303,3,O,Vladimir Pouzanov
+3304,3,O,Jesper Särnesjö
+3305,2,O,Wessel
+3306,2,O,Liyang HU
+3307,10,O,Alexey Matveichev
+3308,1,O,blair christensen
+3309,3,O,Matthew Robinson
+3310,2,O,Károly Lőrentey
+3311,3,O,Shih-Yuan Lee
+3312,6,O,Tobias Brunner
+3313,1,O,Andrew Myers
+3314,2,O,Lincoln Baxter\, III
+3315,1,O,Frank Louwers
+3316,2,O,Grzegorz Dzięgielewski
+3317,2,O,Sergii Boiko
+3318,4,O,Alex
+3319,3,O,Tim Swihart
+3320,2,O,Terrence Campbell
+3321,2,O,Goksel Goktas
+3322,2,O,Courtney Wilburn
+3323,2,O,Andrew Oke
+3324,1,O,Jon Williams
+3325,4,O,BiZoNiX
+3326,36,O,chdiza
+3327,2,O,Sandro Queiroz Jr
+3328,10,O,Yohann Bianchi
+3329,2,O,Gisle Aas
+3330,2,O,Fredrik Wallner
+3331,2,O,Loren Siebert
+3332,3,O,James Kyle
+3333,4,O,Jack Feser
+3334,3,O,Oldřich Šmehlík
+3335,19,O,Simon Lundström
+3336,9,O,Ryuichi Saito
+3337,1,O,paul
+3338,1,O,Roland Parnaso
+3339,2,O,Anders Riggelsen
+3340,6,O,morou
+3341,2,O,Björn Nyberg
+3342,2,O,Dan Harbin
+3343,2,O,Paul Morton
+3344,2,O,Simon Cozens
+3345,1,O,Jeffry Scott
+3346,1,O,Justin Downing
+3347,9,O,Hideki IGARASHI
+3348,5,O,Nicolas Braud-Santoni
+3349,2,O,Pawel Niewiadomski
+3350,2,O,jeroen tiebout
+3351,2,O,Jesse Vincent
+3352,1,O,Jon Stricker
+3353,6,O,Guillaume DIDIER
+3354,4,O,Christopher Eby
+3355,3,O,Louis-Philippe Gauthier
+3356,2,O,Larry Shaffer
+3357,20,O,Anand Buddhdev
+3358,4,O,Tom Taylor
+3359,3,O,Andrew Neitsch
+3360,4,O,Benjamin Fleischer
+3361,2,O,Hannes Mühleisen
+3362,4,O,Ryan Brainard
+3363,18,O,Nick Robison
+3364,13,O,Michael Erb
+3365,9,O,Fred Potter
+3366,6,O,Blake Watters
+3367,6,O,Andy Bardagjy
+3368,2,O,AJ Cantu
+3369,6,O,KnackeredCoder
+3370,1,O,Samy Al Bahra
+3371,3,O,Johan Carlquist
+3372,4,O,Eugene Jen
+3373,3,O,Simone Contini
+3374,3,O,Philip Cunningham
+3375,3,O,Erik
+3376,4,O,Leeroy Ding
+3377,4,O,Eric Phetteplace
+3378,6,O,Oliver Schrenk
+3379,4,O,dlandau
+3380,2,O,Shane da Silva
+3381,21,O,Yago Riveiro
+3382,6,O,Coy Krill
+3383,3,O,Andy Jackson
+3384,5,O,mirabilos
+3385,3,O,godswearhats
+3386,2,O,Steve
+3387,50,O,Markus Hubig
+3388,6,O,James G. Kim
+3389,2,O,synox
+3390,3,O,Marius Bergmann
+3391,18,O,Lenz Gschwendtner
+3392,1,O,Alex Nichol
+3393,4,O,Andrew Steele
+3394,6,O,zmagg
+3395,1,O,Lieven Hollevoet
+3396,3,O,Michael Rogger
+3397,13,O,Dustin Lang
+3398,2,O,Jorge Luis Mendez
+3399,10,O,Justin Joy
+3400,2,O,Christoph Brücke
+3401,5,O,syndicut
+3402,3,O,Justin Baugh
+3403,2,O,Philippe Bernard
+3404,6,O,Tijs Zwinkels - TinkerTank
+3405,1,O,Jan Erik Hanssen
+3406,3,O,Alex
+3407,5,O,Malcolm Reynolds
+3408,11,O,Greg Turnquist
+3409,2,O,James Deaton
+3410,2,O,Erik Taubeneck
+3411,2,O,Benn Snyder
+3412,1,O,Phil Webb
+3413,1,O,Matteo Pacini
+3414,2,O,benburton
+3415,2,O,Stephen Martinis
+3416,2,O,Remco Vermeulen
+3417,2,O,S. Shehzed
+3418,1,O,Igor Sutton
+3419,6,O,Wesley Bland
+3420,2,O,Swayam Narain
+3421,5,O,Nathaniel Waisbrot
+3422,3,O,Matthias Hölzl
+3423,2,O,Parahexen
+3424,3,O,Glenn Rempe
+3425,2,O,Pavel
+3426,3,O,narango
+3427,10,O,kax4
+3428,5,O,mccraigmccraig of the clan mccraig
+3429,1,O,W L Bentley
+3430,2,O,Eric Gravert
+3431,6,O,Jonas Tingeborn
+3432,1,O,Aaron Royer
+3433,1,O,Hiroshi IKEGAMI
+3434,4,O,Michael Roach
+3435,5,O,\N
+3436,1,O,Jason Diamond
+3437,10,O,
+3438,6,O,Bryce Chidester
+3439,2,O,Johannes Wienke
+3440,3,O,Andrew Pennebaker
+3441,3,O,Branden Archer
+3442,5,O,Drew Fisher
+3443,6,O,Tobias Pape
+3444,1,O,Jean-Louis Giordano
+3445,5,O,shreddd
+3446,3,O,Sang Chul Choi
+3447,2,O,Jonathan Wight
+3448,4,O,Sean Knox
+3449,1,O,Björn Skoglund
+3450,3,O,keith lloyd
+3451,2,O,Andy Hanna
+3452,2,O,Alin-T
+3453,1,O,Paolo G. Giarrusso
+3454,1,O,Adam Getchell
+3455,2,O,msvticket
+3456,11,O,Maxime
+3457,2,O,Rasmus Bonnedal
+3458,26,O,Christian Höltje
+3459,2,O,James Johnson
+3460,2,O,Thomas Ferris Nicolaisen
+3461,2,O,Phillip Campbell
+3462,4,O,Cody Maggard
+3463,7,O,Dennis Krupenik
+3464,1,O,Cyril Lacôte
+3465,14,O,Kieran Ramos
+3466,2,O,Zach Metzinger
+3467,1,O,Nils Pascal Illenseer
+3468,2,O,Nelson Ferraz
+3469,1,O,hanachin
+3470,2,O,Michael Milligan
+3471,2,O,Edward Samson
+3472,2,O,Serguey Parkhomovsky
+3473,3,O,Sitsofe Wheeler
+3474,1,O,kraffslol
+3475,2,O,Leonard Austin
+3476,2,O,Risto Hietala
+3477,2,O,Jay Barker
+3478,1,O,Sergey Sitnikov
+3479,1,O,Bozo Dragojevic
+3480,2,O,Phil Puryear
+3481,4,O,skycaptain
+3482,7,O,Danny Casady
+3483,2,O,Rickard von Essen
+3484,5,O,Mark Lewandowski
+3485,1,O,Omar Abdel-Wahab
+3486,5,O,Krzysztof Wilczynski
+3487,8,O,Niels
+3488,2,O,Jeffrey Wear
+3489,5,O,Daniel Lathrop
+3490,11,O,Diego Zamboni
+3491,1,O,Kryptos
+3492,7,O,Chris Cosby
+3493,9,O,Mario Cornejo
+3494,21,O,Tony Cebzanov
+3495,1,O,Jeffrey Hann
+3496,4,O,Michelangelo De Simone
+3497,2,O,Jan Kasiak
+3498,2,O,phySi0
+3499,3,O,Beyang Liu
+3500,1,O,Damjan Marion
+3501,6,O,Johnathan Conley
+3502,10,O,Michka Popoff
+3503,6,O,Edward Patel
+3504,2,O,Link0306
+3505,3,O,Colin Taylor
+3506,40,O,Dave Crossland
+3507,15,O,Andreas Lappe
+3508,2,O,Jack Morrison
+3509,4,O,Miguel Gaiowski
+3510,2,O,Brandon Ferguson
+3511,3,O,Can Duruk
+3512,2,O,James Earl Douglas
+3513,1,O,Matt Lenz
+3514,6,O,David Czarnecki
+3515,1,O,Shaun Jackman
+3516,3,O,Charlie Allom
+3517,7,O,Jeff Hann
+3518,7,O,Luke Chadwick
+3519,4,O,Yannick Heinrich
+3520,20,O,Raymie Stata
+3521,3,O,Julian
+3522,1,O,Maxime Bacoux
+3523,2,O,Nico Galoppo
+3524,3,O,ben
+3525,2,O,dfang
+3526,8,O,David Peek
+3527,1,O,Jon Pither
+3528,6,O,Guillaume DIDIER
+3529,5,O,Muhaimin Ahsan
+3530,275,O,Stefan
+3531,19,O,Cyril Scetbon
+3532,4,O,Janusz Harkot
+3533,4,O,ari
+3534,2,O,Johannes Lieder
+3535,3,O,Marco Ceppi
+3536,22,O,Luke Petre
+3537,1,O,Jamin Kortegard
+3538,2,O,Thijs Alkemade
+3539,3,O,Jeroen Jacobs
+3540,4,O,Charles H. Leggett
+3541,2,O,Douglas F. Calvert
+3542,5,O,Chris Cosby
+3543,1,O,Frank McPherson
+3544,12,O,Gavin M. Roy
+3545,5,O,Nikolaus Wittenstein
+3546,10,O,Thomas Cioppettini
+3547,5,O,Michael Blakeley
+3548,1,O,Ilja Sidoroff
+3549,3,O,Pavel Sakun
+3550,1,O,Scott Klum
+3551,2,O,Rodrigo Flores
+3552,2,O,Jon Buffington
+3553,1,O,Erik Mossberg
+3554,1,O,Mathieu Lajugie
+3555,2,O,Joe Laws
+3556,3,O,Ingmar Hupp
+3557,14,O,Daniel Szmulewicz
+3558,4,O,Jeffrey Chupp
+3559,6,O,DusK
+3560,2,O,Mrinal Wadhwa
+3561,1,O,Chris Patuzzo
+3562,6,O,gnzlbg
+3563,1,O,ralph
+3564,7,O,Steve K
+3565,4,O,Ben Hale
+3566,1,O,Nate Todd
+3567,1,O,Dave Honneffer
+3568,4,O,Göran Gustafsson
+3569,3,O,Jan Jungnickel
+3570,1,O,borinquenkid
+3571,3,O,Blake Watters
+3572,4,O,Jonas
+3573,7,O,Evgeny Stepanischev
+3574,20,O,Eugene Jen
+3575,2,O,David Kreitschmann
+3576,2,O,jocar
+3577,2,O,Mike Hordecki
+3578,1,O,Robert Griebl
+3579,1,O,James Nachbar
+3580,4,O,Jordi Villar
+3581,2,O,David Gstir
+3582,2,O,Andrey
+3583,2,O,h416
+3584,1,O,Jonathan Sterling
+3585,2,O,Paul Blouët
+3586,2,O,Christer Solskogen
+3587,5,O,Fabian Hassler
+3588,1,O,Spencer Raypole
+3589,4,O,Le Wang
+3590,13,O,Christoffer Lund
+3591,7,O,Nikem
+3592,1,O,rpmbuild
+3593,1,O,Àngel Díaz Martí
+3594,4,O,Rinke Hoekstra
+3595,20,O,Alexander Surma
+3596,2,O,Brian McCallister
+3597,8,O,Bernhard Valenti
+3598,2,O,HLFH
+3599,2,O,Idan Warsawski
+3600,1,O,papa
+3601,4,O,Rob Hanlon
+3602,5,O,kronicd
+3603,1,O,Ivan Kovalisko
+3604,1,O,Ildar Karimov
+3605,4,O,Doug Goldstein
+3606,2,O,Michael Johnson
+3607,20,O,Peter Powell
+3608,1,O,Pasquale Boemio
+3609,1,O,☃ pitr
+3610,3,O,Seth Hillbrand
+3611,4,O,Schulze Thomas
+3612,1,O,Josh Johnson
+3613,2,O,Chris Peterson
+3614,1,O,Brian Cunnie and Michael Sierchio
+3615,2,O,Philip Bergen
+3616,2,O,Xavier Roche
+3617,1,O,Paul Belt
+3618,5,O,Sebastian Rabuini
+3619,4,O,Jeremy Daggett
+3620,1,O,Deepak
+3621,3,O,Alex Bukin
+3622,4,O,Ed Porras
+3623,5,O,Sebastian Haas
+3624,2,O,Mathieu Deletrain
+3625,2,O,Greg Haines
+3626,2,O,GodFather
+3627,2,O,Gordon Fontenot
+3628,2,O,Albert Puig
+3629,2,O,Lee Hambley
+3630,1,O,Stephen Loo
+3631,2,O,Adimir Colen
+3632,4,O,Matt Davis
+3633,2,O,Ethan Zhuang
+3634,2,O,Austin Ziegler
+3635,2,O,Peter Schneider
+3636,2,O,Yuxuan 'fishy' Wang
+3637,1,O,Will Meierjurgen Farr
+3638,1,O,John O Brickley
+3639,2,O,Scott Hulbert
+3640,8,O,Justin Pitts
+3641,1,O,Administrator
+3642,6,O,Daniel Hobson
+3643,2,O,Vítor Galvão
+3644,1,O,Gabriel Gilder
+3645,2,O,Ed Woodcock
+3646,10,O,Dustin Kirkland
+3647,1,O,Chris Kruger
+3648,2,O,Gregory Gerard
+3649,3,O,br
+3650,4,O,Ian Lancaster
+3651,2,O,Christopher Su
+3652,4,O,
+3653,2,O,Govinda Fichtner
+3654,4,O,Federico Hernandez
+3655,2,O,Andreas Teichrib
+3656,2,O,Stephen Eglen
+3657,2,O,Sato Motoki
+3658,4,O,Ryan Krug
+3659,1,O,Tomasz Zurkowski
+3660,1,O,Matt
+3661,2,O,Alex
+3662,8,O,Adam Kunicki
+3663,4,O,James Mills
+3664,3,O,Aubin Paul
+3665,1,O,Aubin Paul
+3666,2,O,Thomas
+3667,2,O,Keith
+3668,6,O,Nick Zavaritsky
+3669,8,O,Andrew Sharpe
+3670,2,O,stefan.kral
+3671,2,O,Dan Lazewatsky
+3672,2,O,Timothy Molinari
+3673,2,O,Xiaobo
+3674,2,O,Matt Lenz
+3675,1,O,Vadim Baryshev
+3676,16,O,Dimitri Krassovski
+3677,1,O,Matt Shen
+3678,5,O,Yurii Samsoniuk
+3679,2,O,ASPCartman
+3680,1,O,Thomas Markovich
+3681,3,O,drrb
+3682,2,O,HelgeG
+3683,4,O,Jonathan Wilkins
+3684,16,O,Thomas Strathmann
+3685,12,O,Thomas Strathmann
+3686,1,O,Fabio Neves
+3687,1,O,qwerty12
+3688,2,O,Jacob Howard
+3689,2,O,Bastien Dejean
+3690,1,O,System Administrator
+3691,1,O,David Hall
+3692,2,O,Roman Romanchuk
+3693,1,O,takano32
+3694,2,O,Christian Köstlin
+3695,2,O,bjoernhaeuser
+3696,4,O,Nothing. N. Nobody
+3697,5,O,Matt Croydon
+3698,6,O,Antonio Zanardo
+3699,13,O,Paul Phillips
+3700,4,O,Aaron Spiegel
+3701,3,O,Cory Sanoy
+3702,3,O,Sarkis Varozian
+3703,1,O,Tobias Müller
+3704,1,O,G. Helffrich (G4)
+3705,1,O,snovak
+3706,1,O,Tom White
+3707,4,O,Morris Feldman
+3708,3,O,Davide Guerri
+3709,11,O,Li Dong
+3710,4,O,Zsolt Dollenstein
+3711,11,O,Randy Thiemann
+3712,2,O,Ryan Neufeld
+3713,4,O,Alexander P.
+3714,1,O,Mark Rickert
+3715,1,O,Edgar S. H.
+3716,33,O,Yan Zhou
+3717,1,O,Jonas Wagner
+3718,1,O,Jay Kruer
+3719,19,O,Karsten Sperling
+3720,2,O,Rolf Timmermans
+3721,3,O,Timothy L Gilbert
+3722,1,O,Mark Aufflick
+3723,2,O,Daniel Rapp
+3724,2,O,Till Adam
+3725,16,O,pauldast
+3726,3,O,Mike Mueller
+3727,4,O,Roberto Esposito
+3728,3,O,David Marr
+3729,4,O,Andrew Mortensen
+3730,1,O,Peter Van Eynde
+3731,4,O,Pierre Carrier
+3732,12,O,Christian Mäder
+3733,3,O,Wiktor Schmidt
+3734,3,O,Johan Ekenberg
+3735,3,O,Matt Oakes
+3736,1,O,William Entriken
+3737,4,O,Yusuke Kawasaki
+3738,1,O,Daisuke (yet another) Maki
+3739,4,O,Xavier Lacoste
+3740,1,O,Matt D
+3741,4,O,Jonas B. Jensen
+3742,4,O,Nam Nguyen
+3743,5,O,Stefan Novak
+3744,4,O,Ian Dennis Miller
+3745,1,O,Administrator
+3746,1,O,Dirk Loeckx
+3747,1,O,Dave
+3748,7,O,saskathex
+3749,29,O,Lenny222
+3750,2,O,Alex Marten
+3751,2,O,David Samuelson
+3752,1,O,Ahmad Salim Al-Sibahi
+3753,5,O,Branko Čibej
+3754,3,O,Branko Čibej
+3755,2,O,Chuck Norris
+3756,2,O,Lorenzo Manacorda
+3757,2,O,Derek Poon
+3758,4,O,Ian Will
+3759,2,O,Xiao G. Wu
+3760,1,O,Vincent Lemaire
+3761,4,O,Joakim Stai
+3762,1,O,Agilio Padua
+3763,5,O,Chris Atkin
+3764,42,O,Gergo Erdosi
+3765,2,O,Rafe Colton
+3766,1,O,Nate Drake
+3767,9,O,HackDefendr
+3768,11,O,Paul Price
+3769,2,O,Jeremy Switzer
+3770,1,O,Ian Winter
+3771,2,O,Fernando Lemos
+3772,3,O,Colby Olson
+3773,1,O,Vitaly Gorodetsky
+3774,3,O,Gregory Petrosyan
+3775,8,O,Stig Brautaset
+3776,5,O,Janusz Harkot
+3777,1,O,kos
+3778,1,O,Josh Ourisman
+3779,3,O,Arild Shirazi
+3780,29,O,Matt Barnett
+3781,57,O,Fabio Utzig
+3782,56,O,Mcklaren
+3783,1,O,Tomasz Durka
+3784,3,O,Frank Schoenmann
+3785,12,O,Jake Bell
+3786,1,O,Chris Roos
+3787,1,O,Bernhard Wagner
+3788,3,O,c0nscience
+3789,9,O,Gary Wolfman
+3790,5,O,Dave Webb
+3791,1,O,Gary Wolfman
+3792,7,O,Konrad Rieck
+3793,2,O,ear
+3794,1,O,Ralf Waldvogel
+3795,2,O,Thomas Schreiber
+3796,2,O,Luca Attolini
+3797,1,O,Katsuhiro Ueno
+3798,2,O,Holger Buchholz
+3799,2,O,Zachary King
+3800,16,O,Ned Konz
+3801,3,O,Julian de Ruiter
+3802,2,O,Josiah Kiehl
+3803,2,O,Ideocl4st
+3804,2,O,Admin
+3805,2,O,Tuan Duc Nguyen
+3806,2,O,Julien Oster
+3807,2,O,Miles J. Crumley
+3808,2,O,Stanou49-01
+3809,2,O,philips.luke
+3810,2,O,Andrew Krawchyk
+3811,1,O,simon
+3812,2,O,Mark Cornick
+3813,7,O,Lukáš Marek
+3814,8,O,Squeeks
+3815,10,O,Thomas Bouve
+3816,2,O,David Waite
+3817,2,O,sugimoto
+3818,1,O,Sergey Yelin
+3819,1,O,Max Nordlund
+3820,2,O,Sihui Xu
+3821,10,O,Allen Huang
+3822,2,O,John Croisant
+3823,2,O,Kalin Harvey
+3824,2,O,stephen
+3825,5,O,McKay Marston
+3826,1,O,wakamori
+3827,5,O,Sven
+3828,2,O,Thomas Rix
+3829,1,O,uams
+3830,2,O,James Broadhead
+3831,2,O,Stephen Tudor
+3832,2,O,Volker Stolz
+3833,9,O,Henrik Sjökvist
+3834,1,O,indentman
+3835,2,O,Richard Petri
+3836,2,O,Raphael Fetzer
+3837,2,O,Clemens Gruber
+3838,2,O,Joel Reymont
+3839,1,O,Nicholas E. Rabenau
+3840,3,O,Danny Beard
+3841,3,O,Jamie Ly
+3842,2,O,Lasantha Kularatne
+3843,4,O,Ross Heflin
+3844,1,O,Ali Sabil
+3845,42,O,Tobias Steinhoff
+3846,6,O,Petar Radošević
+3847,3,O,Oleksii Taran
+3848,5,O,Theo Belaire
+3849,4,O,Rianol Jou
+3850,2,O,Jack Baty
+3851,4,O,Andrew Erickson
+3852,6,O,newzealandpaul
+3853,12,O,Robert Lenhardt
+3854,5,O,Robert Casties
+3855,3,O,Kent Chen
+3856,1,O,cassiano
+3857,3,O,Bill Welliver
+3858,4,O,Kolja Kube
+3859,9,O,kewagi
+3860,2,O,Fernando Paredes
+3861,1,O,kaolin fire
+3862,1,O,Blake Gardner
+3863,15,O,Gijs Molenaar
+3864,3,O,Christian Tietze
+3865,2,O,neersighted
+3866,2,O,John Calsbeek
+3867,2,O,Chris Moore
+3868,12,O,Patrick McLaughlin
+3869,6,O,Steve Mokris
+3870,1,O,Kerri Miller
+3871,1,O,Jason Salaz
+3872,1,O,Brandon Black
+3873,1,O,jens alexander ewald
+3874,1,O,Ehren Kret
+3875,1,O,Aaron Harnly
+3876,2,O,Thomas Bilk
+3877,13,O,Anthony Pearson
+3878,37,O,Keith Shaw
+3879,5,O,Gildas Cuisinier
+3880,4,O,John T. Foster
+3881,3,O,Henry Herman
+3882,1,O,Peteris Erins
+3883,3,O,Scott Phillips
+3884,1,O,Mathieu Baudet
+3885,1,O,Alexander Klute
+3886,3,O,hazz
+3887,7,O,Steven Scott
+3888,1,O,Clemens Gruber
+3889,2,O,Kevin Wallace
+3890,6,O,nibbles 2bits
+3891,3,O,Justin Holmes
+3892,10,O,Angel Pizarro
+3893,1,O,Michael Dwyer
+3894,2,O,Chiui Ong
+3895,2,O,Peter N. Steinmetz
+3896,3,O,Constantine Kim
+3897,26,O,Severin Smith
+3898,1,O,Arana
+3899,1,O,Aaron Brady
+3900,4,O,C Fraire
+3901,3,O,Maximilian Gaß
+3902,2,O,limed
+3903,1,O,Scott Renfro
+3904,5,O,Sascha Hanse
+3905,3,O,Nimish Telang
+3906,3,O,alexrp
+3907,2,O,Shane Cusson
+3908,1,O,Joshua Kolash
+3909,21,O,Dan Frankowski
+3910,12,O,Chris Rose
+3911,3,O,Thomas Pani
+3912,3,O,Brant Bobby
+3913,3,O,Jeff Clites
+3914,18,O,Sebastian Hegler
+3915,1,O,Thomas Post
+3916,4,O,Jeremie
+3917,3,O,Scott Wheeler
+3918,5,O,Christopher Gateley
+3919,2,O,skinny_much
+3920,2,O,Florian Maunier
+3921,3,O,Jamie Kirkpatrick
+3922,6,O,Martin Wilhelmi
+3923,2,O,Stephen Larew
+3924,2,O,Howard Butler
+3925,2,O,Clarence Silver
+3926,2,O,Justin Rudd
+3927,7,O,Hiroyuki Nakamura
+3928,2,O,Michael Heuer
+3929,2,O,Mirko Friedenhagen
+3930,1,O,Saku Rantamäki
+3931,1,O,Raymond Tau
+3932,2,O,Joseph Wayne Norton
+3933,1,O,Nikita Frolov
+3934,1,O,Gaz Liddon imac
+3935,58,O,Austin Seipp
+3936,4,O,akafred
+3937,2,O,Robert Rouse
+3938,4,O,Eduardo Kasa
+3939,3,O,John Wilkinson
+3940,1,O,Shahar
+3941,2,O,Devin Bayer
+3942,4,O,Devin Bayer
+3943,11,O,Alexander
+3944,2,O,Patrick Marchi
+3945,4,O,Devin Bayer
+3946,3,O,Brian Cunnie & Matthew Kocher
+3947,1,O,Andrii Kostenko
+3948,2,O,Jesse Beder
+3949,46,O,Luke Orland
+3950,3,O,Alex Payne
+3951,11,O,Jon Buffington
+3952,9,O,Daniel Geske
+3953,1,O,Alexey Korchevsky
+3954,1,O,Robert Baruch
+3955,3,O,Sebastian Ernst
+3956,2,O,Tryn Mirell
+3957,6,O,Godfrey van der Linden
+3958,5,O,John Lane
+3959,2,O,Sebastian Krysmanski
+3960,1,O,Richard Brown
+3961,1,O,Chas Leichner
+3962,2,O,Thomas Johansson
+3963,5,O,Simon
+3964,2,O,Ryoma Sin'ya
+3965,2,O,James Turner
+3966,2,O,DR
+3967,3,O,Alessandro Brandimarti
+3968,1,O,Ryan Sonnek
+3969,1,O,Filippo Giunchedi
+3970,35,O,rhysd
+3971,13,O,Martin Lau
+3972,4,O,quaa
+3973,2,O,Karsten Sperling
+3974,1,O,Karsten Sperling
+3975,2,O,Karsten Sperling
+3976,8,O,Clay McClure
+3977,2,O,Eddy
+3978,4,O,Dmitry Wolf
+3979,4,O,Waldemar Artes
+3980,2,O,iandol
+3981,6,O,Sandeep Pathivada
+3982,1,O,Cheng Guang-Nan
+3983,2,O,Cheng Guang-Nan
+3984,10,O,Pascal Bertrand
+3985,3,O,Chris Brinker
+3986,4,O,Sevki Hasirci
+3987,3,O,Simon Head
+3988,3,O,Sascha Teske
+3989,1,O,Patrick O'Doherty
+3990,1,O,Laurent
+3991,1,O,Sandro Sonntag
+3992,3,O,n0ts
+3993,2,O,Nic Eggert
+3994,1,O,Dor Fire
+3995,1,O,Dave Williams
+3996,2,O,Gabe McArthur
+3997,3,O,Adam Harvey
+3998,8,O,Søren Jørvang
+3999,9,O,Chris Ledet
+4000,6,O,Martin Wilhelmi
+4001,11,O,Nicolas Pinto
+4002,9,O,Ric Pruss
+4003,6,O,Andrew Kraut
+4004,2,O,Graham Berks
+4005,1,O,Gregor Robert Russbuelt
+4006,7,O,Motonori Iwata
+4007,2,O,Andrew Belt
+4008,5,O,Chris Cosby
+4009,2,O,Gudleik Rasch
+4010,6,O,Shawn Walker
+4011,3,O,Thomas William
+4012,2,O,pashkoff
+4013,11,O,Sundar Raman
+4014,15,O,Nicholas Harteau
+4015,2,O,Matthieu Dubet
+4016,8,O,Francesco Mosca
+4017,4,O,Ben Cochez
+4018,15,O,Nathan de Vries
+4019,3,O,Gianluca Brindisi
+4020,75,O,Robert Shaw
+4021,7,O,Yogesh Girdhar
+4022,3,O,Michael Huynh
+4023,3,O,Dusty Leary
+4024,2,O,Chen
+4025,4,O,Javier Muniz
+4026,11,O,Pedro Borges
+4027,4,O,Srinivasan Raguraman
+4028,2,O,Erkki Eilonen
+4029,4,O,Jay Lieske
+4030,4,O,Jacob Tolar
+4031,3,O,Carlton
+4032,1,O,John Palkovic
+4033,4,O,Devon Carew
+4034,3,O,Andrew
+4035,2,O,Julio Arias
+4036,2,O,Paul Lathrop
+4037,1,O,Bright Fulton
+4038,1,O,Hashem Nasarat
+4039,4,O,letorbi
+4040,1,O,Michael Decker
+4041,1,O,ysha
+4042,1,O,Peter Vlugter
+4043,3,O,Pavel "Uznick" Shvedov
+4044,244,O,janrito
+4045,6,O,Tuncer Ayaz
+4046,6,O,Mirek Rusin
+4047,15,O,Paul
+4048,27,O,Freddy Román
+4049,2,O,Mike Mayo
+4050,1,O,iXô
+4051,4,O,Eric Rauer
+4052,1,O,Gerald Boersma
+4053,24,O,Andy Christianson
+4054,12,O,Paul Wagland
+4055,4,O,Victor Volle
+4056,2,O,Eric Chen
+4057,9,O,tungolcraft
+4058,6,O,toggtc
+4059,2,O,narugami
+4060,7,O,Garrett Barboza
+4061,6,O,Trever Miller
+4062,5,O,Joe Rocklin
+4063,8,O,Christer Solskogen
+4064,1,O,Dan Oxlade
+4065,1,O,Markus Kalkbrenner
+4066,3,O,Dan Martinez
+4067,1,O,Chris Rushton
+4068,3,O,Silvio Henrique Ferreira
+4069,1,O,Shuen-Huei (Drake) Guan
+4070,4,O,Stevan Vučenović
+4071,13,O,Tim Vaughan
+4072,9,O,Crazor
+4073,4,O,Nelson Tam
+4074,5,O,Brandon Beck
+4075,4,O,Zach Langley
+4076,4,O,Albert Volkman
+4077,11,O,Ralf Stephan
+4078,12,O,Gabe Berke-Williams
+4079,1,O,Stanislav Grozev
+4080,5,O,Nils Caspar
+4081,1,O,De Groot
+4082,5,O,
+4083,3,O,David Sanson
+4084,3,O,Jan Anlauff
+4085,1,O,Mike Sun
+4086,25,O,Harald Fernengel
+4087,4,O,Ben Chatelain
+4088,6,O,Ken Mankoff
+4089,7,O,Robert Sanders
+4090,3,O,Ralph Rooding
+4091,1,O,Mitch Amiano
+4092,1,O,Roman Gaufman
+4093,3,O,Alex Ernst
+4094,3,O,Alastair Harrison
+4095,3,O,Joshua Stewart
+4096,2,O,Bryce \\"BonzoESC\\" Kerley
+4097,9,O,Adam Rudd
+4098,1,O,Darin Morrison
+4099,3,O,Alex-P. Natsios
+4100,1,O,Eugene Oden
+4101,2,O,Wyatt Neal
+4102,2,O,Steven Merrill
+4103,3,O,pencil
+4104,1,O,Ryan Ransford
+4105,1,O,cyberdork33
+4106,1,O,Matt U
+4107,13,O,Mathieu Jobin
+4108,10,O,Sigurd Høgsbro
+4109,5,O,Marc Schwieterman
+4110,1,O,System Administrator
+4111,7,O,Andrew J. Erickson
+4112,1,O,Chad Humphries
+4113,3,O,Wulfshade
+4114,4,O,Michael Barton
+4115,3,O,Scott Michael
+4116,2,O,Mars Lin
+4117,2,O,Jeremy Larkin
+4118,2,O,Adrian Rego
+4119,6,O,Markus Groß
+4120,15,O,Josh Wisenbaker
+4121,4,O,Bryan Cribbs
+4122,5,O,Artem Baguinski
+4123,9,O,Mike Conigliaro
+4124,4,O,Russ Posluszny
+4125,3,O,Mikołaj Siedlarek
+4126,23,O,Toni Menzel
+4127,25,O,n0ts
+4128,1,O,Caio Gondim
+4129,4,O,HASHIMOTO Ryota
+4130,4,O,Jussi Sarkkinen
+4131,3,O,Larry Staton Jr
+4132,1,O,Leah Xue
+4133,1,O,Nicholas Moe
+4134,1,O,Erlend Hamberg
+4135,4,O,Pedro Borges
+4136,2,O,Matthias Bauch
+4137,2,O,Ron White
+4138,43,O,Dennis Luxen
+4139,14,O,Walter McGinnis
+4140,7,O,Robin Heggelund Hansen
+4141,1,O,Michael Grinich
+4142,4,O,Julien Kirch
+4143,3,O,Tim Harper
+4144,4,O,Bobak Azarbayejani
+4145,3,O,
+4146,7,O,Jeremy D. Frens
+4147,1,O,Jennifer Smith
+4148,1,O,castFromVoidPtr
+4149,5,O,Kevin Y. Kim
+4150,2,O,Carmen Wick
+4151,3,O,Heiko Witte
+4152,3,O,Andrew Payne
+4153,3,O,Adios
+4154,7,O,Daniël de Kok
+4155,3,O,luozengbin
+4156,2,O,Ryan Johnston
+4157,1,O,Ryan Johnston
+4158,1,O,Giovanni Intini
+4159,1,O,Eric Bergstrom
+4160,6,O,Adam Vaughan
+4161,5,O,Victor Romero
+4162,1,O,Ashish Dixit
+4163,4,O,Juhani Simola
+4164,1,O,Bill Wernet
+4165,3,O,Govinda Fichtner
+4166,3,O,Valentin Sushkov
+4167,2,O,Niko Schwarz
+4168,1,O,Philippe Strauss
+4169,2,O,KKovacs
+4170,466,O,Lars
+4171,11,O,Bartosz Romanowski
+4172,5,O,Yacin Nadji
+4173,3,O,Marc
+4174,4,O,Antony Blakey
+4175,4,O,erase/rewind
+4176,2,O,Takuya Tozawa
+4177,2,O,Tim Snowhite
+4178,4,O,Matthew Kanwisher
+4179,3,O,Navin Peiris
+4180,3,O,rl-0x0
+4181,1,O,Adam Spooner
+4182,1,O,Ryan
+4183,2,O,Ryan
+4184,1,O,Duncan Keall
+4185,3,O,Christopher Groskopf
+4186,1,O,Elvis
+4187,3,O,Ole Weidner
+4188,1,O,Randy Secrist
+4189,1,O,Hugo Peixoto
+4190,4,O,Takahiro Noda
+4191,1,O,William R. Otte
+4192,5,O,J. Bromley
+4193,1,O,Joe Baldino
+4194,12,O,Joe Baldino
+4195,3,O,LT
+4196,18,O,n0ts
+4197,3,O,n0ts
+4198,2,O,Gian Basagre
+4199,2,O,Dennis Luxen
+4200,4,O,Matt Berryman
+4201,1,O,Dennis Luxen
+4202,1,O,Daniël de Kok
+4203,14,O,Vincent Beffara
+4204,1,O,Tristan Seligmann
+4205,14,O,Gerolf Seitz
+4206,5,O,Eliseo Papa
+4207,1,O,Piotr Banasik
+4208,5,O,Alex D.
+4209,5,O,Evan Bollig
+4210,2,O,Lucas Hoffmann
+4211,9,O,Daniel Bingham
+4212,4,O,Bryce Mecum
+4213,15,O,Bertrand Marron
+4214,4,O,bitter
+4215,2,O,Mark A. Miller
+4216,5,O,rhubarbs
+4217,7,O,Andreas Creten
+4218,4,O,Ben Mills
+4219,1,O,dave
+4220,1,O,Bram Swenson
+4221,2,O,Philippe GONCALVES
+4222,3,O,Alex Conner
+4223,5,O,Andrew Kane
+4224,1,O,Florian Störkle
+4225,3,O,erhudy
+4226,4,O,Paul Howes
+4227,2,O,Brian Collins
+4228,3,O,David Turnbull
+4229,1,O,Λlisue
+4230,3,O,Zac Lee
+4231,2,O,Joe Rumsey
+4232,2,O,Drew Olson
+4233,3,O,Christian Billen
+4234,7,O,Mykhailo Kotsur
+4235,1,O,Doug Jones
+4236,1,O,Konstantin
+4237,7,O,Justin Hahn
+4238,5,O,Parker K
+4239,3,O,Xiyue Deng
+4240,3,O,Ludwig Schwardt
+4241,6,O,Nick Barkas
+4242,3,O,Andy Christianson
+4243,4,O,Sean Russell
+4244,1,O,Osvaldo Santana Neto
+4245,3,O,Rory O'Connell
+4246,43,O,Michael Williams
+4247,3,O,Thiago Alessio
+4248,1,O,Kristofor Selden
+4249,7,O,Todd Lee
+4250,1,O,Charlie Sharpsteen
+4251,3,O,Jeff Putsch
+4252,2,O,Andrew Vos
+4253,1,O,Chip Turner
+4254,1,O,Peter Baker
+4255,1,O,Luke Chadwick
+4256,10,O,Mario Lassnig
+4257,2,O,Paul Kieckhefen
+4258,1,O,pslizer
+4259,2,O,James Spencer
+4260,3,O,David Shere
+4261,2,O,Ben
+4262,3,O,Dean Hall
+4263,3,O,seb
+4264,1,O,BJ Dierkes
+4265,2,O,Mary
+4266,1,O,Drew Tempelmeyer
+4267,1,O,m
+4268,2,O,Alastair Porter
+4269,5,O,irh
+4270,1,O,PsyCow
+4271,9,O,Jorge Luis Mendez
+4272,1,O,Adam Hitchcock
+4273,2,O,moumar
+4274,1,O,Vadim Alimguzhin
+4275,2,O,Geoffrey Giesemann
+4276,2,O,Jeff Putsch
+4277,5,O,Wim
+4278,2,O,지현준
+4279,5,O,Ferdinand Niedermann
+4280,5,O,Will Tisdale
+4281,2,O,Mark Szymanski
+4282,8,O,Jakob van Santen
+4283,7,O,Jakob van Santen
+4284,1,O,Jakob van Santen
+4285,1,O,Jakob van Santen
+4286,2,O,Cyghost
+4287,1,O,Marc A. Kastner
+4288,81,O,Robbie Shade
+4289,1,O,sandme
+4290,4,O,Leo Romanovsky
+4291,4,O,Will Harris
+4292,2,O,Gordon Child
+4293,2,O,Jeremy
+4294,5,O,Andrew Barna
+4295,1,O,John Schulz
+4296,3,O,Dominic Evans
+4297,1,O,Leo Romanovsky
+4298,4,O,Paul Howes
+4299,1,O,Carlos Perez
+4300,2,O,Carlos Perez
+4301,1,O,François Garillot
+4302,1,O,Ryan Senkbeil
+4303,2,O,Ryan Senkbeil
+4304,1,O,Hiber Shi
+4305,4,O,Gijs Molenaar
+4306,1,O,Gijs Molenaar
+4307,3,O,Moritz Bitsch
+4308,6,O,Chia-Wei Yeh
+4309,1,O,Zein Wali
+4310,2,O,Adam Blinkinsop
+4311,2,O,Daniel Öberg
+4312,4,O,Thomas Børlum
+4313,6,O,Jon Cooper
+4314,12,O,Taybin Rutkin
+4315,87,O,Bastian Bechtold
+4316,4,O,Christian Inzinger
+4317,3,O,Alexei
+4318,1,O,Evan Travers
+4319,5,O,Dave Turnbull
+4320,1,O,ozgur
+4321,307,O,Thomas Gustafsson
+4322,4,O,Fabiano Sobreira
+4323,26,O,Mathias Laurin
+4324,7,O,Ronaldo M. Ferraz
+4325,3,O,Andre de Santi Oliveira
+4326,3,O,Tarrant
+4327,62,O,George Kulakowski
+4328,12,O,geistteufel
+4329,3,O,Ray Slakinski
+4330,9,O,Vladimir Andrijevik
+4331,1,O,Dave Lyon and Joshua Davey
+4332,2,O,Aleksandar Rodic
+4333,2,O,Link Dupont
+4334,1,O,Biju Punalor
+4335,6,O,Ilya Strukov
+4336,2,O,Charles Couillard
+4337,2,O,Joseph Hallett
+4338,2,O,antoinecomte
+4339,1,O,min-jun park
+4340,1,O,tim
+4341,3,O,Gabor Ratky
+4342,3,O,Stefan Kersten
+4343,1,O,Mitsuhiro Setoguchi
+4344,1,O,Kevin Clark
+4345,2,O,JR Boyens
+4346,1,O,Moritz Ulrich
+4347,1,O,Ajit George
+4348,1,O,Gabe Smedresman
+4349,3,O,Ivan Meredith
+4350,2,O,Fernando Ribeiro
+4351,2,O,Steven Kallstrom
+4352,4,O,Chris Gibson
+4353,15,O,Diego de Estrada
+4354,1,O,Marnen
+4355,1,O,David Farler
+4356,1,O,Stephen Sugden
+4357,2,O,Huy
+4358,1,O,Daniel Da Cunha
+4359,2,O,Julian Eberius
+4360,3,O,Dennis Groves
+4361,9,O,Jake Bell
+4362,3,O,Olle Lundberg
+4363,2,O,complex
+4364,1,O,Jelle Schühmacher
+4365,2,O,edwardsmit
+4366,2,O,Justin Mecham
+4367,4,O,Nick Dowell
+4368,7,O,Ian
+4369,6,O,Duncan Grazier
+4370,7,O,Steven Oliver
+4371,10,O,Miguel Martins
+4372,4,O,Paul Chakravarti
+4373,2,O,Alain O'Dea
+4374,1,O,Matt Di Pasquale
+4375,2,O,Peter Host
+4376,1,O,Fedor
+4377,1,O,Travis Vachon
+4378,21,O,Armando Di Cianno
+4379,2,O,Jesse Lovelace
+4380,6,O,bmehaffey
+4381,1,O,Shawn Lee-Kwong
+4382,6,O,Felipe Cuozzo
+4383,5,O,Antonio Carlos da Graça Mota Durão de Souza
+4384,1,O,Frank J. Cameron
+4385,3,O,Karsten Gebbert
+4386,1,O,Will Tisdale
+4387,1,O,Iandol
+4388,6,O,Ryan Kee
+4389,1,O,cxx
+4390,1,O,xdite
+4391,1,O,Aiden Scandella
+4392,1,O,benjamin fleischer
+4393,1,O,Matthew Conway
+4394,2,O,Rowan Seymour
+4395,1,O,Dan Erik Meliá Petersen
+4396,1,O,Cameron Dykes
+4397,2,O,Tom MacWright
+4398,1,O,Maxime Brugidou
+4399,1,O,Benjamin Cremer
+4400,1,O,Gawin Dapper
+4401,3,O,reporter123
+4402,1,O,daniele
+4403,7,O,Max Klinger
+4404,1,O,Roger Lopez
+4405,1,O,Cedric Ohle
+4406,4,O,Srdjan Pejic
+4407,1,O,Mark Anderson
+4408,1,O,Jon Rosebaugh
+4409,2,O,seanerussell@gmail.com
+4410,5,O,Alexey Palazhchenko
+4411,1,O,Rob Moss
+4412,2,O,i0rek
+4413,41,O,Vidar Gundersen
+4414,1,O,Nicolas Bouillon
+4415,14,O,Max Howell
+4416,10,O,Austin Dworaczyk Wiltshire
+4417,2,O,Scott Robinson
+4418,4,O,Kelemen Viktor
+4419,3,O,Jakub Turski
+4420,1,O,Jeffrey Long
+4421,5,O,Elizabeth Ryan
+4422,1,O,Barry Allard
+4423,5,O,David Gageot
+4424,44,O,William Roe
+4425,3,O,Stephen Pedrosa Eilert
+4426,7,O,Bastien Dejean
+4427,2,O,David J. Weller-Fahy
+4428,2,O,Salvatore Denaro
+4429,1,O,Don Spaulding
+4430,1,O,ggironda
+4431,4,O,Lukasz Balcerzak
+4432,11,O,Henry Jekyll
+4433,1,O,Ben Loveridge
+4434,3,O,Ashley McKenzie
+4435,3,O,Blake Sweeney
+4436,2,O,Robert S Ciaccio
+4437,1,O,Frederico Benevides
+4438,4,O,Sam Dengler
+4439,6,O,Hanxue
+4440,2,O,Pavel Lazureykis
+4441,1,O,Lauri Hahne
+4442,6,O,Alan Harper
+4443,4,O,Drew Miller
+4444,8,O,Chris
+4445,1,O,Claes Mogren
+4446,1,O,Jihyun Cho
+4447,2,O,Peter Aronoff
+4448,4,O,Duke Dorje
+4449,2,O,Will Froning
+4450,28,O,left4pook
+4451,1,O,Sebastian Skalacki
+4452,1,O,Kaid Wong
+4453,1,O,Jamie van Dyke
+4454,1,O,Craig S. Bosma
+4455,1,O,Sean O'Connor
+4456,1,O,Deepu Sud
+4457,1,O,Chris
+4458,2,O,System Administrator
+4459,2,O,Ed Brannin
+4460,1,O,Austin Seipp
+4461,2,O,Andrew Marshall
+4462,9,O,Mark L. Chang
+4463,10,O,Austin Ziegler
+4464,2,O,blast_hardcheese
+4465,3,O,Mathias Laurin
+4466,1,O,Florian Maunier
+4467,1,O,Gavin James
+4468,1,O,Brian Sniffen
+4469,1,O,John MacKenzie
+4470,1,O,Opticka
+4471,2,O,rjs
+4472,2,O,Ugo Landini
+4473,2,O,Βασίλης
+4474,2,O,John Watson
+4475,1,O,Patrick Otto
+4476,1,O,Chris Horn
+4477,2,O,kirneh1986
+4478,2,O,Philipp
+4479,1,O,Ralf Weinbrecher
+4480,2,O,Stephan Uhle
+4481,5,O,Philipp
+4482,4,O,Blake Taylor
+4483,1,O,Aria Stewart
+4484,1,O,igorette
+4485,1,O,Deon Garrett
+4486,2,O,swdyh
+4487,1,O,Stefan Kersten
+4488,1,O,Benjamin Fleischer
+4489,1,O,Blaise Bourdin
+4490,5,O,Ziyad Saeed
+4491,2,O,Markus Groß
+4492,1,O,Jelle Helsen
+4493,14,O,Michael Morgan
+4494,1,O,tildebyte
+4495,143,O,Sean Wilkinson
+4496,1,O,Steve Robertson
+4497,4,O,Johan Pauwels
+4498,1,O,Balint Domokos
+4499,1,O,Jeff Putsch
+4500,4,O,patricks
+4501,6,O,Tobias Steinhoff
+4502,1,O,Tim
+4503,12,O,Alexey
+4504,59,O,Marc Nijdam
+4505,1,O,Markus Hubig
+4506,1,O,Matt Kern
+4507,2,O,gbrsales
+4508,2,O,Duncan
+4509,2,O,David Marquis
+4510,2,O,Michael Brunton-Spall
+4511,6,O,Will White
+4512,1,O,Your Name
+4513,3,O,MIYAMUKO Katsuyuki
+4514,2,O,Peter Schneider
+4515,1,O,Bernhard Haslhofer
+4516,1,O,David Martinez
+4517,3,O,Turadg Aleahmad
+4518,1,O,Turadg Aleahmad
+4519,2,O,Marcelino Llano
+4520,1,O,Scott Kyle
+4521,15,O,Sergio Rubio
+4522,1,O,Stefano Pigozzi
+4523,1,O,caf
+4524,4,O,Andrew Wellington
+4525,1,O,Paul Leonard
+4526,9,O,Pavel Zavyalov (transferred)
+4527,1,O,Christopher
+4528,4,O,Jonathon L Duckworth
+4529,1,O,Stoned Elipot
+4530,1,O,Scott Gonyea
+4531,2,O,Sergey Tikhomirov
+4532,1,O,Adeh Desandies
+4533,2,O,Björn Brandenburg
+4534,2,O,Jonny Gerold
+4535,1,O,Durran Jordan and Paul Elliott
+4536,1,O,seb
+4537,6,O,Sixten Otto
+4538,1,O,takumi
+4539,1,O,Hugues Lismonde
+4540,2,O,InterNet Inc.
+4541,3,O,Jens Abraham
+4542,1,O,Georg Kreimer
+4543,1,O,Luke Amdor
+4544,1,O,Keith Batten
+4545,2,O,Robert Boone
+4546,1,O,Graham Hughes
+4547,4,O,Steven Erhart
+4548,3,O,maxgalbu
+4549,1,O,Tim Peters
+4550,2,O,Andreas Teichrib
+4551,1,O,ttakuru88
+4552,4,O,Pedro Araújo
+4553,2,O,Pieter de Bie
+4554,1,O,Chris Trevino
+4555,2,O,Zach Metzinger
+4556,2,O,Tucker DeWitt
+4557,9,O,Dan Hughes
+4558,3,O,Jeff Mitchell
+4559,2,O,Roman Romanchuk
+4560,1,O,Drew Fisher
+4561,2,O,Klas Lindfors
+4562,1,O,Hans Stimer
+4563,1,O,Peter Strand
+4564,3,O,Fernando David Irías Escher
+4565,1,O,Kent Karlsson
+4566,1,O,Tobias Kirschstein
+4567,2,O,Guohui Xiao
+4568,1,O,MrmacHD
+4569,2,O,Félix Saparelli
+4570,2,O,Jamie Snape
+4571,1,O,Aristotle Pagaltzis
+4572,1,O,Fernando Ortiz
+4573,1,O,Julio Greff
+4574,2,O,Tsukasa ŌMOTO
+4575,1,O,Peter Kristensen
+4576,1,O,Wolf Bublitz
+4577,3,O,Michal Bendowski
+4578,4,O,Ajai Khattri
+4579,2,O,Alastair Paterson
+4580,3,O,Manuel Barros Reyes
+4581,1,O,caoxg
+4582,2,O,Mirek Rusin
+4583,1,O,Feng
+4584,1,O,tmf
+4585,4,O,Johan Tjelldén
+4586,1,O,AYUkawa\,Yasuyuki
+4587,2,O,Manuel Mayr
+4588,1,O,mdamjanic7
+4589,1,O,Ryan
+4590,2,O,Casper Thomsen
+4591,1,O,Eric Windisch
+4592,1,O,Joachim Bengtsson
+4593,6,O,Eugene San (eugenesan)
+4594,1,O,Matthew Kenny
+4595,1,O,Alexandre Porcelli
+4596,1,O,Jeremy Morgan
+4597,8,O,Gabriel Falcão
+4598,1,O,System Administrator
+4599,1,O,Alexandre Magno
+4600,3,O,Alexandre Magno Teles Zimerer
+4601,1,O,Markus Goetz
+4602,1,O,Spencer Ewall
+4603,4,O,Arkadi
+4604,1,O,William Zajac
+4605,2,O,Rolf
+4606,2,O,porcupo
+4607,26,O,KOMATSU Seiji
+4608,3,O,Mateusz Gajewski
+4609,1,O,Lawrence Akka
+4610,1,O,sinzui
+4611,2,O,Michelangelo De Simone
+4612,2,O,David Stoker
+4613,1,O,Christopher Moeller
+4614,2,O,Yasuhiro Kunimoto
+4615,2,O,Kerim Kaylan
+4616,1,O,fal4
+4617,1,O,Tao Wu
+4618,1,O,Daniel Martín
+4619,2,O,Suguru Namura
+4620,2,O,Asterism
+4621,1,O,Vaidas Damoševičius
+4622,2,O,Vitaliy Gladkevitch
+4623,5,O,Andrei Polushin
+4624,1,O,Joe Grund

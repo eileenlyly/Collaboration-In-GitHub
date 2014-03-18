@@ -1,0 +1,47 @@
+body {
+    overflow: auto;
+    background-color: #424242;
+}
+div.tooltip {
+    position: absolute;			/* reference for measurement */
+    text-align: left;
+    background: #FFFFEF;
+    margin-right: 50px;
+    width: 400px;
+    height: 150px;
+    padding: 10px;
+    border: 1px solid #D5D5D5;
+    font-family: arial,helvetica,sans-serif;
+    font-size: 1.1em;
+    border-radius: 3px;
+    background: rgba(255,255,255,0.9);
+    color: #000;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+    opacity: 0;
+}
+
+
+div.tooltip_header {
+    text-align: left;
+    font-size: 15px;
+    margin-bottom: 2px;
+    color:#000;
+    text-align:center;
+}
+
+div.header-rule{
+    height:1px;
+    margin:1px auto 3px;
+    margin-top:7px;
+    margin-bottom:7px;
+    background:#ddd;
+    width:125px;
+}
+
+div.tooltip_header1{
+    font-size: 12px;
+    margin-bottom: 2px;
+    color:#000;
+    text-align:center;
+}
+
